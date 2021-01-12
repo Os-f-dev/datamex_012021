@@ -1,0 +1,21 @@
+1. echo Hello World
+2. mkdir new_dir
+3. rm -rf new_dir
+4. cp sed.txt lorem-copy
+5. cp lorem/at.txt lorem-copy| cp lorem/lorem.txt lorem-copy NOTA: | O ; same thing
+6. cat sed.txt
+7. cat lorem.txt ; cat at.txt
+8. head -n 3 sed.txt
+9. tail -n 3 sed.txt
+10. echo ' Homo homini lupus'>>>sed.txt
+11. tail -n 3 sed.txt
+12. sed 's/et/ET/' at.txt
+13. whoami
+14. pwd
+15. sed -i 's/et/ET/' at.txt
+16. ls *.txt
+17. cat sed.txt | wc -l sed.txt
+18. ls lorem | wc -l
+19. grep -w "et" at.txt
+20. grep -n -w -c "et" at.txt
+21. grep -r -c "et"
