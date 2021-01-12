@@ -1,0 +1,31 @@
+echo "Hello World"
+mkdir new_dir
+rmdir new_dir
+cp ./lorem/sed.txt ./lorem-copy/sed.txt
+cp ./lorem/at.txt ./lorem-copy/at.txt ; cp ./lorem/sed.txt ./lorem-copy/lorem.txt
+cat ./lorem-copy/sed.txt
+cat ./lorem-copy/at.txt ; cat ./lorem-copy/lorem.txt
+head -n3 ./lorem-copy/sed.txt
+tail -n3 ./lorem-copy/sed.txt
+echo " Homo homini lupus" >>  ./lorem-copy/sed.txt
+tail -n3 ./lorem-copy/sed.txt
+sed -i -e 's/et/ET/g'  ./lorem/at.txt ; cp  ./lorem/at.txt ./lorem-copy/at.txt
+whoami
+pwd
+ls *.txt ./lorem/
+cat ./lorem/sed.txt | wc -l 
+ls -R ./lorem | grep -v / | grep 'lorem*'  | wc -l
+grep --color -i -oP 'et'  ./lorem/at.txt
+grep  -i -oP 'et'  ./lorem/at.txt | wc -l
+grep  -i -oP 'et'  ./lorem-copy/*.txt | wc -l
+
+#bonus 
+read -p "Ingresa tu nombre: " name
+echo $name
+mkdir $name
+rmdir $name
+for filename in ./lorem/*; do 
+    echo $filename | sed 's:./lorem/::' ;
+    echo "Cantidad de caracteres "  ;
+    echo $filename | sed 's:./lorem/::'| tr -d '\n' |  wc -m ;
+done
