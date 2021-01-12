@@ -1,0 +1,48 @@
+echo "Hello World"
+
+mkdir new_dir
+
+rm -rf new_dir
+
+cp lorem/sed.txt lorem-copy/sed.txt
+
+cp lorem/at.txt lorem-copy/at.txt ; cp lorem/lorem.txt lorem-copy/at.txt
+
+cd lorem; cat sed.txt 
+
+cat at.txt ; cat lorem.txt
+
+cd ..
+
+cd lorem-copy; head -n 3 sed.txt
+
+tail -n 3 sed.txt
+
+echo "Homo homini lupus." >> sed.txt
+
+tail -n 3 sed.txt
+
+cd..
+
+cd lorem ; sed -i -e 's/et/ET/g' at.txt ; cd .. ;  cp lorem/at.txt lorem-copy/at.txt
+ 
+
+whoami
+
+pwd
+
+cd lorem ; find . -name "*.txt"
+
+cat sed.txt | wc -l
+
+
+cd .. ; ls lorem | wc -l
+
+
+cd lorem ; grep -i --color 'et' at.txt
+
+
+grep -i 'et' at.txt | wc -l 
+
+cd .. ; cd lorem-copy ; grep -i 'et' * | wc -l
+
