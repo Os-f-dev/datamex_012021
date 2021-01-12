@@ -1,1 +1,27 @@
 Hello World
+$ mkdir new_dir
+$ rm -r new_dir
+$ cp lorem/sed.txt lorem-copy
+$ cp lorem/at.txt lorem-copy; lorem/lorem.txt lorem-copy
+$ cd lorem/
+$ cat sed.txt
+$ cat at.txt
+$ cat lorem.txt
+$ cd ..
+$ cd lorem-copy/
+$ head -3 sed.txt
+$ tail -3 sed.txt
+$ echo " Homo homini lupus" >> sed.txt
+$ ‘s/et/ET/’ lorem-copy/sed.txt
+$ whoami
+$ pwd
+$ ls -l
+$ cd ..
+$ cd lorem/
+$ cat|wc -l sed.txt
+$ grep -i lorem lab-bash/
+$ grep -i lorem lorem/
+$ grep -i lorem lorem-copy/
+$ grep -i et lorem/at.txt | wc -l
+$ grep -i et lorem/at.txt | wc -l et
+$ wc -i et lorem-copy/
