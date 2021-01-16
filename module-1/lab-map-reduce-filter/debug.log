@@ -1,0 +1,2 @@
+[0115/094521.565:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[0115/204405.931:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\cyn_n\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\41da1591-5328-4632-84ba-3878386e3829: El sistema no puede encontrar la ruta especificada. (0x3)
