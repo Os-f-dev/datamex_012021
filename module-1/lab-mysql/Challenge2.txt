@@ -1,0 +1,44 @@
+/*CREATE DATABASE lab_mysql;
+USE lab_mysql;
+
+CREATE TABLE customer
+ (
+ customer_id INT(20),
+ p_name VARCHAR(15),
+ phone INT(20),
+ email NVARCHAR(10),
+ code_postal VARCHAR(20),
+ PRIMARY KEY (customer_id)
+ );/*
+ 
+ CREATE TABLE sales_persone
+ (
+ sales_id INT(20),
+ p_name VARCHAR(15),
+ phone INT(20),
+ email NVARCHAR(10),
+ code_postal VARCHAR(20),
+ customer_id INT(20),
+ PRIMARY KEY (sales_id)
+ );/*
+ 
+ CREATE TABLE cars
+ (
+ car_id INT(20),
+ Model VARCHAR(15),
+ year INT(5),
+ color VARCHAR(10),
+ customer_id INT(20),
+sales_id INT(20),
+ PRIMARY KEY (car_id)
+ );
+ 
+  CREATE TABLE invoice
+ (
+ invoice_id INT(20),
+ date DATE,
+ car_id INT(20),
+ sale_id INT(20),
+ customer_id INT(20),
+ PRIMARY KEY (invoice_id)
+ ); /*

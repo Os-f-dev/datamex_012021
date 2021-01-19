@@ -1,0 +1,32 @@
+ INSERT INTO customer 
+VALUES (1,'oriol', 12345,'orio_@domain',222),
+(2, 'Gamez', 23345,'gomes_in@domain',333),
+(3, 'Rio', 88888,'reo@domain',444),
+(4, 'Fio', 45678,'fio@domain',665),
+(5, 'Sun', 12368,"rei@domain",752),
+(6, 'Lau', 12345, 'lgar@domain',248);
+
+ INSERT INTO cars 
+VALUES (1,'Tiguan', 2001,'rojo',2,2),
+(2, 'Rifter', 2002,'azul',3,3),
+(3, 'Fusion', 2003,'negro',4,4),
+(4, 'RAV4', 2005,'amarillo',6,5),
+(5, 'V60', 2003,"naranja",5,2),
+(6, 'Country', 2009, 'oro',2,4);
+
+INSERT INTO sales_persone 
+VALUES (1,'ornico', 12345,'orioc_@domain',222,6),
+(2, 'Gonza', 23345,'gonza_in@domain',333,1),
+(3, 'Royer', 88888,'loret@domain',444,2),
+(4, 'Fabio', 45678,'fab@domain',665,1),
+(5, 'Sale', 12368,"in_6@domain",752,2),
+(6, 'Loren', 12345, 'loy23@domain',248,2
+
+ INSERT INTO invoice 
+VALUES (1,'2013-03-29', 2,2,2),
+(2, '2013-03-29', 3,3,3),
+(3, '2013-03-29', 4,4,4),
+(4, '2013-03-29', 5,6,5),
+(5, '2013-03-29', 3,5,2),
+(6, '2013-03-29', 6,2,4);
+
