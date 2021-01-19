@@ -1,14 +1,15 @@
-
+#funicón Enter Intruccion: Basicamente está creada para darte la bienvendia al juego y a las instrucciones.
 def enter_instr():
     enter = ''
     while enter !=1:
+        #Obliga a que solo pueda iniciar con 1
         enter = int(input("Presiona 1 para darte las instrucciones del juego Pare o None: "))
         if enter == 1:  
             instrucc()
         else:
             print(" ----------EY!!!----ES 1------------ ")
     
-
+#Función para las instrucciones
 def instrucc():
     print("""
     
@@ -29,21 +30,23 @@ def instrucc():
                  5. completaremos 3 Rondas, jugaremos 3 para ganar dos!!!
                     
                                            Vamos a jugar """)
-    ent_conti()
+    ent_conti() #llamo la funcion(enter_cont) para continuar con el juego
 
-
+#Funcion para continuar en cada paso del juego
 def ent_conti():
     PL = ''
     while PL !=1:
+        #Obliga a que el jugador solo presione el numero 1
         PL = int(input("Presiona 1 para Continuar "))
         if PL == 1: 
             pass
         else:
             print("     ----------EY!!!----ES 1------------ ")
 
-
+#función para solicitarle al jugador su apuesta(Pare o None)
 def valorpn():
     val=''
+    #obliga a que solo sea "P" ó "N", sin importar si es mayuscula o minuscula
     while  ((val != 'p')  &  (val != 'n')):
         val= input("""             Ingrese su apuesta... Pare o none (P ó N ) """)
         val = val.lower()
@@ -54,9 +57,10 @@ def valorpn():
              
     return val
 
-
+#funcion para almacenar el valor que ingresará el jugador 
 def valornm():
     n1=0
+    #lo obliga a que solo sea del 1 al 5
     n1= int(input("             Ingrese un número del 1 al 5 :  "))
     if ((n1 == 1) | (n1 == 2) | (n1 == 3) | (n1 == 4) | ( n1 == 5) ):
         pass
@@ -64,17 +68,18 @@ def valornm():
         print("     ----------EY!!!----ES UN NÚMERO ENTRE 1 Y 5------------ ")
     return n1
 
-
+#Desarrollo del juego
 def juego():
     import random
-    puntos_jugador = 0
-    puntos_maq = 0
+    puntos_jugador = 0 #puntos que almacenará el jugador
+    puntos_maq = 0 #puntos que almacenará la maquina
     ronda = 1
     while ((puntos_jugador!=20) & (puntos_maq !=20)):
         val= valorpn()
         njug = valornm()
-        nmaq = random.randint(1,5)
-        resul= njug + nmaq
+        nmaq = random.randint(1,5) #Numero Aleatorio de la maquina
+        resul= njug + nmaq #suma de los dos valores
+        #se comienza a realizar las condiciones dependiendo de los valores que ingresó el jugador
         if val == 'p':
             if resul % 2 == 0:
                 puntos_jugador = puntos_jugador + 10
@@ -107,6 +112,7 @@ def juego():
     else:
         exit()
 
+#Inicio del juego
 def playgame():
     enter_instr()
     juego()
