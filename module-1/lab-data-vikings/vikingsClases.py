@@ -4,7 +4,7 @@
 
 class Soldier:
     pass
-
+    # salud y fuerza
 # Viking
 
 
