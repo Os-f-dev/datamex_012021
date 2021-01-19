@@ -1,0 +1,87 @@
+create database Autos;
+
+
+use Autos;
+
+
+
+drop table clientes;
+
+
+
+CREATE TABLE automovil(id int(100) not null , vin varchar(30) primary key not null , fabricante VARCHAR(30),
+modelo VARCHAR(30), 
+año int(4), color char(20));
+
+
+
+CREATE TABLE clientes (id int(100) not null, id_clte varchar(30) primary key not null , 
+
+nombre CHAR(30),num_tlf VARCHAR(30), correo VARCHAR(40), direcc VARCHAR(100), ciudad char(20), estado char(20), 
+pais char(15),codigo_postal int(10));
+
+
+
+
+CREATE TABLE vendedores( id int(100) not null, id_personal int(10) primary key not null, nombre char(15), tienda char(20));
+
+
+
+
+
+CREATE TABLE facturas (id int(100)not null, nro_fact int(15) primary key not null,
+fecha date, autom varchar(20), nom_clte char(20), 
+nom_vend char(20));
+
+
+
+
+
+insert into automovil (id,vin,fabricante,modelo,año,color) 
+values("0","3K096I98581DHSNUP","Volskwagen","Tiguan","2019","Blue"),
+
+("1","ZM8G7BEUQZ97IH46V","Peugeot","Rifter","2019","Red"),
+("2","RKXVNNIHLVVZOUB4M","Ford","Fusion","2018","White"),
+
+("3","HKNDGS7CU31E9Z7JW","Toyota","RAV4","2018","Silver"),
+("4","DAM41UDN3CHU2WVF6","Volvo","V60","2019","Gray");
+
+
+
+
+
+
+insert into clientes (id,id_clte,nombre,num_tlf,correo,direcc,ciudad,estado,pais,codigo_postal) 
+
+values ("0","10001","Pablo Picasso","+34 636 17 63 82","-","Paseo de la chopera, 14","Madrid","Madrid","Spain","28045"),
+
+("1","20001","Abraham Lincoln","+1 305 907 7086","-","120 SW 8th St","Miami","Florida","Estados Unidos","33130"),
+
+("2","30001","Napoleón Bonaparte","+33 1 79 75 40 00","-","40 rue du Colisée","Paris","Isla de Francia","Francia","75008");
+
+
+
+insert into vendedores(id,id_personal,nombre,tienda)
+
+values("0","00001","Petey Cruiser","Madrid"),
+("1","00002","Anna Sthesia","Barcelona"),
+
+("2","00003","Paul Movile","Berlín"),
+("3","00004","Gail Forcewind","Paris"),
+
+("4","00005","Paige Turner","Mimia"),
+("5","00006","Bob Frapples","Mexico City"),
+
+("6","00007","Walter Melon","Amsterdam"),
+("7","00008","Shonda Leer","São Paulo");
+
+
+
+insert into facturas(id,nro_fact,fecha,autom,nom_clte,nom_vend) 
+values
+("0","852399038","2018-08-22","0","1","3"),
+
+("1","731166526","2018-12-31","3","0","5"),
+
+("2","271135104","2019-01-22","2","2","7");
+
