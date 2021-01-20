@@ -1,0 +1,13 @@
+-- lab 2
+create temporary table parcial-sales
+select title_id, au_id, price*qty*(royalty/100)*(royaltyper/100) as sales_royalty 
+from ( select au.au_id, tiau royaltyper, sa.title, ti.price, ti.royalty, sa.ord_num, sa.qty
+			from sales as sa
+            inner join titles as ti
+            on sa.title_id = ti.title_id
+            inner join titleauthor as tiau
+            on ti.title_id = tiau.title_id
+            inner join authors as au
+            on tiau.au_id = au.au_id
+	 ) as my_data
+order by au_id desc
