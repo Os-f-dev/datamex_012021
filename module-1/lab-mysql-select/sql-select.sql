@@ -18,4 +18,4 @@ on ta.title_id = t.title_id
 inner join publishers as p
 on  t.pub_id = p.pub_id
 GROUP BY a.au_id, a.au_lname, a.au_fname,  p.pub_name
-ORDER by a.au_id DESC, p.pub_name DESC;
+ORDER by a.au_id DESC, p.pub_name DESC ;
