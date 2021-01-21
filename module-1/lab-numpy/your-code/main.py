@@ -1,82 +1,115 @@
 #1. Import the NUMPY package under the name np.
 
-
+import numpy as np
 
 #2. Print the NUMPY version and the configuration.
 
-
+print("version:\n",np.__version__)
+print("configuración:\n",np.show_config())
 
 #3. Generate a 2x3x5 3-dimensional array with random values. Assign the array to variable "a"
 # Challenge: there are at least three easy ways that use numpy to generate random arrays. How many ways can you find?
 
+print("sólo encontré una XD\n")
+a = np.random.random((2,3,5))
 
 
 #4. Print a.
-
+print("a:\n",a)
 
 
 #5. Create a 5x2x3 3-dimensional array with all values equaling 1.
 #Assign the array to variable "b"
-
+b = np.full((5,2,3),1)
 
 
 #6. Print b.
-
+print("b:\n",b)
 
 
 #7. Do a and b have the same size? How do you prove that in Python code?
-
+print("a size:",a.size)
+print("b size:",b.size)
+print("a size = b size?",a.size == b.size)
 
 
 
 #8. Are you able to add a and b? Why or why not?
-
-
+"""They can't be added because they have different shapes.
+a has a shape (2,3,5) and b has a shape (5,2,3)
+"""
 
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
-
-
+c = np.transpose(b.reshape(5,3,2))
+print(c.shape)
+print("c:\n",c)
 
 #10. Try to add a and c. Now it should work. Assign the sum to varialbe "d". But why does it work now?
-
-
+d = a + c
+print("d:\n",d)
+"""it works because they have the same shape"""
 
 #11. Print a and d. Notice the difference and relation of the two array in terms of the values? Explain.
-
-
+print("a:\n",a,a.shape)
+print("d:\n",d,d.shape)
+"""each value of d is the same than a + 1"""
 
 
 #12. Multiply a and c. Assign the result to e.
-
+e = a*c
+print("e:\n",e)
 
 
 #13. Does e equal to a? Why or why not?
+print("does e equal a?\n",e.all() == a.all())
 
-
+"""Yes because e = to a * c where c elements are all 1, 
+so e equals a * 1 which would be a"""
 
 
 #14. Identify the max, min, and mean values in d. Assign those values to variables "d_max", "d_min", and "d_mean"
+d_max = np.amax(d) 
+d_min = np.amin(d) 
+d_mean = np.mean(d) 
 
-
+"""d_max = d.max()
+d_min = d.min()
+d_mean = d.mean()
+"""
+print(
+      d_max,d_min,d_mean
+      )
 
 
 #15. Now we want to label the values in d. First create an empty array "f" with the same shape (i.e. 2x3x5) as d using `np.empty`.
-
-
-
+f = np.empty((2,3,5))
+print("f:\n",f)
 
 """
-#16. Populate the values in f. For each value in d, if it's larger than d_min but smaller than d_mean, assign 25 to the corresponding value in f.
-If a value in d is larger than d_mean but smaller than d_max, assign 75 to the corresponding value in f.
-If a value equals to d_mean, assign 50 to the corresponding value in f.
-Assign 0 to the corresponding value(s) in f for d_min in d.
-Assign 100 to the corresponding value(s) in f for d_max in d.
+#16. Populate the values in f.
+    For each value in d:
+        if it's larger than d_min but smaller than d_mean, assign 25 to the corresponding value in f.
+        If a value in d is larger than d_mean but smaller than d_max, assign 75 to the corresponding value in f.
+        If a value equals to d_mean, assign 50 to the corresponding value in f.
+    Assign 0 to the corresponding value(s) in f for d_min in d.
+    Assign 100 to the corresponding value(s) in f for d_max in d.
 In the end, f should have only the following values: 0, 25, 50, 75, and 100.
 Note: you don't have to use Numpy in this question.
 """
-
-
-
+        
+for matrix in range(d.shape[0]):
+    for row in range(d.shape[1]):
+        for value in range(d.shape[2]): 
+            if d_min < d[matrix,row,value] < d_mean:
+                f[matrix,row,value] = 25
+            if d_mean < d[matrix,row,value] < d_max:
+                f[matrix,row,value] = 75
+            if d[matrix,row,value] == d_mean:
+                f[matrix,row,value] = 50
+            if d[matrix,row,value] == d_min:
+                f[matrix,row,value] = 0
+            if d[matrix,row,value] == d_max:
+                f[matrix,row,value] = 100
 
 """
 #17. Print d and f. Do you have your expected f?
@@ -98,7 +131,8 @@ array([[[ 75.,  75.,  75.,  25.,  75.],
         [ 75.,  75.,  75.,  75.,  75.],
         [ 25.,  75.,   0.,  75.,  75.]]])
 """
-
+print("d:\n",d)
+print("f final:\n",f)
 
 """
 #18. Bonus question: instead of using numbers (i.e. 0, 25, 50, 75, and 100), how to use string values 
