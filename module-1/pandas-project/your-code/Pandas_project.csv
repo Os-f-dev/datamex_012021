@@ -1,0 +1,2273 @@
+Year,Country,Area,Location,Activity,Sex ,original order,hurt
+2018,USA,Hawaii,"Habush, Oahu",Surfing,M,6301.0,Injury
+2018,AUSTRALIA,New South Wales,Arrawarra Headland,Surfing,M,6300.0,Injury
+2018,BRAZIL,Pernambuco,"Piedade Beach, Recife",Swimming,M,6297.0,Fatal
+2018,USA,Florida,"Lighhouse Point Park, Ponce Inlet, Volusia County",Fishing,M,6296.0,Injury
+2018,USA,South Carolina,"Hilton Head Island, Beaufort County",Swimming,M,6291.0,Injury
+2018,ENGLAND,Cornwall,Off Land's End,Fishing,M,6290.0,Injury
+2018,SOUTH AFRICA,Eastern Cape Province,"Nahoon Beach, East London",Surfing,M,6288.0,Injury
+2018,AUSTRALIA,New South Wales,"Sharpes Beach, Ballina",Surfing,M,6287.0,Injury
+2018,THAILAND,Hua Hin,Sai Noi Beach,Swimming,M,6286.0,Injury
+2018,AUSTRALIA,Western Australia,Gearys Beach,Surfing,M,6284.0,Injury
+2018,AUSTRALIA,New South Wales,Lennox Head,Surfing,M,6283.0,Injury
+2018,AUSTRALIA,Western Australia,"Surfers Point, Prevelly",Surfing,M,6282.0,Injury
+2018,AUSTRALIA,Western Australia,"South Point, Gracetown",Surfing,M,6281.0,Injury
+2018,MALDIVES,Alifu Alifu Atoll,Madoogali,Fishing,M,6280.0,Injury
+2018,THAILAND,Hua Hin,Sai Noi Beach,Swimming,M,6277.0,Injury
+2018,BRAZIL,Pernambuco,Piedade,Swimming,M,6276.0,Injury
+2018,AUSTRALIA,Western Australia,"Lefthanders, Margaret River Area",Surfing,M,6275.0,Injury
+2018,AUSTRALIA,Western Australia,"Cobblestones, Margaret River Area",Surfing,M,6274.0,Injury
+2018,BAHAMAS,New Providence,Nirvana Beach,Surfing,M,6273.0,Injury
+2018,BRAZIL,Alagoas,"Praia de Sauaçuhy, Maceió",Fishing,M,6272.0,Injury
+2018,BAHAMAS,0,Bimini,Swimming,M,6270.0,Injury
+2018,SOUTH AFRICA,Eastern Cape Province,St. Francis Bay,Surfing,M,6269.0,Injury
+2018,AUSTRALIA,Victoria,Lorne,Swimming,M,6266.0,Injury
+2018,AUSTRALIA,Victoria,Winkipop,Surfing,M,6265.0,Injury
+2018,AUSTRALIA,New South Wales,"Little Congwong Beach, La Perouse ",Swimming,F,6263.0,Injury
+2018,AUSTRALIA,Queensland,Mooloolaba Beach,Swimming,F,6260.0,Injury
+2018,BRAZIL,Fernando de Noronha,Conceicao Beach,Surfing,M,6252.0,Injury
+2018,AUSTRALIA,Western Australia,"South Point, Gracetown",Surfing,M,6251.0,Injury
+2017,USA,Hawaii,"Hultin's Beach, Oahu",Surfing,F,6250.0,Injury
+2017,USA,California,"Drakes Estero, Point Reyes, Marin County",Surfing,F,6249.0,Injury
+2017,USA,Florida,"Floridana Beach, Brevard County",Surfing,F,6242.0,Injury
+2017,0,0,0,Surfing,M,6241.0,Injury
+2017,AUSTRALIA,New South Wales,Avoca Beach,Surfing,M,6240.0,Injury
+2017,AUSTRALIA,New South Wales,Birubi Point,Surfing,M,6237.0,Injury
+2017,MAURITIUS,Pamplemousses ,Le Goulet,Swimming,M,6235.0,Injury
+2017,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Swimming,F,6233.0,Injury
+2017,USA,Florida,"Lantana Beach, Palm Beach County",Swimming,M,6230.0,Injury
+2017,USA,Hawaii,"Davidsons Beach, Kekaha, Kauai",Surfing,M,6229.0,Injury
+2017,USA,Florida,"Hanna Park, Jacksonville, Duval County",Surfing,M,6226.0,Injury
+2017,AUSTRALIA,Western Australia,Gracetown,Surfing,M,6225.0,Injury
+2017,USA,New York,Rockaway,Surfing,M,6224.0,Injury
+2017,USA,Florida,Fort Worth,Surfing,M,6223.0,Injury
+2017,USA,Florida,Palm Beach County,Surfing,M,6222.0,Injury
+2017,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,6220.0,Injury
+2017,SAMOA, Upolu Island,Nofoalii,Fishing,M,6218.0,Injury
+2017,AUSTRALIA,Westerm Australia,Esperance,Fishing,0,6217.0,Injury
+2017,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,6216.0,Injury
+2017,AUSTRALIA,Westerm Australia,Sam's Creek area,Swimming,M,6215.0,Injury
+2017,AUSTRALIA,New South Wales,Iluka Beach,Surfing,M,6214.0,Injury
+2017,JAPAN,Shizuoka Prefecture,Iwata City,Surfing,M,6211.0,Injury
+2017,USA,Florida,"Marathon, Monroe County",Swimming,M,6210.0,Injury
+2017,USA,Texas,"South Padre Island, Cameron County",Swimming,F,6209.0,Injury
+2017,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,6208.0,Injury
+2017,AUSTRALIA,Victoria,Cathedral Rock,Surfing,M,6207.0,Injury
+2017,SPAIN,Castellón,Grao de Moncofa,Swimming,F,6205.0,Injury
+2017,USA,South Carolina,"Sea Pines Resort, Hilton Head Island, Beaufort County",Swimming,M,6201.0,Injury
+2017,USA,Massachusetts,"Menauhant Beach, Falmouth,
+Barnstable County",Fishing,M,6199.0,Injury
+2017,USA,South Carolina,"Hilton Head Island, Beaufort County",Swimming,M,6196.0,Injury
+2017,"ST HELENA, British overseas territory",Ascension Island,English Bay,Surfing,M,6192.0,Injury
+2017,SPAIN,Majorca,"Estanys Beach, Colonia de Sant",Swimming,F,6190.0,Injury
+2017,USA,South Carolina,"Hilton Head Island, Beaufort County",Swimming,F,6188.0,Injury
+2017,USA,Washington,"South Beach, Westport, Grays Harbor County",Surfing,M,6185.0,Injury
+2017,AUSTRALIA,Western Australia,Floreat Beach,Surfing,M,6184.0,Injury
+2017,USA,Florida,"Haulover Beach, Miami-Dade County",Swimming,M,6182.0,Injury
+2017,MEXICO,Tabasco,"Sánchez Magallanes, Cárdenas",Fishing,M,6181.0,Injury
+2017,SOUTH AFRICA,Eastern Cape Province,"Nahoon Reef, East London",Surfing,F,6180.0,Injury
+2017,COMOROS,Anjouan,Moya,Fishing,0,6179.0,Injury
+2017,USA,South Carolina,Wrightsville Beach,Fishing,M,6178.0,Injury
+2017,USA,South Carolina,"South Forest Beach, Hilton Head Island, Beaufort County",Swimming,F,6177.0,Injury
+2017,USA,Florida,"Singer Island, Palm Beach County",Surfing,M,6176.0,Injury
+2017,USA,South Carolina,"Burkes Beach, Hilton Head, Beaufort County",Swimming,F,6175.0,Injury
+2017,SPAIN,Ibiza Island,Playa den Bossa,Swimming,M,6173.0,Injury
+,FRENCH POLYNESIA,Marquesas,"Atuona Bay, Hiva Oa Island",Surfing,M,6172.0,Injury
+2017,AUSTRALIA,Victoria,"Flinders, Mornington Penisula",Surfing,F,6169.0,Injury
+2017,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,6168.0,Injury
+2017,USA,California,"Sunset Beach, Orange County",Surfing,F,6158.0,Injury
+2017,USA,California,"San Onofre, San Diego County ",Swimming,F,6157.0,Injury
+2017,SOUTH AFRICA,Western Cape Province,"Keurbooms, Plettenberg Bay",Surfing,M,6156.0,Injury
+2017,USA,South Carolina,"Folly Beach, Charleston County",Surfing,F,6155.0,Injury
+2017,USA,South Carolina,Georgetown County,Swimming,M,6150.0,Injury
+2017,AUSTRALIA,Western Australia,Kelpies near Wylie Bay,Surfing,F,6148.0,Fatal
+2017,USA,Hawaii,"Kekaha Beach, Kauai",Surfing,M,6147.0,Injury
+2017,USA,Florida,"Hanna Park, Jacksonville, Duval County",Surfing,M,6146.0,Injury
+2017,USA,Florida,St. Augustine,Surfing,F,6145.0,Injury
+2017,USA,Florida,"Ormond Beach, Volusia County",Surfing,F,6143.0,Injury
+2017,USA,Florida,"Melbourne Beach, Brevard County",Swimming,F,6141.0,Injury
+2017,USA,Florida,"Daytona, Volusia County",Swimming,M,6140.0,Injury
+2017,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,F,6139.0,Injury
+2017,USA,Florida,"Destin, Okaloosa County",Swimming,F,6137.0,Injury
+2017,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,6136.0,Injury
+2017,AUSTRALIA,Western Australia,"Falcon Bay Beach, Mandurah",Surfing,M,6130.0,Injury
+2017,USA,Florida,"Melbourne Beach, Brevard County",Swimming,M,6127.0,Injury
+2017,BRAZIL,Pernambuco,"Boa Viagem, Recife",Swimming,M,6122.0,Injury
+2017,AUSTRALIA,Queensland,Clairview,Swimming,M,6119.0,Injury
+2017,INDONESIA,Bali,Balian Beach,Surfing,M,6117.0,Injury
+2016,USA,Florida,"Avalon State Park Beach, North Hutchinson Island, St Lucie County",Surfing,M,6113.0,Injury
+2016,FRENCH POLYNESIA,Tuamotos,Takapoto Atoll,Fishing,M,6109.0,Injury
+2016,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,6108.0,Injury
+2016,AUSTRALIA,New South Wales,Booti Booti National Park,Surfing,M,6106.0,Injury
+2016,AUSTRALIA,Victoria,Queenscliff,Fishing,M,6105.0,Injury
+2016,USA,Florida,"Mayport Naval Station Beach, Duval County",Surfing,M,6103.0,Injury
+2016,USA,Florida,Mayport Naval Station  Duval County,Surfing,M,6102.0,Injury
+2016,AUSTRALIA,New South Wales,Broken Head Beach,Surfing,M,6101.0,Injury
+2016,USA,Hawaii,"Hooipa Beach Park, Maui",Surfing,M,6100.0,Injury
+2016,AUSTRALIA,Queensland,"Kings Beach, Caloundra",Surfing,M,6099.0,Injury
+2016,AUSTRALIA,New South Wales,"Sharpes Beach, Ballina",Surfing,M,6096.0,Injury
+2016,USA,Oregon,"Indian Beach, Ecola State Park, Clatsop County",Surfing,M,6095.0,Injury
+2016,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,6094.0,Injury
+2016,AUSTRALIA,New South Wales,"Lighthouse Beach, Ballina",Surfing,M,6092.0,Injury
+2016,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,6091.0,Injury
+2016,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,6090.0,Injury
+2016,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,6089.0,Injury
+2016,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,M,6088.0,Injury
+2016,AUSTRALIA,Victoria,Thirteenth Beach,Surfing,M,6087.0,Injury
+2016,AUSTRALIA,Victoria,Bells Beach,Surfing,M,6086.0,Injury
+2016,AUSTRALIA,Western Australia,Bunbury,Fishing,0,6085.0,Injury
+2016,USA,Hawaii,"Makaha, Oahu",Swimming,F,6083.0,Injury
+2016,AUSTRALIA,Western Australia,Injidup ,Surfing,M,6080.0,Injury
+2016,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,6076.0,Injury
+2016,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,6075.0,Injury
+2016,REUNION,0,Boucan Canot,Surfing,M,6074.0,Injury
+2016,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,6070.0,Injury
+2016,SPAIN,Alicante Province,Arenales del Sol,Swimming,M,6069.0,Injury
+2016,CHINA,Hong Kong,0,Swimming,M,6068.0,Injury
+2016,AUSTRALIA,New South Wales,"Sharpes Beach, Ballina",Surfing,M,6065.0,Injury
+2016,JAPAN,Kochi Prefecture,Irino Beach,Surfing,M,6064.0,Injury
+2016,AUSTRALIA,Tasmania,Clifton Beach,Surfing,M,6063.0,Injury
+2016,AUSTRALIA,Queensland,"20 k off The Spit, off the Gold Coast",Fishing,M,6061.0,Injury
+2016,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,F,6059.0,Injury
+2016,USA,South Carolina,"North Myrtle Beach, Horry County",Swimming,M,6056.0,Injury
+2016,USA,Massachusetts,"Off Gloucester, Essec County",Fishing,M,6052.0,Injury
+2016,USA,Florida,"Melbourne Beach, Brevard County",Swimming,F,6050.0,Injury
+2016,AUSTRALIA,Queensland,Palm Cove ,Fishing,M,6049.0,Injury
+2016,USA,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",Surfing,M,6047.0,Injury
+2016,USA,Hawaii,"Kalapaki Beach, Kauai",Surfing,M,6042.0,Injury
+2016,USA,South Carolina,"Folly Beach, Charleston County",Surfing,M,6038.0,Injury
+2016,USA,Florida,"Flagler Beach, Flagler County",Swimming,M,6037.0,Injury
+2016,EGYPT,Suez,Ain Sokhna,Swimming,M,6035.0,Injury
+2016,AUSTRALIA,Western Australia,"Falcon Beach, Mandurah",Surfing,M,6032.0,Fatal
+2016,USA,California,"Corona Del Mar, Newport, Orange County",Swimming,F,6031.0,Injury
+2016,USA,Florida,"Neptune, Duval County",Swimming,M,6030.0,Injury
+2016,USA,Florida,"Vero Beach, Indian River County",Swimming,F,6029.0,Injury
+2016,USA,Florida,"St. Petersburg, Pinellas County",Swimming,F,6028.0,Injury
+2016,USA,Florida,"Hugenot Beach , Jacksonville, Duval County",Swimming,F,6027.0,Injury
+2016,USA,Florida,"Ponte Vedra, St. Johns County",Swimming,M,6026.0,Injury
+2016,NEW ZEALAND,North Island,Cormandel,Fishing,M,6023.0,Injury
+2016,INDONESIA,Bali,Balian,Surfing,M,6022.0,Injury
+2016,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,6021.0,Injury
+2016,AUSTRALIA,New South Wales,"First Sun Beach, Byron Bay",Swimming,M,6019.0,Injury
+2016,USA,Florida,"Florida Keys, Monroe County",Fishing,M,6013.0,Injury
+2016,AUSTRALIA,New South Wales,Bombo Beach,Surfing,M,6010.0,Injury
+2016,AUSTRALIA,New South Wales,North Cronulla Beach,Surfing,M,6008.0,Injury
+2016,USA,California,"Bolsa Chica State Park, Orange County",Surfing,0,6006.0,Injury
+2016,AUSTRALIA,South Australia,Wrights Bay,Fishing,M,6002.0,Injury
+2016,BRAZIL,Santa Catarina State,Escalerio Beach Balneário Camboriú,Swimming,M,6001.0,Injury
+2016,AUSTRALIA,Tasmania,Nettley Bay,Surfing,M,5996.0,Injury
+2016,BRAZIL,Balneário Camboriú,Estaleirinho beach,Swimming,M,5993.0,Injury
+2016,USA,Hawaii,"Hanalei Bay, Kauai",Surfing,M,5991.0,Injury
+2016,USA,Hawaii,"Hanalei Bay, Kauai, ",Surfing,F,5990.0,Injury
+2016,UNITED ARAB EMIRATES,Fujairah Emirate,35 miles off Fujairah,Fishing,M,5988.0,Injury
+2016,AUSTRALIA,Queensland,"Happy Valley Beach, Caloundra",Surfing,M,5986.0,Injury
+2015,SPAIN,Grand Canary Island,"Arinaga Beach, Aguimes, Gran Canaria",Swimming,F,5982.0,Injury
+2015,AUSTRALIA,New South Wales,Bondi Beach,Surfing,M,5980.0,Injury
+2015,AUSTRALIA,New South Wales,Lake Macquarie,Fishing,0,5977.0,Injury
+2015,USA,Florida,"Playalinda Beach, Brevard County",Surfing,M,5973.0,Injury
+2015,USA,Florida,"Palm Beach, Palm Beach County",Swimming,F,5972.0,Injury
+2015,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,M,5971.0,Injury
+2015,AUSTRALIA,New South Wales,East Ballina,Surfing,M,5970.0,Injury
+2015,USA,Florida,"Paradise Beach, Melbourne, Brevard County",Surfing,F,5969.0,Injury
+2015,USA,Hawaii,"Kehena Beach, Hawaii",Swimming,M,5968.0,Injury
+2015,MOZAMBIQUE,Inhambane Province,Maxixe,Fishing,M,5966.0,Injury
+2015,SOUTH AFRICA,Western Cape Province,Stil Bay,Surfing,M,5963.0,Injury
+2015,USA,Florida,"Playalinda Beach, Brevard County",Surfing,M,5962.0,Injury
+2015,USA,Florida,"Deerfield Beach, Broward County",Surfing,M,5961.0,Injury
+2015,USA,Hawaii,"Waikiki, ",Surfing,M,5959.0,Injury
+2015,USA,Hawaii,"Lanikai Beach, Kailua, Oahu",Swimming,M,5958.0,Injury
+2015,USA,Hawaii,"Leftovers, Oahu",Surfing,M,5955.0,Injury
+2015,MOZAMBIQUE,Inhambane Province,"Maxixe, Inhambane Bay",Fishing,M,5954.0,Injury
+2015,AUSTRALIA,Western Australia,Pyramids Beach,Surfing,M,5953.0,Injury
+2015,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5950.0,Injury
+2015,USA,Florida,"Vilano Beach, St.  Johns County",Surfing,M,5949.0,Injury
+2015,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5946.0,Injury
+2015,USA,Florida,"Big Talbot Island, Duval County",Swimming,M,5941.0,Injury
+2015,USA,Florida,"Jacksonville Beach, Duval County",Surfing,M,5940.0,Injury
+2015,AUSTRALIA,New South Wales,North Shelly Beach,Surfing,M,5939.0,Injury
+2015,USA,California,"Morro Strand State Beach, San Luis Obispo County",Surfing,F,5932.0,Injury
+2015,USA,California,"Morro Bay, San Luis Obispo County",Surfing,M,5931.0,Injury
+2015,AUSTRALIA,New South Wales,Lighthouse Beach,Surfing,M,5929.0,Injury
+2015,USA,South Carolina,"Murrells Inlet, Georgetown County",Surfing,M,5928.0,Injury
+2015,SPAIN,Alicante,"Poniente Beach, Benidorm",Swimming,M,5925.0,Injury
+2015,AUSTRALIA,New South Wales,Evans Head,Surfing,M,5923.0,Injury
+2015,COSTA RICA,Guanacaste,Playa Grande,Surfing,M,5922.0,Injury
+2015,AUSTRALIA,Victoria,Tyrendarra Beach,Surfing,M,5921.0,Injury
+2015,USA,Florida,"Daytona Beach, Volusia County",Surfing,M,5920.0,Injury
+2015,AUSTRALIA,Victoria,Tyrendarra Beach near Portland,Surfing,M,5916.0,Injury
+2015,REUNION,0,St. Leu,Surfing,M,5915.0,Injury
+2015,SOUTH AFRICA,Eastern Cape Province,Jeffrey's Bay,Surfing,M,5914.0,Injury
+2015,USA,California,"Huntington Beach, Orange County",Surfing,M,5913.0,Injury
+2015,FRENCH POLYNESIA,Bora Bora,0,Swimming,M,5911.0,Injury
+2015,AUSTRALIA,New South Wales,Lennox Head,Surfing,M,5908.0,Injury
+2015,USA,North Carolina,"Ocracoke, Lifeguard Beach, National Park Service, Hyde County",Swimming,M,5906.0,Injury
+2015,AUSTRALIA,New South Wales,"Flat Rock, Yamba",Surfing,M,5905.0,Injury
+2015,USA,North Carolina,"Rodanthe, Dare County",Swimming,M,5903.0,Injury
+2015,USA,Florida,"Jacksonville Beach, Duval County",Swimming,F,5901.0,Injury
+2015,SOUTH AFRICA,Western Cape Province,"Lookout Beach, Plettenberg Bay",Surfing,M,5900.0,Injury
+2015,AUSTRALIA,Western Australia,Rottnest Island,Swimming,M,5898.0,Injury
+2015,USA,North Carolina,Surf City,Swimming,M,5896.0,Injury
+2015,AUSTRALIA,Western Australia,Denmark,Surfing,F,5895.0,Injury
+2015,USA,Florida,Daytona Beach Shores,Swimming,M,5892.0,Injury
+2015,REUNION,Le Port,Folette,Surfing,M,5885.0,Injury
+2015,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,F,5881.0,Injury
+2015,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5880.0,Injury
+2015,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,M,5877.0,Injury
+2015,AUSTRALIA,New South Wales,Saltwater Beach,Surfing,M,5876.0,Injury
+2015,AUSTRALIA,South Australia,Fishery Bay,Surfing,M,5872.0,Injury
+2015,REUNION,Saint-Gilles-les-Bains,Cap Homard,Surfing,M,5869.0,Fatal
+2015,BRAZIL,Pernambuco,"Praia del Chifre, Olinda",Surfing,M,5865.0,Injury
+2015,EGYPT,0,Marsa Alam,Swimming,M,5863.0,Fatal
+2015,AUSTRALIA,New South Wales,"Julian Rocks, Byron Bay",Fishing,M,5860.0,Injury
+2015,MEXICO,Sinaloa,Mazlatan,Fishing,M,5859.0,Injury
+2015,REUNION,dÉtang-Salé,Ravine Mula,Swimming,F,5856.0,Fatal
+2015,AUSTRALIA,New South Wales,Shelly Beach,Surfing,M,5855.0,Fatal
+2015,AUSTRALIA,New South Wales,"Seven Mile Beach, Byron Bay",Surfing,M,5854.0,Injury
+2015,AUSTRALIA,New South Wales,Flat Rock,Surfing,M,5850.0,Injury
+2015,USA,Florida,Off Panama City,Fishing,M,5848.0,Injury
+2015,AUSTRALIA,New South Wales,Off Blacksmith Beach,Fishing,M,5846.0,Injury
+2015,SOUTH AFRICA,Eastern Cape Province,Chintsa East Beach,Surfing,M,5842.0,Injury
+2014,AUSTRALIA,New South Wales,Bherwerre Beach,Surfing,0,5840.0,Injury
+2014,SOUTH AFRICA,KwaZulu-Natal,Durban,Swimming,0,5837.0,Injury
+2014,USA,California,"Montaña de Oro State Park, San Luis Obispo County ",Surfing,M,5836.0,Injury
+2014,AUSTRALIA,Victoria,Paradise Beach,Fishing,M,5835.0,Injury
+2014,AUSTRALIA,Western Australia,"Pyramids Beach, Port Bouvard",Surfing,M,5831.0,Injury
+2014,MAURITIUS,Cargados Carajos Shoals (St. Brandon),0,Fishing,M,5830.0,Fatal
+2014,AUSTRALIA,Western Australia,Freo,Fishing,M,5829.0,Injury
+2014,USA,Florida,"Indian Harbor Beach, Brevard County",Surfing,M,5827.0,Injury
+2014,AUSTRALIA,New South Wales,Moonee Beach,Surfing,M,5825.0,Injury
+2014,USA,Florida,"Fort Pierce Inlet State Park, St. Lucie County",Surfing,M,5824.0,Injury
+2014,USA,Hawaii,"North Kohala, Hawaii County",Surfing,F,5823.0,Injury
+2014,AUSTRALIA,New South Wales,Wallabi Point,Surfing,M,5822.0,Injury
+2014,USA,Hawaii,"Maalaea, South Maui",Surfing,M,5818.0,Injury
+2014,AUSTRALIA,New South Wales,Avoca Beach,Surfing,F,5817.0,Injury
+2014,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5813.0,Injury
+2014,USA,Florida,"Cherie Down Park, Brevard County",Fishing,F,5812.0,Injury
+2014,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5811.0,Injury
+2014,USA,California,"Walls Beach, Vandenberg AFB, Santa Barbara County",Surfing,M,5808.0,Injury
+2014,AUSTRALIA,Western Australia,"Kelpids Beach, Wylie Bay, Esperance",Surfing,M,5807.0,Injury
+2014,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5806.0,Injury
+2014,USA,California,"Manresa State Beach, Santa Cruz County",Surfing,M,5804.0,Injury
+2014,AUSTRALIA,New South Wales,"Clarkes Beach, Byron Bay",Swimming,M,5803.0,Fatal
+2014,USA,Florida,"Fletcher Beach, Hutchinson Island, Martin County",Fishing,M,5800.0,Injury
+2014,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,5797.0,Injury
+2014,USA,Maryland,Assateague National Seashore,Fishing,M,5795.0,Injury
+2014,SPAIN,Alicante,Benidorm,Swimming,F,5794.0,Injury
+2014,USA,North Carolina,"Figure Eight Island,  New Hanover County",Surfing,M,5793.0,Injury
+2014,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Swimming,F,5785.0,Injury
+2014,USA,Louisiana,"Lake Ponchartain off Southshore Harbor, New Orleans",Swimming,M,5784.0,Injury
+2014,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,F,5782.0,Injury
+2014,USA,Florida,"South of Cocoa Beach, Brevard County",Surfing,M,5781.0,Injury
+2014,SOUTH AFRICA,Western Cape Province,Muizenberg,Surfing,M,5779.0,Injury
+2014,USA,North Carolina,"Sunset Beach, Brunswick County",Swimming,M,5777.0,Injury
+2014,REUNION,Saint-Leu,0,Surfing,M,5776.0,Injury
+2014,USA,Hawaii,"Paia Bay, Maui",Swimming,M,5773.0,Injury
+2014,USA,Florida,Okaloosa Island,Swimming,M,5772.0,Injury
+2014,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5769.0,Injury
+2014,USA,California,"Manhattan Beach, Los Angeles County",Swimming,M,5768.0,Injury
+2014,USA,California,"Oceano Dunes State Beach, San Luis Obispo County",Surfing,M,5767.0,Injury
+2014,AUSTRALIA,South Australia,"Middleton Point, Fleurieu Peninsula",Surfing,M,5763.0,Injury
+2014,BRAZIL,0,500 km off the coast of Pernambuco,Fishing,M,5760.0,Injury
+2014,JAPAN,Atsumi peninsula,Aichi,Surfing,M,5757.0,Injury
+2014,USA,Florida,Fort Lauderdale,Swimming,F,5755.0,Injury
+2014,AUSTRALIA,New South Wales,"Seven Mile Beach, Gerroa",Surfing,M,5754.0,Injury
+2014,AUSTRALIA,South Australia,"Elliston, Eyre Peninsula",Surfing,M,5748.0,Injury
+2014,USA,Georgia,"Tybee Island, Chatham County",Surfing,M,5746.0,Injury
+2014,USA,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",Swimming,F,5744.0,Injury
+2014,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5742.0,Injury
+2014,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,M ,5740.0,Injury
+2014,SOUTH AFRICA,Eastern Cape Province,Port Alfred,Fishing,M,5737.0,Injury
+2014,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5736.0,Injury
+2014,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5735.0,Injury
+2014,AUSTRALIA,New South Wales,Tathra,Swimming,F,5734.0,Fatal
+2014,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St Johns",Swimming,M,5732.0,Fatal
+2014,USA,Florida,Macarthur State Park,Surfing,M,5730.0,Injury
+2014,AUSTRALIA,Victoria,Winkipop Beach,Surfing,M,5728.0,Injury
+2014,AUSTRALIA,New South Wales,Lighthouse Beach,Swimming,M,5726.0,Injury
+2014,USA,Florida,"Santa Lucea Beach, South Hutchinson Island, St. Lucie County",Surfing,M,5724.0,Injury
+2014,TRINIDAD & TOBAGO,Trinidad,0,Fishing,M,5720.0,Injury
+2014,NEW ZEALAND,South Island,Porpoise Bay,Surfing,M,5719.0,Injury
+2014,AUSTRALIA,New South Wales,Umina Beach,Fishing,M,5718.0,Injury
+2013,SOUTH AFRICA,Western Cape Province,Die Platt,Surfing,M,5712.0,Injury
+2013,USA,Florida,"Cocoa Beach, Brevard  County",Surfing,M,5709.0,Injury
+2013,AUSTRALIA,New South Wales,"Shelly Beach, near Port Macquarie",Surfing,M,5708.0,Injury
+2013,AUSTRALIA,Western Australia,Gracetown,Surfing,M,5704.0,Fatal
+2013,USA,Oregon,"Gleneden Beach, Lincoln County",Surfing,M,5703.0,Injury
+2013,AUSTRALIA,Western Australia,"Trigg Beach, Perth",Surfing,M,5702.0,Injury
+2013,USA,Florida,"Floridana Beach, Brevard County",Surfing,M,5699.0,Injury
+2013,AUSTRALIA,New South Wales,South Narrabeen Beach,Surfing,M,5694.0,Injury
+2013,USA,Hawaii,"Pila'a Beach, Kaua'i",Surfing,M,5692.0,Injury
+2013,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,M,5688.0,Injury
+2013,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,5686.0,Injury
+2013,USA,Florida,"Ormond Beach, Volusia County",Swimming,M,5683.0,Injury
+2013,USA,Florida,"Carlin Park, Jupiter, Palm Beach County",Surfing,M,5682.0,Injury
+2013,USA,Florida,"Casino Beach, Pensacola, Escambia County",Swimming,M,5681.0,Injury
+2013,USA,Florida,"New Smyrna Beach,  Volusia County",Surfing,F,5680.0,Injury
+2013,USA,Florida,"New Smyrna Beach,  Volusia County",Surfing,M,5678.0,Injury
+2013,USA,Florida,"Ormond Beach, Volusia County",Swimming,M,5676.0,Injury
+2013,USA,California,"Butterfly Beach, Montecito, Santa Barbara County",Swimming,M,5671.0,Injury
+2013,USA,Hawaii,Pohoiki ,Surfing,M,5666.0,Injury
+2013,USA,California,"Pillar Point, Half-Moon Bay, San Mateo County",Surfing,F,5665.0,Injury
+2013,USA,South Carolina,Folly Beach,Surfing,M,5662.0,Injury
+2013,USA,Florida,"Sanibel Island, Lee County",Fishing,M,5660.0,Injury
+2013,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,M,5658.0,Injury
+2013,USA,Hawaii,"White Plains Beach, Oahu",Surfing,M,5655.0,Injury
+2013,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Swimming,F,5652.0,Fatal
+2013,DIEGO GARCIA,0,0,Swimming,M,5648.0,Fatal
+2013,SPAIN,Catalonia,"Sant Marti dEmpuries Beach, LEscala",Swimming,M,5646.0,Injury
+2013,TAIWAN,Taitung ,0,Fishing,M,5644.0,Injury
+2013,USA,Florida,"Jacksonville, Duval County",Swimming,M,5641.0,Injury
+2013,USA,South Carolina,"Kiawah Island, Charleston County",Swimming,M,5640.0,Injury
+2013,USA,Hawaii,Kona Coast State Park,Swimming,M,5639.0,Injury
+2013,USA,Texas,"Surfside Beach, Brazoria County",Swimming,M,5638.0,Injury
+2013,SOUTH AFRICA,Eastern Cape Province,Queensberry Bay,Surfing,M,5637.0,Injury
+2013,USA,Florida,"Atlantic Beach, Duval County",Surfing,F,5636.0,Injury
+2013,AUSTRALIA,New South Wales,Target Beach,Surfing,M,5633.0,Injury
+2013,USA,Florida,"Ormond Beach, Volusia County",Swimming,M,5631.0,Injury
+2013,PALESTINIAN TERRITORIES,0,Gaza,Fishing,M,5629.0,Injury
+2014,ECUADOR,Santa Cruz Island,"Playa Brava, Turtle Bay",Surfing,M,5628.0,Injury
+2013,USA,California,"Tourmaline Surf Park, San Diego County",Surfing,M,5627.0,Injury
+2013,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,5625.0,Injury
+2013,AUSTRALIA,New South Wales,Emerald Beach,Fishing,M,5624.0,Injury
+2013,MEXICO,Quintana Roo,"Seagull Beach, Cancun",Swimming,F,5623.0,Injury
+2013,AUSTRALIA,New South Wales,Crowdy Head,Fishing,M,5622.0,Injury
+2013,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5619.0,Injury
+2013,USA,Florida,"Jensen Beach, Martin County ",Swimming,M,5616.0,Injury
+2013,USA,Hawaii,Kaanapali Shores,Surfing,M,5614.0,Injury
+2013,AUSTRALIA,New South Wales,Terrigal Beach,Surfing,M,5613.0,Injury
+2013,SOUTH AFRICA,Western Cape Province,Hawston Beach,Surfing,M,5608.0,Injury
+2013,SOUTH AFRICA,Eastern Cape Province,Port St. John's,Swimming,M,5604.0,Injury
+2013,NEW ZEALAND,North Island,Muriwai,Swimming,M,5603.0,Fatal
+2013,USA,Hawaii,"Ka'anapali, Honokowai, Maui",Surfing,0,5602.0,Injury
+2013,USA,Hawaii,"Paia Bay, Maui",Surfing,M,5601.0,Injury
+2013,USA,Florida,"""Stuart Rocks"", Martin County",Surfing,M,5600.0,Injury
+2013,AUSTRALIA,Victoria,Cape Nelson,Fishing,M,5597.0,Injury
+2013,AUSTRALIA,Queensland,Noosa,Surfing,M,5596.0,Injury
+2013,USA,Hawaii,Kiholo Bay,Surfing,M,5594.0,Injury
+2012,USA,Florida,"Jensen Beach, Martin County ",Swimming,M,5591.0,Injury
+2012,AUSTRALIA,New South Wales,Between Dee Why and Long Reef,Surfing,M,5590.0,Injury
+2012,SOUTH AFRICA,Eastern Cape Province,Port St. John's,Swimming,M,5588.0,Fatal
+2012,AUSTRALIA,Western Australia,Trigg Beach,Surfing,M,5587.0,Injury
+2012,USA,Hawaii,Kauai,Surfing,M,5586.0,Injury
+2012,MEXICO,Sinaloa,Nuevo Altata,Swimming,M,5581.0,Fatal
+2012,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,5580.0,Injury
+2012,USA,Hawaii,"Davidson's Surf Break, Kekaha, Kaua'i",Surfing,M,5578.0,Injury
+2012,USA,California,"Humboldt Bay, Eureka, Humboldt County",Surfing,M,5577.0,Injury
+2012,USA,Hawaii,"Makena Landing, Maui",Swimming,F,5576.0,Injury
+2012,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,M,5575.0,Fatal
+2012,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,5573.0,Injury
+2012,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,5567.0,Injury
+2012,USA,Florida,"Spanish House Beach, Brevard County",Surfing,M,5566.0,Injury
+2012,USA,Florida," Cocoa Beach, Brevard  County",Surfing,M,5565.0,Injury
+2012,TONGA,Vava'u,Eueiki Island,Swimming,F,5564.0,Injury
+2012,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,0,5563.0,Injury
+2012,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Surfing,M,5562.0,Injury
+2012,USA,Florida,"South Beach, Miami-Dade County",Swimming,M,5561.0,Injury
+2012,USA,Florida,"Neptune Beach, Duval County",Surfing,M,5560.0,Injury
+2012,USA,Florida,"St. Augustine Beach, St. John's County",Surfing,M,5559.0,Injury
+2012,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,5558.0,Injury
+2012,AUSTRALIA,Western Australia,Red Bluff near Quobba Station,Surfing,M,5553.0,Injury
+2012,BRAZIL,Pernambuco,"Coral Cove, Cabo de Santo Agostinho",Swimming,M,5552.0,Fatal
+2012,AUSTRALIA,Western Australia,Ocean Reef,Fishing,0,5550.0,Injury
+2012,REUNION,Saint Leu,0,Surfing,M,5548.0,Injury
+2012,USA,California,"Topanga Beach, Los Angeles County",Surfing,M,5546.0,Injury
+2012,AUSTRALIA,South Australia,Streaky Bay,Surfing,M,5545.0,Injury
+2012,USA,Hawaii,"Mahaulepu Beach, Kauai",Surfing,M,5544.0,Injury
+2012,REUNION,Trois-Bassins,0,Surfing,M,5541.0,Fatal
+2012,TRINIDAD & TOBAGO,Trinidad,"Off Radix Village, Mayoro County",Swimming,M,5540.0,Injury
+2012,CANADA,British Colombia,"Tofino, Vancouver",Surfing,F,5539.0,Injury
+2012,AUSTRALIA,Western Australia,Off Wedge Island,Surfing,M,5538.0,Fatal
+2012,USA,North Carolina,"North Topsail Beach, Onslow County",Swimming,F,5537.0,Injury
+2012,SOUTH AFRICA,Western Cape Province,"Sandstrand, Jongensfontein",Surfing,M,5533.0,Injury
+2012,CROATIA,0,Buccari Bay,Swimming,0,5532.0,Injury
+2012,USA,Florida,"Juno Beach, Palm Beach County",Swimming,M,5531.0,Injury
+2012,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5530.0,Injury
+2012,AUSTRALIA,Tasmania,South Cape Bay,Surfing,M,5528.0,Injury
+2012,USA,Florida,"Bathtub Reef  Beach, Stuart, Martin County",Swimming,M,5527.0,Injury
+2012,USA,Florida,"Summerland Key, Monroe County",Fishing,M,5523.0,Injury
+2012,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,F,5522.0,Injury
+2012,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,M,5521.0,Injury
+2012,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,M,5520.0,Injury
+2012,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,M,5519.0,Injury
+2012,AUSTRALIA,Victoria,Port Campbell,Surfing,M,5518.0,Injury
+2012,USA,Florida,"Bethune Beach, Volusia County",Surfing,F,5515.0,Injury
+2012,USA,Florida,"Jacksonville, Duval County",Surfing,M,5511.0,Injury
+2012,USA,Florida,"Vero Beach, Indian River County",Swimming,F,5507.0,Injury
+2012,USA,Florida,"Indialantic, Brevard County",Surfing,M,5505.0,Injury
+2012,USA,Hawaii,"Leftovers near Chun's Reef, Oahu",Surfing,M,5502.0,Injury
+2012,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5499.0,Injury
+2012,AUSTRALIA,Queensland,Nobby's Beach,Surfing,M,5497.0,Injury
+2012,USA,Florida,"Jensen Beach, Martin County ",Surfing,M,5496.0,Injury
+2012,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,F,5495.0,Injury
+2012,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5494.0,Injury
+2012,NEW ZEALAND,North Island,"Opunake, Taranake",Surfing,M,5493.0,Injury
+2012,AUSTRALIA,New South Wales,Broughton Island,Fishing,M,5486.0,Injury
+2012,SOUTH AFRICA,Western Cape Province,Strandfontein,Fishing,0,5485.0,Injury
+2012,AUSTRALIA,Queensland,Wurtulla,Surfing,M,5484.0,Injury
+2012,TAIWAN,Taitung ,Taimali,Fishing,M,5480.0,Injury
+2012,AUSTRALIA,New South Wales,Redhead Beach,Surfing,M,5479.0,Injury
+2012,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. Johns",Swimming,M,5478.0,Fatal
+2012,USA,Oregon,"Lincoln City, Lincoln County",Surfing,M,5477.0,Injury
+2012,AUSTRALIA,New South Wales,North Avoca Beach,Surfing,M,5476.0,Injury
+2011,ANTIGUA,St John's,Fort James Beach,Swimming,M,5473.0,Injury
+2011,ECUADOR,Santa Elena,Barandúa Beach,Surfing,M,5472.0,Injury
+2011,USA,Florida,New Smyrna Beach,Surfing,M,5471.0,Injury
+2011,AUSTRALIA,New South Wales,Angourie,Surfing,M,5468.0,Injury
+2011,AUSTRALIA,New South Wales,Maroubra,Surfing,M,5466.0,Injury
+2011,USA,Oregon,Seaside Cove,Surfing,F,5465.0,Injury
+2011,AUSTRALIA,New South Wales,Broken Head,Surfing,M,5463.0,Injury
+2011,INDONESIA,Bali,Tabanan,Surfing,M,5462.0,Injury
+2011,AUSTRALIA,Queensland,Peregian,Swimming,M,5461.0,Injury
+2011,BRAZIL,Pernambuco,"Punta Del Chifre Beach, Olinda",Surfing,M,5458.0,Injury
+2011,USA,California,"Marina State Beach, Monterey County",Surfing,M,5456.0,Injury
+2011,SCOTLAND,Moray,Spey Bay,Surfing,M,5455.0,Injury
+2011,USA,Oregon,"Newport, Lincoln County",Surfing,M,5452.0,Injury
+2011,USA,Florida,Cape Canaveral,Surfing,M,5450.0,Injury
+2011,USA,Oregon,Seaside,Surfing,M,5449.0,Injury
+2011,AUSTRALIA,Western Australia,Cottesloe Beach,Swimming,M,5448.0,Fatal
+2011,USA,Puerto Rico,Hatillo Beach,Surfing,M,5444.0,Injury
+2011,DOMINICAN REPUBLIC,Samaná Province,Playa Jackson ,Fishing,M,5443.0,Injury
+2011,SOUTH AFRICA,Western Cape Province,Clovely Beach,Swimming,M,5442.0,Injury
+2011,KENYA,Coast Province,"Mama Ngina Beach, Mombasa ",Swimming,M,5437.0,Fatal
+2011,USA,Florida,New Smyrna Beach,Surfing,M,5436.0,Injury
+2011,USA,California,"Samoa Beach, Humboldt County",Surfing,M,5435.0,Injury
+2011,USA,Hawaii,"Nimitz State Beach, Oahu",Surfing,0,5433.0,Injury
+2011,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5431.0,Injury
+2011,USA,Florida,Crescent Beach St. Johns County,Surfing,M,5430.0,Injury
+2011,AUSTRALIA,Queensland,Fantome Island,Swimming,M,5429.0,Fatal
+,USA,North Carolina,"Buxton Beach, Dare County",Surfing,M,5426.0,Injury
+2011,SOUTH AFRICA,Western Cape Province,"Lookout Beach, near the Keurbooms river mouth in Plettenberg Bay",Surfing,M,5424.0,Fatal
+2011,RUSSIA,"Peter the Great Bay, Khasan, Primorsky Krai (Far East)",Zheltukhin Island,Swimming,M,5423.0,Injury
+2011,RUSSIA,"Telyakovsky Bay, Khasan,  Primorsky Krai (Far East)",Vityaz,Swimming,M,5420.0,Injury
+2011,FRENCH POLYNESIA,Society Islands,"Teahupoo, Tahiti",Surfing,M,5419.0,Injury
+2011,USA,North Carolina,Beaufort Inlet,Swimming,M,5415.0,Injury
+2011,BRAZIL,Pernambuco,Praia do Pina,Swimming,M,5413.0,Injury
+2011,SOUTH AFRICA,Eastern Cape Province,"Cintza Beach, East London",Surfing,M,5410.0,Injury
+2011,USA,Texas,"Sunday Beach, Matagorda Island, Calhoun  County",Swimming,M,5405.0,Injury
+2011,REUNION,Saint-Gilles,Roches Noires,Surfing,M,5403.0,Injury
+2011,BRAZIL,Pernambuco,Praia do Pina,Surfing,M,5400.0,Injury
+2011,USA,California,"San Onofre State Beach, San Diego County",Surfing,M,5397.0,Injury
+2011,COSTA RICA,Guanacaste,Playa Grande,Surfing,M,5394.0,Fatal
+2011,UNITED KINGDOM,Cornwall,St. Ives,Fishing,0,5392.0,Injury
+2011,SOUTH AFRICA,Western Cape Province,Robberg Beach,Surfing,M,5385.0,Injury
+2011,USA,Hawaii,"Lyman Beach, Kailua-Kona",Surfing,F,5384.0,Injury
+2011,USA,Florida,"Ormond Beach, Volusia County",Surfing,M,5379.0,Injury
+2011,NEW ZEALAND,South Island,Snapper Point,Surfing,M,5372.0,Injury
+2011,INDONESIA,Bali,Balian,Surfing,M,5371.0,Injury
+2011,MEXICO,Quintana Roo,"Gaviotas Beach, Cancun",Swimming,F,5368.0,Injury
+2011,AUSTRALIA,New South Wales,Crowdy Head,Surfing,M,5367.0,Injury
+2011,MEXICO,Quintana Roo,0,Swimming,M,5366.0,Injury
+2011,AUSTRALIA,New South Wales,"Tallow Beach, Byron Bay",Surfing,M,5362.0,Injury
+2011,AUSTRALIA,Queensland,Between ,Fishing,M,5361.0,Injury
+2011,REUNION,Saint Gilles ,Trois-Roches,Surfing,M,5359.0,Injury
+2011,AUSTRALIA,Queensland,Sunshine Beach,Fishing,M,5357.0,Injury
+2011,MEXICO,Quintana Roo,Cancun,Swimming,F,5353.0,Injury
+2011,AUSTRALIA,New South Wales,Cudgen Creek ,Swimming,F,5350.0,Injury
+2011,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. John's",Surfing,M,5349.0,Fatal
+2011,AUSTRALIA,Western Australia,Busselton,Fishing,0,5347.0,Injury
+2010,FIJI,Vitu Levu,Sigatoka,Surfing,M,5345.0,Injury
+2010,USA,Hawaii,"Tavares Bay, Maui",Surfing,M,5344.0,Injury
+2010,INDONESIA,Bali,Balian,Surfing,M,5342.0,Injury
+2010,SAMOA,0,0,Fishing,M,5337.0,Injury
+2010,AUSTRALIA,Western Australia,Native Dog Beach,Swimming,M,5336.0,Injury
+2010,INDONESIA,Bali,Balian,Surfing,M,5333.0,Injury
+2010,AUSTRALIA,Western Australia,Between Carnac and Garden Islands,Fishing,M,5332.0,Injury
+2010,USA,Oregon,Florence,Surfing,M,5329.0,Injury
+2010,AZORES,0,350 miles from Faial Island,Fishing,M,5328.0,Injury
+2010,AUSTRALIA,New South Wales,Mullaway Headland,Surfing,M,5323.0,Injury
+2010,BAHAMAS,Abaco Islands,Elbow Cay,Surfing,F,5321.0,Injury
+2010,SOUTH AFRICA,Western Cape Province,"Melkbaai, Strand",Surfing,M,5320.0,Injury
+2010,USA,Oregon,Winchester Bay,Surfing,M,5319.0,Injury
+2010,USA,Virginia,Sandridge Beach,Surfing,M,5318.0,Injury
+2010,SOUTH AFRICA,Western Cape Province,Between Dyer Island and Pearly Beach,Swimming,M,5317.0,Fatal
+2010,AUSTRALIA,New South Wales,Fraser's Reef,Surfing,M,5316.0,Injury
+2010,USA,Florida,"St. Augustine, St. John's County",Swimming,M,5315.0,Injury
+2010,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5313.0,Injury
+2010,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5312.0,Injury
+2010,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5311.0,Injury
+2010,AUSTRALIA,Western Australia,Cowaramup Bay,Surfing,M,5307.0,Fatal
+2010,AUSTRALIA,Queensland,"Three Mile Creek, Townsville",Fishing,F,5305.0,Injury
+2010,SOUTH KOREA,Jeju Province,Jeju Island,Swimming,F,5304.0,Injury
+2010,AUSTRALIA,New South Wales,Crescent Head,Surfing,M,5303.0,Injury
+2010,USA,North Carolina,"Figure Eight Island, Wilmington, New Hanover County",Surfing,M,5302.0,Injury
+2010,USA,Florida,"Bethune Beach, Volusia County",Swimming,F,5300.0,Injury
+2010,USA,Florida,"Jacksonville Beach, Duval County",Surfing,M,5296.0,Injury
+2010,USA,South Carolina,Myrtle Beach,Swimming,M,5295.0,Injury
+2010,USA,North Carolina,"Wrightsville Beach, New Hanover County",Swimming,F,5294.0,Injury
+2010,USA,Florida,New Smyrna Beach,Surfing,M,5293.0,Injury
+2010,SPAIN,Grand Canary Island,"Sardina del Norte, Gáldar",Swimming,M,5292.0,Injury
+2010,USA,Texas,Galveston,Fishing,M,5291.0,Injury
+2010,USA,Florida,"Lauderdale-by-the-Sea, Broward County",Fishing,M,5290.0,Injury
+2010,USA,New York,Off Long Island,Fishing,M,5288.0,Injury
+2010,USA,California,"Pismo Beach, San Luis  Obispo County",Surfing,M,5287.0,Injury
+2010,USA,Texas,"Eight Mile Beach, Galveston",Surfing,M,5285.0,Injury
+2010,USA,North Carolina,"Topsail Island, Pender County",Swimming,F,5283.0,Injury
+2010,VIETNAM,Binh Dinh Province,Quy Nhon ,Swimming,M,5282.0,Injury
+2010,AUSTRALIA,Western Australia,"Conspicuous Beach, near Walpole",Surfing,M,5280.0,Injury
+2010,USA,Florida,"Ponte Vedra Beach, St Johns County",Surfing,M,5279.0,Injury
+2010,USA,Florida,Off Tarpon Springs,Fishing,M,5278.0,Injury
+2010,VIETNAM,Binh Dinh Province,Quy Nhon ,Swimming,F,5276.0,Injury
+2010,AUSTRALIA,New South Wales,Point Plomer,Surfing,M,5275.0,Injury
+2010,USA,Hawaii,"Hanalei Bay, Kauai",Surfing,M,5271.0,Injury
+2010,SOUTH AFRICA,Eastern Cape Province,"East Beach, Port Alfred",Surfing,M,5270.0,Injury
+2010,REUNION,Saint-Benoit,Bittern,Surfing,M,5268.0,Injury
+2010,NEW ZEALAND,South Island,Tahunanui Beach,Swimming,M,5267.0,Injury
+2010,SOUTH AFRICA,Eastern Cape Province,Yellow Sands Point,Surfing,M,5266.0,Injury
+2010,AUSTRALIA,New South Wales,"Mona Vale Beach, Sydney",Surfing,M,5263.0,Injury
+2010,BRAZIL,Rio Grande Do Sul,"Atlantis Beach, near Tramandai",Surfing,M,5256.0,Injury
+2010,AUSTRALIA,Queensland,Archie's Beach,Surfing,M,5255.0,Injury
+2010,UNITED ARAB EMIRATES (UAE),Dubai,"Umm Suqeim Beach, Dubai",Surfing,M,5254.0,Injury
+2010,AUSTRALIA,Victoria,Geelong,Surfing,M,5253.0,Injury
+2010,SOUTH AFRICA,Eastern Province,"Nahoon, East London",Surfing,M,5246.0,Injury
+2009,AUSTRALIA,New South Wales,Avoca Beach,Swimming,M,5244.0,Injury
+2009,MOZAMBIQUE,Maputo Province,Ponta do Ouro,Swimming,M,5243.0,Injury
+2009,SOUTH AFRICA,KwaZulu-Natal,"North Beach, Durban",Surfing,M,5239.0,Injury
+2009,AUSTRALIA,New South Wales,Coffee Head,Surfing,M,5237.0,Injury
+2009,USA,California,"Huntington Beach, Orange County",Surfing,M,5234.0,Injury
+2009,USA,California,"Loch Lomond, Marin County",Fishing,M,5232.0,Injury
+2009,USA,Florida,"Jupiter, Palm Beach County",Surfing,M,5231.0,Injury
+2009,USA,Florida,"Jupiter, Palm Beach County",Surfing,F,5230.0,Injury
+2009,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5229.0,Injury
+2009,USA,California,"Davenport, Santa Cruz County",Surfing,M,5227.0,Injury
+2009,USA,California,"San Onofre, San Diego County ",Surfing,M,5223.0,Injury
+2009,USA,Hawaii,"Kalama Park, Maui",Surfing,M,5222.0,Injury
+2009,USA,California,"San Onofre State Beach, San Diego County",Surfing,M,5218.0,Injury
+2009,UNITED KINGDOM,Devon,Mewstone Rock,Fishing,M,5217.0,Injury
+2009,USA,Florida,"Key Colony Beach, Monroe County",Swimming,M,5216.0,Injury
+2009,SOMALIA,0,300 miles off the coast ,Fishing,M,5214.0,Injury
+2009,USA,North Carolina,"Corolla, Currituck County",Swimming,M,5212.0,Fatal
+2009,NEVIS,0,Castle Beach,Swimming,M,5210.0,Injury
+2009,SOLOMON ISLANDS,Makira-Ulawa Province,"Kirakira, Makira Island (formerly San Cristobal)",Fishing,M,5209.0,Injury
+2009,USA,California,"Huntington Beach, Orange County",Surfing,M,5208.0,Injury
+2009,SOUTH AFRICA,Western Cape Province,Glentana,Surfing,M,5207.0,Fatal
+2009,USA,California,"Terramar Beach, Carlsbad, San Diego County",Swimming,F,5206.0,Injury
+2009,USA,Florida,"Ponce, Volusia County",Swimming,M,5204.0,Injury
+2009,USA,Hawaii,Kawa'a ,Surfing,M,5203.0,Injury
+2009,AUSTRALIA,New South Wales,Broken Head,Surfing,M,5200.0,Injury
+2009,VIETNAM,Binh Dinh Province,Quy Nhon ,Swimming,F,5199.0,Injury
+2009,SPAIN,Catalunya,Sant Salvador,Swimming,F,5196.0,Injury
+2009,USA,North Carolina,Holden Beach. Brunswick County,Swimming,F,5195.0,Injury
+2009,USA,Florida,"Intracoastal Waterway,      St. Petersburg",Swimming,F,5194.0,Injury
+2009,VIETNAM,Binh Dinh Province,Quy Nhon ,Swimming,M,5193.0,Injury
+2009,SOUTH AFRICA,Western Cape Province,"Jogensfontein, Stilbaai",Surfing,M,5190.0,Injury
+2009,USA,Florida,"Biscayne National Park, Miami",Swimming,F,5188.0,Injury
+2009,AUSTRALIA,New South Wales,"Seven Mile Beach, Gerroa",Surfing,M,5187.0,Injury
+2009,USA,California,"Shell Beach, San Luis Obispo County",Surfing,M,5186.0,Injury
+2009,TAIWAN,Off Green Island,Onboard the fishing vessel Chin Sheng Fa 13  ,Fishing,M,5180.0,Injury
+2009,USA,Florida,"Clearwater Beach, Pinellas County",Swimming,M,5179.0,Injury
+2009,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5178.0,Injury
+2009,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5177.0,Injury
+2009,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5176.0,Injury
+2009,USA,California,"San Onofre State Beach, San Diego County",Surfing,M,5172.0,Injury
+2009,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5171.0,Injury
+2009,PHILIPPINES,Batangas province,Mabini,Swimming,M,5170.0,Injury
+2009,USA,Florida,"Carlin Park, Jupiter Inlet",Surfing,M,5169.0,Injury
+2009,USA,Florida,"Walton Rocks, St Lucie County",Surfing,M,5168.0,Injury
+2009,SOUTH AFRICA,KwaZulu-Natal,Umtentweni,Swimming,M,5165.0,Injury
+2009,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. John's",Surfing,M,5161.0,Fatal
+2009,AUSTRALIA,New South Wales,Blue Bay,Surfing,M,5160.0,Injury
+2009,AUSTRALIA,New South Wales,South Broulee,Surfing,M,5159.0,Injury
+2009,AUSTRALIA,New South Wales,Bateman's Bay,Surfing,F,5158.0,Injury
+2009,USA,Florida,"Ponce Inlet, Volusia County",Surfing,F,5157.0,Injury
+2009,USA,Hawaii,Alenuihaha Channel,Swimming,M,5155.0,Injury
+2009,NEW CALEDONIA,South Province,Bourail,Surfing,M,5153.0,Fatal
+2009,SOUTH AFRICA,Western Cape Province,Off Cape Point,Fishing,M,5152.0,Injury
+2009,NEW ZEALAND,North Island,Taranaki,Fishing,M,5151.0,Injury
+2009,AUSTRALIA,New South Wales,Avalon,Surfing,M,5150.0,Injury
+2009,AUSTRALIA,Queensland,Batt Reef,Fishing,M,5149.0,Injury
+2009,AUSTRALIA,New South Wales,"Shelly Beach, near Port Macquarie",Surfing,M,5148.0,Injury
+2009,AUSTRALIA,New South Wales,"Bondi Beach, Sydney",Surfing,M,5147.0,Injury
+2009,AUSTRALIA,New South Wales,Cellito Beach,Surfing,M,5144.0,Injury
+2009,AUSTRALIA,New South Wales,Sandon,Surfing,M,5143.0,Injury
+2009,AZORES,0,Onboard the fishing vessel Nuevo Cedes ,Fishing,M,5142.0,Injury
+2009,NEW ZEALAND,North Island,Alderman Islands,Fishing,0,5139.0,Injury
+2009,AUSTRALIA,New South Wales,"Surf Beach, Batemans Bay",Swimming,M,5138.0,Injury
+2009,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. John's",Swimming,M,5137.0,Fatal
+2009,BRAZIL,Maranhão,Olho d'Água ,Swimming,M,5136.0,Injury
+2009,AUSTRALIA,Victoria,Off Tower Hill,Fishing,M,5135.0,Injury
+2009,NEW ZEALAND,South Island,Karitane Beach,Surfing,M,5134.0,Injury
+2009,AUSTRALIA,Tasmania,Binalong Bay,Surfing,F,5131.0,Injury
+2009,AUSTRALIA,New South Wales,Fingal Beach,Surfing,M,5130.0,Injury
+2009,NEW ZEALAND,North Island,Hawkes Bay,Fishing,0,5129.0,Injury
+2009,ECUADOR,Galapagos Islands,Isla Isabella,Surfing,M,5128.0,Injury
+2009,NEW ZEALAND,North Island,Haumoana ,Swimming,M,5127.0,Injury
+2008,NEW ZEALAND,North Island,Maraetai,Fishing,M,5119.0,Injury
+2008,SOUTH AFRICA,Western Cape Province,Plettenberg Bay,Fishing,M,5118.0,Injury
+2006,AUSTRALIA,New South Wales,Mowarry Point,Fishing,0,5117.0,Injury
+2008,AUSTRALIA,South Australia,North Haven,Fishing,M,5112.0,Injury
+2008,PHILIPPINES,Luzon,"off Paoay, Ilocos Norte Province",Fishing,M,5110.0,Fatal
+2008,AUSTRALIA,Northern Territory,Darwin,Fishing,M,5107.0,Injury
+2008,AUSTRALIA,New South Wales,Lake Macquarie,Surfing,M,5106.0,Injury
+2008,USA,Florida,"Santa Rosa Beach, Walton County",Fishing,M,5105.0,Injury
+2008,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5103.0,Injury
+2008,USA,Florida,Bethune Beach,Surfing,M,5102.0,Injury
+2008,AUSTRALIA,Northern Territory,Near Croker Island,Swimming,M,5101.0,Injury
+2008,USA,Florida,"Ormond-by-the-Sea, Volusia County",Swimming,M,5100.0,Injury
+2008,USA,Hawaii,"Ka'a'awa, Oahu",Surfing,M,5099.0,Injury
+2008,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,M,5098.0,Injury
+2008,AUSTRALIA,New South Wales,"Clarks Beach, Byron Bay",Surfing,M,5097.0,Injury
+2008,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,M,5096.0,Injury
+2008,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,M,5095.0,Injury
+2008,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5094.0,Injury
+2008,USA,Florida,Hutchinson Island,Surfing,M,5093.0,Injury
+2008,AUSTRALIA,New South Wales,"Tallow Beach, Byron Bay",Surfing,M,5092.0,Injury
+2008,USA,Hawaii,"McKenzie Beach Park in Pahoa, Hawai'i ",Swimming,M,5091.0,Injury
+2008,ENGLAND,North Devon, Lundy Island,Fishing,M,5090.0,Injury
+2008,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5089.0,Injury
+2008,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5088.0,Injury
+2008,USA,North Carolina,"Surf City, Topsail Island, Pender County",Surfing,F,5086.0,Injury
+2008,USA,Florida,"Sanibel Island, Lee County",Swimming,M,5085.0,Injury
+2008,AUSTRALIA,Victoria,Levys Beach,Surfing,M,5080.0,Injury
+2008,MEXICO,Cabo San Lucas,0,Swimming,M,5077.0,Injury
+2008,USA,Hawaii,"Honokowai, Maui",Swimming,M,5076.0,Injury
+2008,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5075.0,Injury
+2008,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5071.0,Injury
+2008,USA,South Carolina,"Isle of Palms, Charleston County",Surfing,M,5067.0,Injury
+2008,USA,North Carolina,"Emerald Isle, Carteret County",Swimming,F,5066.0,Injury
+2008,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5059.0,Injury
+2008,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,M,5058.0,Injury
+2008,BRAZIL,Bahia,Guarajuba,Surfing,M,5057.0,Injury
+2008,BRAZIL,Pernambuco,"Punta Del Chifre, Olinda",Surfing,M,5054.0,Injury
+2008,SCOTLAND,Easter Ross,Balintore Bay,Fishing,0,5052.0,Injury
+2008,BRAZIL,Pernambuco,"Piedade, Recife",Swimming,M,5050.0,Injury
+2008,USA,North Carolina,"Hammocks Beach State Park, Bear Island, Onslow County",Surfing,M,5049.0,Injury
+2008,MEXICO,Guerro,Playa Linda,Surfing,M,5047.0,Injury
+2008,MEXICO,Guerro,Pantla Beach,Surfing,M,5046.0,Fatal
+2008,AUSTRALIA,Western Australia,Albany,Swimming,M,5044.0,Injury
+2008,NEW CALEDONIA,North Province,Hienghène,Fishing,M,5043.0,Injury
+2008,SOUTH AFRICA,0,0,Fishing,M,5041.0,Injury
+2008,MEXICO,Guerro,Troncones Beach,Surfing,M,5040.0,Fatal
+2008,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5039.0,Injury
+2008,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5038.0,Injury
+2008,NEW CALEDONIA,North Province,Poindimié,Swimming,M,5037.0,Injury
+2008,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5036.0,Injury
+2008,USA,California,"Solana Beach, San Diego County",Swimming,M,5035.0,Fatal
+2008,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,5034.0,Injury
+2008,MEXICO,Quintana Roo,"Delfines Beach, Cancun",Swimming,M,5031.0,Injury
+2008,AUSTRALIA,Queensland,"Duranbah, Greenmount Beach",Surfing,M,5030.0,Injury
+2008,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,M,5029.0,Injury
+2008,USA,Florida,"1.4 miles south of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",Surfing,0,5026.0,Injury
+2008,USA,Florida,"New Smyrna Beach / Ponce Inlet, Volusia County",Surfing,M,5022.0,Injury
+2008,USA,California," Huntington Beach, Orange County",Surfing,M,5017.0,Injury
+2008,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,5014.0,Injury
+2008,AUSTRALIA,New South Wales,Horseshoe Bay,Surfing,F,5013.0,Injury
+2008,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,M,5006.0,Injury
+2008,MEXICO,Baja California,Playas de Tijuana,Surfing,M,5004.0,Injury
+2007,ECUADOR,Galapagos Islands,San Cristobal Island,Surfing,M,5003.0,Injury
+2007,AUSTRALIA,New South Wales,Jimmy's Beach,Surfing,M,5001.0,Injury
+2007,AUSTRALIA,Queensland,South Stradbroke Island,Swimming,M,5000.0,Injury
+2007,AUSTRALIA,New South Wales,Bondi ,Swimming,M,4999.0,Injury
+2007,USA,Hawaii,"Waialua Bay, O'ahu",Surfing,M,4998.0,Injury
+2007,NEW ZEALAND,South Island,Kaikoura,Surfing,F,4997.0,Injury
+2007,AUSTRALIA,Western Australia,In a tidal creek    5 km from Wickham,Fishing,M,4995.0,Injury
+2007,AUSTRALIA,New South Wales,"Wategos Beach, Byon Bay",Surfing,M,4994.0,Injury
+2007,SOUTH AFRICA,Western Cape Province,The Strand,Surfing,M,4993.0,Injury
+2007,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4992.0,Injury
+2007,USA,Florida,"Round Island Park, Indian River County",Surfing,M,4991.0,Injury
+2007,SOUTH AFRICA,Eastern Cape Province,Bonza Bay,Surfing,M,4990.0,Injury
+2007,USA,California,"Venice Pier, Venice, Los Angeles County",Surfing,M,4985.0,Injury
+2007,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,M,4984.0,Injury
+2007,USA,California,"Santa Monica, Los Angeles County",Surfing,M,4983.0,Injury
+2007,NEW CALEDONIA,Loyalty Islands,"Bay of Luengoni, Lifou Island",Swimming,F,4981.0,Fatal
+2007,USA,California,"Moonstone Beach, Humboldt County",Surfing,F,4979.0,Injury
+2007,EGYPT,Red Sea,Daedalus Reef ,Swimming,F,4978.0,Injury
+2007,USA,Florida,Huguenot Park,Surfing,F,4976.0,Injury
+2007,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4975.0,Injury
+2007,USA,Florida,"Flagler Beach, Flagler County",Surfing,F,4972.0,Injury
+2007,USA,Florida,"Fort Lauderdale, Broward County",Swimming,M,4966.0,Injury
+2007,USA,California,"Marina State Beach, Monterey County",Surfing,M,4964.0,Injury
+2007,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4963.0,Injury
+2007,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4962.0,Injury
+2007,USA,Delaware,"Indian River Inlet, Rehoboth Beach",Fishing,M,4960.0,Injury
+2007,USA,Florida,"Islamorada Founder's Park, Plantation Key, Monroe County",Swimming,M,4959.0,Injury
+2007,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4958.0,Injury
+2007,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,F,4955.0,Injury
+2007,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,M,4953.0,Injury
+2007,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,4950.0,Injury
+2007,USA,California,"Imperial Beach, San Diego County",Surfing,M,4949.0,Injury
+2007,USA,North Carolina,"North Topsail Beach, Onslow  County",Swimming,M,4944.0,Injury
+2007,USA,California,"Faria Beach, Ventura County",Swimming,F,4942.0,Injury
+2007,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,4939.0,Injury
+2007,USA,California,"Will Rogers State Beach, Los Angeles County",Swimming,F,4935.0,Injury
+2007,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4934.0,Injury
+2007,USA,Hawaii,"Silva's Channel, Mokuleia, O'ahu",Surfing,M,4933.0,Injury
+2007,USA,Florida,"Vilano Beach, St.  Johns County",Surfing,F,4932.0,Injury
+2007,USA,Florida,"Turtle Beach, Siesta Key, Sarasota County",Swimming,F,4931.0,Injury
+2007,AUSTRALIA,New South Wales,"Shelly Beach, Crescent Head",Surfing,M,4930.0,Injury
+2007,ENGLAND,Kent,Folkestone,Fishing,M,4927.0,Injury
+2007,AUSTRALIA,Victoria,Warrnambool,Surfing,M,4925.0,Injury
+2007,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,F,4924.0,Injury
+2007,AUSTRALIA,New South Wales,Kingscliff Beach,Swimming,M,4922.0,Injury
+2007,USA,Florida,Naples,Swimming,M,4920.0,Injury
+2007,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4915.0,Injury
+2007,USA,Florida,"Florida Keys, Monroe County",Fishing,0,4914.0,Injury
+2007,NEW CALEDONIA,South Province,Dumbéa,Surfing,M,4913.0,Injury
+2007,USA,Florida,"Normandy Beach, Hutchinson Island,  St. Lucie County",Surfing,M,4911.0,Injury
+2007,USA,Florida,Jupiter Inlet,Surfing,M,4908.0,Injury
+2007,AUSTRALIA,New South Wales,South Golden Beach,Surfing,F,4907.0,Injury
+2007,AUSTRALIA,Queensland,"Moore Park, north of Bundaberg",Swimming,F,4905.0,Injury
+2007,USA,Florida,"Tiger Shores Beach, Martin County",Surfing,M,4904.0,Injury
+2007,COSTA RICA,0,0,Swimming,M,4902.0,Injury
+2007,AUSTRALIA,New South Wales,Brunswick Heads,Swimming,M,4896.0,Injury
+2007,AUSTRALIA,New South Wales,Sandbar Beach,Surfing,M,4894.0,Injury
+2007,USA,New York,"Smith Point, Long Island",Surfing,M,4893.0,Injury
+2007,USA,Hawaii,"Majors Bay, Kaua'i",Surfing,M,4892.0,Injury
+2006,AUSTRALIA,Victoria,"Winki Pop, Bells Beach",Surfing,M,4891.0,Injury
+2006,NEW ZEALAND,North Island,"Raglan, Manu Bay",Surfing,M,4890.0,Injury
+2006,USA,California,"Dillon Beach, Marin County",Surfing,M,4889.0,Injury
+2006,SOUTH AFRICA,KwaZulu-Natal,Cape Vidal,Fishing,M,4888.0,Injury
+2006,USA,Hawaii,"Kihei, Maui",Swimming,M,4885.0,Injury
+2006,USA,Oregon,"Siletz River mouth, Lincoln County",Surfing,M,4883.0,Injury
+2006,USA,Florida,Sebastian Inlet,Fishing,M,4882.0,Injury
+2006,USA,Florida,"Daytona Beach, Volusia County",Surfing,M,4881.0,Injury
+2006,USA,Texas,"Isla Blanca Park, South Padre Island",Surfing,M,4880.0,Injury
+2006,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4875.0,Injury
+2006,USA,North Carolina,Onslow Beach,Surfing,M,4873.0,Injury
+2006,USA,Florida,"Singer Island, Riviera Beach",Swimming,M,4872.0,Injury
+2006,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4871.0,Injury
+2006,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,M,4867.0,Injury
+2006,SOUTH AFRICA,Western Cape Province,Noordhoek,Surfing,M,4866.0,Injury
+2006,USA,Oregon,"Florence, Lane County",Surfing,M,4865.0,Injury
+2006,AUSTRALIA,South Australia,"Pennington Bay, Kangaroo Island",Surfing,M,4864.0,Injury
+2006,REUNION,Saint-Pierre,Pointe du Diable,Surfing,M,4859.0,Fatal
+2006,SOUTH AFRICA,Western Cape Province,Danger Reef,Surfing,M,4858.0,Injury
+2006,USA,Oregon,Oswald State Park,Surfing,M,4853.0,Injury
+2006,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,M,4851.0,Injury
+2006,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4849.0,Injury
+2006,SPAIN,Alicante,San Juan Beach  ,Swimming,F,4845.0,Injury
+2006,USA,South Carolina,"Kiawah Island, Charleston County",Swimming,F,4844.0,Injury
+2006,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",Swimming,M,4839.0,Injury
+2006,USA,Florida,Fort Myers,Fishing,M,4835.0,Injury
+2006,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,F,4833.0,Injury
+2006,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4830.0,Injury
+2006,AUSTRALIA,South Australia,Waitpinga,Surfing,M,4828.0,Injury
+2006,USA,Hawaii,"North Shore, O'ahu",Surfing,M,4825.0,Injury
+2006,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Surfing,M,4823.0,Injury
+2006,USA,Florida,"Hutchinson Island, St. Lucie County",Swimming,F,4820.0,Injury
+2006,USA,Florida,"Sebastian Inlet, Brevard County",Surfing,M,4817.0,Injury
+2006,USA,Florida,"Port of the Islands, Collier County",Fishing,M,4815.0,Injury
+2006,AUSTRALIA,New South Wales,Newcastle Beach,Surfing,M,4814.0,Injury
+2006,BRAZIL,Pernambuco,Piedade,Swimming,M,4812.0,Injury
+2006,Sierra Leone,Western Area,"Lumely Beach, Freetown",Fishing,M,4810.0,Fatal
+2006,USA,Hawaii,"Leftovers, near Waimea Bay, O'ahu",Surfing,F,4809.0,Injury
+2006,SOUTH AFRICA,Eastern Cape Province,Port Alfred,Swimming,M,4808.0,Fatal
+2006,FIJI,Vitu Levu,Sigatoka,Surfing,M,4807.0,Injury
+2006,AUSTRALIA,New South Wales,"Bondi, Sydney",Surfing,M,4806.0,Injury
+2006,AUSTRALIA,Queensland,"Point Vernon, Hervey Bay",Swimming,M,4802.0,Injury
+2006,AUSTRALIA,South Australia,"Brighton Beach, Adelaide",Fishing,M,4801.0,Injury
+2006,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",Surfing,M,4800.0,Injury
+2006,TONGA,Vava'u,Tuanuku,Swimming,F,4799.0,Fatal
+2006,AUSTRALIA,Queensland,"Amity Point, North Stradbroke Island",Swimming,F,4791.0,Fatal
+2006,USA,Florida,"Round Island Park, Indian River County",Surfing,M,4790.0,Injury
+2005,USA,Oregon,"Tillamook Head, Clatsop County",Surfing,M,4788.0,Injury
+2005,USA,Hawaii,"Keawakapu Beach, Maui",Swimming,M,4787.0,Injury
+2005,AUSTRALIA,South Australia,"Middle Beach, 40 km north of Adelaide",Fishing,0,4784.0,Injury
+2005,USA,Florida,"Cape San Blas, Gulf County",Surfing,M,4783.0,Injury
+2005,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,M,4782.0,Injury
+2005,AUSTRALIA,Victoria,"6 km off Collendina, south of Melbourne",Fishing,0,4781.0,Injury
+2005,AUSTRALIA,Victoria,Flinders,Surfing,M,4780.0,Injury
+2005,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",Surfing,M,4779.0,Injury
+2005,USA,Florida,"Jensen Beach, Martin County ",Surfing,M,4777.0,Injury
+2005,USA,Florida,"New Smyrna  Beach, Volusia County",Surfing,M,4776.0,Injury
+2005,USA,Florida,"New Smyrna  Beach, Volusia County",Surfing,M,4773.0,Injury
+2005,USA,California,"Mavericks, Half Moon Bay, San Mateo County",Surfing,M,4772.0,Injury
+2005,USA,California,"Ocean Beach, San Francisco, San Francisco County",Surfing,M,4771.0,Injury
+2005,USA,California,"Klamath River mouth, Del Norte County",Surfing,M,4767.0,Injury
+2005,USA,California,"Salmon Beach, Sonoma County",Surfing,F,4766.0,Injury
+2005,USA,Hawaii,"Honokowai, Maui",Surfing,M,4764.0,Injury
+2005,AUSTRALIA,New South Wales,Arakoon's Little Bay,Surfing,M,4759.0,Injury
+2005,AUSTRALIA,South Australia,Kangaroo Island,Surfing,M,4758.0,Injury
+2005,AUSTRALIA,Western Australia,"Scarborough Beach, Perth",Surfing,M,4757.0,Injury
+2005,USA,Florida,"Tigertail Beach, Collier County",Surfing,M,4756.0,Injury
+2005,USA,South Carolina,Folly Beach,Surfing,M,4754.0,Fatal
+2005,AUSTRALIA,South Australia,"Fishery Bay, Eyre Peninsula",Surfing,M,4751.0,Injury
+2005,USA,California,"Scripps, LaJolla, San Diego County",Surfing,M,4747.0,Injury
+2005,USA,South Carolina,"34th Avenue North, Myrtle Beach, Horry County",Swimming,M,4745.0,Injury
+2005,USA,North Carolina,"Carolina Beach off Texas Avenue, New Hanover County",Surfing,M,4742.0,Injury
+2005,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,M,4741.0,Injury
+2005,Seychelles,Inner Islands,Off North Island,Fishing,M,4740.0,Fatal
+2005,USA,Florida,"Ormond Beach, Volusia County",Surfing,M,4738.0,Injury
+2005,USA,Florida,"Quarter mile south of Ponce de Leon Inlet, Volusia County",Surfing,M,4737.0,Injury
+2005,LIBERIA,0,0,Swimming,M,4736.0,Injury
+2005,USA,North Carolina,"Holden Beach, Brunswick County",Swimming,M,4733.0,Injury
+2005,USA,Florida,"Cape San Blas, Gulf County",Fishing,M,4730.0,Injury
+2005,VANUATU,Malampa Province,Atchin Island off Malakula,Swimming,F,4728.0,Fatal
+2005,MEXICO ,Baja California,San Luis beach,Surfing,M,4727.0,Injury
+2005,USA,Hawaii,Maui,Swimming,M,4726.0,Injury
+2005,USA,Florida,"Howard E. Futch Memorial Park at Paradise Beach, Brevard County",Swimming,M,4725.0,Injury
+2005,USA,New Jersey,"Surf City, Long Beach Island, Ocean County",Surfing,M,4722.0,Injury
+2005,USA,Florida,Daytona Beach Shores,Swimming,M,4719.0,Injury
+2005,SOUTH AFRICA,Eastern Cape Province,Kei River Mouth,Surfing,M,4717.0,Injury
+2005,MADAGASCAR,0,0,Fishing,M,4714.0,Injury
+2005,USA,Hawaii,"Noreiga's, Maui",Surfing,M,4712.0,Injury
+2005,AUSTRALIA,New South Wales,Bermagui,Fishing,M,4711.0,Injury
+2005,AUSTRALIA,New South Wales,Bronte Beach,Surfing,M,4708.0,Injury
+2005,USA,Florida,"Central Gulf Coast, St. John County",Surfing,M,4706.0,Injury
+2005,USA,Texas,"Isla Blanca Park, South Padre Island, Cameron County",Surfing,M,4705.0,Injury
+2005,SOUTH AFRICA,Western Cape Province,Noordhoek,Surfing,M,4702.0,Injury
+2005,AUSTRALIA,New South Wales,0,Surfing,M,4701.0,Injury
+2005,VENEZUELA,0,Punta Caracas,Surfing,M,4700.0,Injury
+2005,NEW ZEALAND,North Island,"Waiapu River mouth , East Cape",Fishing,M,4696.0,Injury
+2005,AUSTRALIA,Queensland,Brisbane River,Swimming,M,4694.0,Injury
+2005,USA,Hawaii,"Rocky Point, north shore of O'ahu",Surfing,M,4692.0,Injury
+2005,BRAZIL,Bahia,Ilhéus,Surfing,M,4690.0,Injury
+2005,CUBA,Santiago de Cuba Province,Uvero,Swimming,M,4689.0,Injury
+2004,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",Surfing,M,4682.0,Injury
+2004,SOUTH AFRICA,Western Cape Province,"Fish Hoek, False Bay",Swimming,F,4680.0,Fatal
+2004,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,lli,4679.0,Injury
+2004,AUSTRALIA,New South Wales,Stockton Beach,Surfing,M,4673.0,Injury
+2004,USA,California,"Limantour Beach, Point Reyes National Seashore",Surfing,M,4672.0,Injury
+2004,SOUTH AFRICA,Eastern Cape Province,Jeffreys Bay,Surfing,M,4670.0,Injury
+2004,USA,California,"Pismo Beach, San Luis Obispo County",Surfing,M,4668.0,Injury
+2004,USA,California,"Lifeguard Tower 16, Huntington Beach, Orange County",Surfing,M,4667.0,Injury
+2004,USA,Oregon,Gold  Beach,Surfing,M,4665.0,Injury
+2004,BRAZIL,Pernambuco,"Pina, Recife",Swimming,0,4663.0,Fatal
+2004,USA,California,"204s, San Clemente, Orange County",Surfing,M,4659.0,Injury
+2004,USA,Florida,"Big Bayou, St. Petersburg, Pinellas County ",Swimming,M,4657.0,Injury
+2004,SOUTH AFRICA,KwaZulu-Natal,Park Rynie,Fishing,0,4655.0,Injury
+2004,USA,Florida,"Cocoa  Beach, Brevard County",Surfing,F,4654.0,Injury
+2004,USA,North Carolina,"Rodanthe, Dare County",Surfing,F,4652.0,Injury
+2004,USA,North Carolina,"Carolina Beach, New Hanover County",Swimming,F,4651.0,Injury
+2004,USA,Texas,Galveston Island,Swimming,F,4650.0,Injury
+,AUSTRALIA,Western Australia,"7 km off Trigg surf beach, Perth",Fishing,0,4648.0,Injury
+2004,AUSTRALIA,Western Australia,"Lefthanders Beach, Margaret River",Surfing,M,4646.0,Fatal
+2004,USA,California,"San Onofre State Beach, San Diego County",Surfing,M,4643.0,Injury
+2004,USA,Florida,"Daytona Beach Shores, Volusia County",Swimming,M,4639.0,Injury
+2004,BRAZIL,Pernambuco,Piedade Beach,Swimming,M,4636.0,Injury
+2004,USA,California,"Salmon Creek, Sonoma County",Surfing,M,4635.0,Injury
+2004,USA,Florida,St. Augustine  St. Johns County,Swimming,M,4633.0,Injury
+2004,BRAZIL,Pernambuco,Piedade ,Swimming,M,4628.0,Fatal
+2004,NEW ZEALAND,North Island,Motunui,Fishing,0,4626.0,Injury
+2004,USA,Hawaii,"Kahana Beach, Maui",Surfing,M,4623.0,Fatal
+2004,SOUTH AFRICA,Western Cape Province,"Surfers' Corner, Muizenberg, False Bay",Surfing,M,4622.0,Injury
+2004,USA,Hawaii,Velzyland,Surfing,F,4621.0,Injury
+2004,USA,Florida,"Stuart Rocks, Martin County",Surfing,M,4619.0,Injury
+2004,USA,Florida,"Pelican Beach Park, Satellite Beach, Brevard County",Surfing,M,4617.0,Injury
+2004,REUNION,Saint-Benoît,Spot de la gare,Surfing,M,4616.0,Injury
+2004,USA,Florida,"Sanibel Island, Lee County",Swimming,M,4615.0,Injury
+2004,USA,Hawaii,"Kalihiwai Beach, Kauai",Surfing,M,4612.0,Injury
+2004,BRAZIL,Pernambuco,"Piedade Beach, Recife",Swimming,M,4610.0,Fatal
+2004,NEW ZEALAND,"South Island, near Karitane north of Dunedin",South Beach,Surfing,M,4609.0,Injury
+2004,AUSTRALIA,New South Wales,"Taree, Old Bar Beach",Swimming,M,4608.0,Injury
+2004,URUGUAY,Rocha,Ensenada de la Coronilla,Surfing,M,4603.0,Injury
+2004,VENEZUELA,Anzoategui,"Playa Colorada Beach, Mochima National Park, only 200 m west of Santa Cruz Beach",Swimming,M,4601.0,Injury
+2004,SOUTH AFRICA,Eastern Cape Province,"West Beach, Port Alfred",Surfing,M,4597.0,Injury
+2004,AUSTRALIA,Western Australia,Redgate Beach,Surfing,M,4594.0,Injury
+2003,USA,Florida,"Miami, Dade County",Swimming,M,4592.0,Injury
+2003,USA,Florida,"Melbourne Beach, Brevard County",Swimming,M,4591.0,Injury
+2003,AUSTRALIA,Western Australia,Perth? (Margaret River District),Swimming,M,4588.0,Injury
+2003,AUSTRALIA,Western Australia,Perth? (Margaret River District),Swimming,M,4587.0,Injury
+2003,USA,Florida,"Daytona Beach, Volusia County",Surfing,F,4585.0,Injury
+2003,USA,Florida,"South Jetty, New Smyrna Beach, Volusia County",Surfing,M,4583.0,Injury
+2003,USA,Florida,"Ponte Vedra Beach, St. Johns County",Surfing,M,4578.0,Injury
+2003,AUSTRALIA,New South Wales,"Lighthouse Beach, Seal Rocks",Surfing,M,4577.0,Injury
+2003,USA,Hawaii,"Tunnels surf break off Makua Beach, Kaua'i",Surfing,F,4576.0,Injury
+2003,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4575.0,Injury
+2003,USA,Florida,Near Patrick Air Force Base Brevard County,Surfing,M,4573.0,Injury
+2003,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,F,4571.0,Injury
+2003,USA,Florida,"Stuart Park Beach, Martin County",Surfing,M,4570.0,Injury
+2003,USA,Florida,"South Jetty, New Smyrna Beach, Volusia County",Surfing,M,4569.0,Injury
+2003,USA,Florida,"North Hutchinson Island, St. Lucie Couny",Surfing,M,4565.0,Injury
+2003,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,M,4564.0,Injury
+2003,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,M,4563.0,Injury
+2003,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4562.0,Injury
+2003,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4561.0,Injury
+2003,USA,Florida,"Bathtub Reef Beach, Martin County",Swimming,F,4559.0,Injury
+2003,USA,Texas,1.5 miles off Surfside ,Fishing,M,4554.0,Injury
+2003,USA,California,"Venice Beach, Los Angeles County",Swimming,M,4552.0,Injury
+2003,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,M,4549.0,Injury
+2003,USA,Florida,"Canova Beach, Brevard County",Surfing,M,4545.0,Injury
+2003,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4540.0,Injury
+2003,USA,Florida,St Augustine Beach. St. Johns County,Surfing,M,4539.0,Injury
+2003,USA,Johnston Atoll,0,Swimming,M,4535.0,Injury
+2003,USA,Florida,"Ponce Inlet, Volusia County",Surfing,0,4533.0,Injury
+2003,USA,South Carolina,"Pawleys Island, Georgetown County",Swimming,F,4532.0,Injury
+2003,USA,Florida,"Coral Cove Park, Jupiter Inlet, Palm Beach County",Surfing,M,4531.0,Injury
+2003,USA,Hawaii,Between Magic Sands Beach and Kahaluu Beach on the Kona coast,Swimming,M,4529.0,Injury
+2003,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4528.0,Injury
+2003,BRAZIL,Pernambuco,"Pau Amarelo Beach, Paulista District (17 km from Recife)",Surfing,M,4523.0,Injury
+2003,BRAZIL,Rio de Janeiro,"Copacabana Beach, Rio de Janiero",Swimming,M,4522.0,Injury
+2003,USA,Florida,"Melbourne Beach, Brevard County ",Surfing,M,4521.0,Injury
+2003,USA,Florida,"Shepard Park, Cocoa Beach, Brevard County ",Surfing,M,4520.0,Injury
+2003,USA,Florida,"Playalinda Beach, Brevard County",Surfing,M,4519.0,Injury
+2003,USA,Florida,"Sunglow Pier, Daytona Beach Shores, Volusia County",Surfing,M,4518.0,Injury
+2003,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4517.0,Injury
+2003,USA,Florida,"North Beach, Patrick AFB, Brevard County",Surfing,M,4515.0,Injury
+2003,VENEZUELA,Nueva Esparta,"El Yaqu, Isla de Margarita",Surfing,M,4513.0,Injury
+2003,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,4512.0,Injury
+2003,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4511.0,Injury
+2003,USA,Florida,"Jupiter, Palm Beach County",Swimming,M,4507.0,Injury
+2003,AUSTRALIA,New South Wales,"Coogee Bay, near Sydney",Swimming,M,4506.0,Injury
+2003,AUSTRALIA,Queensland,Burleigh Lake on the Gold Coast,Swimming,M,4505.0,Fatal
+2003,COSTA RICA,North Pacific coast,Playa Tamarindo ,Surfing,M,4503.0,Injury
+2003,AUSTRALIA,Western Australia,Left break at the Hot Spot at Sheringa Beach,Surfing,F,4502.0,Injury
+2002,AUSTRALIA,Queensland,Golden Beach,Swimming,M,4498.0,Injury
+2002,AUSTRALIA,Queensland,Miami Lake,Swimming,M,4497.0,Fatal
+2002,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Surfing,M,4496.0,Fatal
+2002,USA,Hawaii,Ka'anapali,Swimming,F,4493.0,Injury
+2002,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,M,4491.0,Injury
+2002,USA,Hawaii,"Kama'ole Beach Park I, Kihei, Maui",Swimming,F,4488.0,Injury
+2002,BRAZIL,Pernambuco,"Piedade Beach, Jaboatão dos Guararapes City, Recife",Swimming,M,4487.0,Fatal
+2002,USA,Florida,"Opposite main gate at Patrick Air Force Base, Cape Canaveral, Brevard County",Surfing,M,4486.0,Injury
+2002,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4485.0,Injury
+2002,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4484.0,Injury
+2002,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4483.0,Injury
+2002,USA,Florida,"Ormond Beach, Volusia County",Surfing,M,4482.0,Injury
+2002,USA,Florida,"Sebastian Inlet, Brevard County",Surfing,M,4481.0,Injury
+2002,USA,Florida,"Key Largo, Monroe County",Fishing,M,4479.0,Injury
+2002,TONGA,Vava'u,Swimming with humpback whales,Swimming,M,4478.0,Injury
+2002,USA,California,"Moonstone Beach, Humboldt County",Surfing,M,4476.0,Injury
+2002,BRAZIL,Pernambuco,"Piedade Beach, Jaboatão dos Guararapes City",Swimming,M,4475.0,Injury
+2002,USA,Hawaii,"Kewalo Basin Channel, O'ahu",Surfing,M,4470.0,Injury
+2002,USA,Alabama,"Gulf of Mexico, 65 miles offshore from Mobile",Swimming,F,4469.0,Injury
+2002,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4468.0,Injury
+2002,USA,Florida,"Vero Beach, Indian River County",Surfing,M,4467.0,Injury
+2002,USA,South Carolina,"Myrtle Beach, Horry County",Surfing,M,4463.0,Injury
+2002,USA,North Carolina,"Emerald Isle, Carteret County",Swimming,F,4462.0,Injury
+2002,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,M,4461.0,Injury
+2002,BRAZIL,Pernambuco,"Piedade Beach, Recife",Surfing,M,4459.0,Injury
+2002,AUSTRALIA,Queensland,Sunshine Beach,Surfing,M,4457.0,Injury
+2002,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,F,4456.0,Injury
+2002,USA,Florida,"St Augustine Beach, St Johns County",Surfing,M,4451.0,Injury
+2002,USA,Florida,"South of Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,M,4450.0,Injury
+2002,USA,Florida,"Jensen Beach, Martin County ",Swimming,M,4449.0,Injury
+2002,USA,California,"Stinson Beach, Marin County",Surfing,M,4447.0,Injury
+2002,COSTA RICA,Guanacaste,Playa Grande,Surfing,M,4443.0,Injury
+2002,USA,Florida,"Ten Thousand Islands National Wildlife Refuge, Collier County",Fishing,M,4441.0,Injury
+2002,BRAZIL,Pernambuco,"Pina, Recife",Surfing,M,4440.0,Injury
+2002,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4435.0,Injury
+2002,AUSTRALIA,New South Wales,"Bar Beach, Newcastle",Swimming,M,4434.0,Injury
+2002,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Swimming,M,4428.0,Fatal
+2002,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4425.0,Injury
+2002,AUSTRALIA,Queensland,Sunshine Beach,Surfing,M,4422.0,Injury
+2002,AUSTRALIA,New South Wales,Just north of Fingal Spit,Surfing,M,4419.0,Injury
+2002,AUSTRALIA,Western Australia,Collie River ,Swimming,M,4418.0,Injury
+2002,SOUTH AFRICA,KwaZulu-Natal,Durban Harbor,Fishing,M,4417.0,Injury
+2002,BRAZIL,Pernambuco,Candeias,Swimming,0,4416.0,Fatal
+2001,AUSTRALIA,Western Australia,"Honeycombs, 250 km south of Perth",Surfing,M,4413.0,Injury
+2001,AUSTRALIA,New South Wales,"Flat Rock Beach, Lennox Head",Surfing,M,4412.0,Injury
+2001,USA,Hawaii,"Kapalua, Maui",Surfing,0,4411.0,Injury
+2001,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4404.0,Injury
+2001,USA,North Carolina,"North Topsail Beach, Onslow County",Surfing,M,4401.0,Injury
+2001,USA,Florida,"Everglades National Park, Monroe County",Fishing,M,4399.0,Injury
+2001,USA,South Carolina,"Waites Island, Horry County",Swimming,F,4397.0,Injury
+2001,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Swimming,F,4395.0,Injury
+2001,USA,Florida,"Daytona, Volusia County ",Surfing,M,4387.0,Injury
+2001,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4386.0,Injury
+2001,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4385.0,Injury
+2001,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,F,4384.0,Injury
+2001,USA,Florida,"Wilbur-by-the-Sea, Volusia County",Surfing,F,4383.0,Injury
+2001,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4382.0,Injury
+2001,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4381.0,Injury
+2001,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4380.0,Injury
+2001,BAHAMAS,Grand Bahama Island,Freeport,Swimming,M,4376.0,Injury
+2001,ITALY,0,Rimini,Fishing,0,4375.0,Injury
+2001,USA,Massachusetts,Chatham Island,Fishing,0,4371.0,Injury
+2001,USA,Florida,"Santa Rosa Island, Escambia County",Surfing,M,4370.0,Injury
+2001,MEXICO,Baja California,Ensenada,Surfing,M,4368.0,Injury
+2001,USA,Florida,Gulf Islands National Seashore,Swimming,M,4367.0,Injury
+2001,USA,Texas,Padre Island National Seashore,Swimming,M,4364.0,Injury
+2001,USA,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",Swimming,M,4359.0,Injury
+2001,USA,South Carolina,"Fripp Island, Beaufort County",Swimming,M,4358.0,Injury
+2001,SOUTH AFRICA,Eastern Cape Province,East London,Surfing,M,4355.0,Injury
+2001,AUSTRALIA,New South Wales,Noraville,Surfing,M,4354.0,Injury
+2001,USA,Florida,"Jacksonville, Duval County",Surfing,M,4353.0,Injury
+2001,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4350.0,Injury
+2001,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4349.0,Injury
+2001,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4347.0,Injury
+2001,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4346.0,Injury
+2001,USA,Florida,"New Smyrna Beach / Waveland, Volusia County",Surfing,M,4344.0,Injury
+2001,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4343.0,Injury
+2001,USA,Florida,"New Smyrna Beach / Waveland, Volusia County",Surfing,M,4342.0,Injury
+2001,USA,Hawaii,"Ewa Beach, O'ahu",Surfing,M,4341.0,Injury
+2001,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,0,4340.0,Injury
+2001,SOUTH AFRICA,Eastern Cape Province,Cape St. Francis,Surfing,M,4339.0,Injury
+2001,AUSTRALIA,New South Wales,Nambucca River Entrance,Surfing,M,4335.0,Injury
+2001,USA,Florida,"Coral Cove Park, Jupiter Island, Martin County",Surfing,M,4333.0,Injury
+2001,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Swimming,M,4331.0,Fatal
+2001,AUSTRALIA,New South Wales,Broome Head,Surfing,M,4327.0,Injury
+2001,CUBA,Holquin Province,Off Blau Costa Verde resort,Swimming,F,4325.0,Injury
+2001,AUSTRALIA,South Australia,Adelaide,Fishing,0,4324.0,Injury
+2001,USA,California,"Sunset Cliffs, San Diego",Surfing,M,4323.0,Injury
+2000,NEW ZEALAND,Cook Islands,"Arorangi, Rarotonga",Surfing,F,4316.0,Fatal
+2000,USA,Florida,"Bonita Springs, Lee County",Swimming,M,4313.0,Injury
+2000,AUSTRALIA,Western Australia,"Cottesloe Beach, Perth",Swimming,M,4311.0,Injury
+2000,AUSTRALIA,Western Australia,"Cottesloe Beach, Perth",Swimming,M,4310.0,Fatal
+2000,USA,California,"1/4 to 1/2 m north of the jetty at Bunkers, Eureka, Humboldt County",Surfing,M,4309.0,Injury
+2000,USA,Florida,"Fort Pierce Inlet State Park, St Lucie County",Surfing,M,4307.0,Injury
+2000,USA,Florida,"South Beach, Sebastian, Indian River County",Swimming,M,4305.0,Injury
+2000,USA,Florida,"Lake Worth Inlet/West Palm Beach, Palm Beach County",Surfing,M,4304.0,Injury
+2000,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4303.0,Injury
+2000,USA,North Carolina,"Wrightsville Beach, New Hanover County",Surfing,M,4301.0,Injury
+2000,AUSTRALIA,South Australia,"Black Point, Eyre Peninsula",Surfing,M,4299.0,Fatal
+2000,AUSTRALIA,South Australia,Cactus Beach near Penong,Surfing,M,4298.0,Fatal
+2000,OKINAWA,Miyako Island,Sunayama Beach,Surfing,M,4296.0,Fatal
+2000,USA,Florida,"Sebastian Inlet, Indian River or Brevard County",Surfing,F,4293.0,Injury
+2000,USA,Florida,"Vero Beach, Indian River County",Swimming,M,4291.0,Injury
+2000,TANZANIA,0,"Coco Beach, Dar-es-Salaam (Reported as the 5th fatality in 3 months at Coco Beach)",Swimming,M,4289.0,Fatal
+2000,REUNION,Saint-Pierre,Pic du Diable ,Surfing,M,4287.0,Injury
+2000,TANZANIA,0,"Coco Beach, Dar-es-Salaam",Swimming,0,4286.0,Fatal
+2000,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,M,4285.0,Injury
+2000,TANZANIA,0,"Coco Beach, Dar-es-Salaam",Swimming,0,4276.0,Fatal
+2000,USA,North Carolina,"Oceanic Pier, Wrightsville Beach, New Hanover County",Surfing,M,4273.0,Injury
+2000,USA,North Carolina,"Holden Beach, Brunswick County",Surfing,M,4272.0,Injury
+2000,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",Surfing,M,4271.0,Injury
+2000,SOUTH AFRICA,Eastern Cape Province,Cape Recife,Surfing,M,4270.0,Injury
+2000,SOUTH AFRICA,KwaZulu-Natal,South of Durban,Surfing,M,4269.0,Injury
+2000,TANZANIA,0,"Coco Beach, Dar-es-Salaam",Swimming,0,4259.0,Fatal
+2000,NEW ZEALAND,North Island,"Papamoa Beach, Bay of Plenty",Fishing,M,4257.0,Injury
+2000,USA,Texas,"J.P. Luby Surf Park, Corpus Christi",Surfing,M,4254.0,Injury
+2000,USA,Alabama,"Gulf Shores, Baldwin County",Swimming,M,4253.0,Injury
+2000,TANZANIA,0,"Coco Beach in Oyster Bay, 7 km north of Dar-es-Salaam",Swimming,M,4250.0,Fatal
+2000,USA,Florida,Santa Rosa Sound Escambia County,Fishing,M,4243.0,Injury
+2000,AUSTRALIA,Queensland,"Main Beach, Gold Coast",Swimming,M,4242.0,Injury
+2000,USA,Florida,"Floridana Beach, Brevard County",Surfing,M,4240.0,Injury
+2000,AUSTRALIA,New South Wales,"McMasters Beach, Central Coast",Surfing,M,4238.0,Injury
+2000,AUSTRALIA,New South Wales,"Taronga Wharf, Athol Bay, Sydney Harbor",Swimming,M,4234.0,Injury
+2000,NEW ZEALAND,South Island,Oreti Beach (reported as the 4th person bitten in NZ in 2000),Surfing,M,4229.0,Injury
+2000,AUSTRALIA,South Australia,"Point Sinclair, Cactus Beach near Penong",Surfing,M,4228.0,Injury
+1999,NEW ZEALAND,South Island,Oreti Beach,Surfing,M,4224.0,Injury
+1999,NEW ZEALAND,South Island,Oreti Beach,Swimming,F,4223.0,Injury
+1999,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Surfing,M,4221.0,Injury
+1999,USA,Florida,"Boynton Beach, Palm Beach County",Surfing,M,4218.0,Injury
+1999,USA,Florida,"Palm Beach, Palm Beach County",Surfing,M,4217.0,Injury
+1999,USA,Hawaii,"Big Island off Kona Village Resort, North Kona",Swimming,F,4216.0,Injury
+1999,SOUTH AFRICA,KwaZulu-Natal,Umtentweni,Surfing,M,4214.0,Injury
+1999,MARSHALL ISLANDS,Alinglaplap Atoll,Island J4H,Swimming,M,4212.0,Injury
+1999,MARSHALL ISLANDS,Alinglaplap Atoll,Island J4H,Swimming,M,4211.0,Injury
+1999,USA,Florida,"Pet Den, Satellite Beach, Brevard County",Surfing,M,4208.0,Injury
+1999,ITALY,Adriatic Sea,San Benedetto,Fishing,0,4205.0,Injury
+1999,USA,Florida,"Fort Pierce Inlet, St. Lucie County",Surfing,M,4201.0,Injury
+1999,USA,Florida,"Bethune Beach, south of New Smyrna Beach, Volusia County",Surfing,M,4198.0,Injury
+1999,USA,North Carolina,"Fort Fisher, New Hanover County",Surfing,M,4197.0,Injury
+1999,MARSHALL ISLANDS,Ralik Chain,Kwajalein Atoll,Fishing,M,4196.0,Injury
+1999,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,4195.0,Injury
+1999,SOUTH AFRICA,Western Cape Province,Kogebaai,Surfing,M,4191.0,Injury
+1999,USA,Hawaii,Honoli'i in Hilo (west side of Big Island),Surfing,M,4189.0,Injury
+1999,SOUTH AFRICA,Eastern Cape Province,"Cintsa East, East London",Surfing,M,4185.0,Injury
+1999,USA,Florida,"South of Ponce Inlet, Volusia County",Surfing,M,4183.0,Injury
+1999,USA,Florida,"Atlantiic Beach, Duval County",Swimming,M,4182.0,Injury
+1999,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Surfing,M,4179.0,Injury
+1999,MAURITIUS,Grand Baie,Pointe aux Canonniers,Swimming,F,4178.0,Injury
+1999,USA,Florida,"Hobe Sound Beach, Palm Beach County",Surfing,M,4176.0,Injury
+1999,NEW ZEALAND,0,0,Fishing,M,4171.0,Injury
+1999,AUSTRALIA,New South Wales,Scotts Head,Surfing,M,4167.0,Injury
+1999,USA,Florida,"Hobe Sound, Martin County",Surfing,M,4166.0,Injury
+1999,AUSTRALIA,Northern Territory,Gulf of Carpenteria,Fishing,F,4162.0,Injury
+1998,USA,Florida,"Ormond Beach, Volusia County",Surfing,M,4158.0,Injury
+1998,SOUTH AFRICA,Eastern Cape Province,"King's Beach, Port Elizabeth",Surfing,M,4156.0,Injury
+1998,AUSTRALIA,South Australia,Middleton Beach,Surfing,F,4154.0,Injury
+1998,USA,Florida,"Ocean Beach, Jaycee Park, Vero Beach, Indian River County",Swimming,M,4153.0,Fatal
+1998,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4152.0,Injury
+1998,USA,Oregon,Winchester Bay,Surfing,M,4150.0,Injury
+1998,BRAZIL,Pernambuco," Boa Viagem Beach, Recife",Surfing,M,4148.0,Fatal
+1998,USA,Florida,"Jupiter Beach, Palm Beach County",Swimming,F,4147.0,Injury
+1998,SOUTH AFRICA,Eastern Cape Province,Glengariff,Surfing,M,4146.0,Injury
+1998,USA,Florida,"Sebastian Inlet, Indian River County",Surfing,M,4145.0,Injury
+1998,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Surfing,M,4144.0,Injury
+1998,USA,Florida,"The Rocks, Hutchinson Island, Martin County",Surfing,M,4141.0,Injury
+1998,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4140.0,Injury
+1998,USA,Florida,"Stuart Beach, Martin County",Surfing,M,4138.0,Injury
+1998,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,4136.0,Injury
+1998,ITALY,Marches region,12 miles off Senigallia (Adriatic Sea),Fishing,0,4135.0,Injury
+1998,BRAZIL,Pernambuco,"Boa Viagem, Recife",Surfing,M,4127.0,Injury
+1998,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4126.0,Injury
+1998,SOUTH AFRICA,Eastern Cape Province,St. Francis Bay,Surfing,M,4124.0,Injury
+1998,SOUTH AFRICA,Western Cape Province,Plettenberg Bay,Surfing,M,4123.0,Injury
+1998,USA,Florida,"Daytona Beach, Volusia County",Surfing,M,4120.0,Injury
+1998,SOUTH AFRICA,Eastern Cape Province,Jeffrey's Bay,Surfing,M,4119.0,Injury
+1998,SOUTH AFRICA,Eastern Cape Province,Pollock Beach,Surfing,M,4118.0,Injury
+1998,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4115.0,Injury
+1998,USA,Florida,"Pecks Lake, Martin County",Swimming,F,4114.0,Injury
+1998,USA,Florida,"Jensen Beach Park, Martin County",Swimming,M,4106.0,Injury
+1998,USA,Florida,"Jensen Beach, Martin County",Swimming,M,4103.0,Injury
+1998,SOUTH AFRICA,Eastern Cape Province,East London,Surfing,M,4099.0,Injury
+1998,AUSTRALIA,South Australia,Middleton Beach,Surfing,M,4098.0,Injury
+1998,MOZAMBIQUE,Maputo Province,Ponta do Ouro,Surfing,M,4097.0,Injury
+1998,SOUTH AFRICA,Eastern Cape Province,Hole-in-the Wall,Surfing,M,4096.0,Fatal
+1997,USA,Florida,"Hollywood Beach, Broward County",Swimming,M,4090.0,Injury
+1997,USA,Florida,0,Swimming,M,4088.0,Injury
+1997,USA,Florida,"North Jetty, Fort Pierce Inlet State Park, St. Lucie County",Surfing,M,4084.0,Injury
+1997,USA,Florida,"North Jetty, Fort Pierce Inlet State Park, St. Lucie County",Surfing,M,4083.0,Injury
+1997,USA,Florida,"Daytona Beach, Volusia County",Swimming,F,4081.0,Injury
+1997,BRAZIL,Pernambuco,"Boa Viagem, Recife",Swimming,M,4080.0,Fatal
+1997,USA,Florida,Volusia County  ,Surfing,M,4079.0,Injury
+1997,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,0,4078.0,Injury
+1997,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4077.0,Injury
+1997,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4076.0,Injury
+1997,EGYPT,Red Sea,Safaga,Fishing,M,4070.0,Injury
+1997,EGYPT,Red Sea,Safaga,Fishing,M,4069.0,Fatal
+1997,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,4067.0,Injury
+1997,AUSTRALIA,Queensland,"Pincushion, north of Maroochydore Beach",Surfing,M,4062.0,Injury
+1997,SOUTH AFRICA,Eastern Cape Province,"Breezy Point, Ntlonyana",Surfing,M,4061.0,Fatal
+1997,BRAZIL,Pernambuco,"Boa Viagem, Recife",Surfing,M,4060.0,Injury
+1997,BRAZIL,Pernambuco,Paiva,Surfing,0,4057.0,Injury
+1997,USA,Florida, Palm Beach County,Surfing,M,4054.0,Injury
+1997,USA,Florida,"Flagler Beach, Flagler County",Surfing,M,4050.0,Injury
+1997,USA,Florida,"Flagler Beach, Flagler County",Surfing,M,4049.0,Injury
+1997,AUSTRALIA,Queensland,"Carrara, Nerang River",Swimming,F,4045.0,Injury
+1996,AUSTRALIA,Queensland,Coolum Beach,Surfing,M,4036.0,Fatal
+1996,SOUTH AFRICA,Eastern Cape Province,"Duck Pond, Sardina Bay near Port Elizabeth",Surfing,M,4035.0,Injury
+1996,USA,California,"Salmon Creek Beach, Sonoma County",Surfing,M,4032.0,Injury
+1996,USA,Florida,"Coral Cove Park, Palm Beach County",Surfing,M,4031.0,Injury
+1996,BRAZIL,Pernambuco,Barra de Jangada,Surfing,0,4030.0,Injury
+1996,BRAZIL,Pernambuco,Barra de Jangada,Surfing,M,4029.0,Injury
+1996,USA,California,"Dillon Beach, Marin County",Surfing,M,4027.0,Injury
+1996,USA,Florida,"Cocoa Beach, Brevard County",Surfing,M,4026.0,Injury
+1996,USA,California,"North Salmon Creek Beach, Sonoma County",Surfing,M,4025.0,Injury
+1996,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,M,4023.0,Injury
+1996,OKINAWA,Miyako,Hirara City,Swimming,M,4012.0,Fatal
+1996,USA,Massachusetts,"Truro (Cape Cod), Barnstable County",Swimming,M,4010.0,Injury
+1996,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,M,4009.0,Injury
+1996,AUSTRALIA,Victoria,"Suicide Point, Point Leo",Surfing,M,4003.0,Injury
+1996,SOUTH AFRICA,KwaZulu-Natal,LaMercy,Surfing,M,4002.0,Injury
+1996,SOUTH AFRICA,Western Cape Province,"The Steps, Wilderness",Surfing,M,4001.0,Injury
+1996,USA,Florida,"South of Ponce Inlet, Volusia County",Surfing,M,3999.0,Injury
+1996,USA,Florida,"Shark Shallows, Ponce Inlet, Volusia County",Surfing,M,3997.0,Injury
+1996,AUSTRALIA,New South Wales,Mona Vale,Swimming,M,3995.0,Injury
+1996,AUSTRALIA,New South Wales,Mona Vale,Swimming,F,3994.0,Injury
+1996,BRAZIL,Pernambuco,"Boa Viagem, Recife",Swimming,M,3993.0,Fatal
+1996,AUSTRALIA,New South Wales,"Ned's Beach, Lord Howe Island",Swimming,M,3984.0,Injury
+1996,AUSTRALIA,Queensland,"Brown's Inlet, Broadwater",Swimming,F,3982.0,Injury
+1996,REUNION,Saint-Paul ,Embouchure de l'étang de Saint Paul,Surfing,M,3978.0,Fatal
+1996,USA,North Carolina,0,Surfing,M,3976.0,Injury
+1995,USA,Florida,"North Beach, St. Lucie County",Surfing,M,3969.0,Injury
+1995,USA,Florida,"Ormond Beach, Volusia County",Surfing,M,3967.0,Injury
+1995,USA,Florida,"Crescent Beach, St. Augustine, St. Johns County",Surfing,M,3966.0,Injury
+1995,USA,Florida,"North Beach, Hutchinson Island, St. Lucie County",Surfing,M,3965.0,Injury
+1995,USA,Florida,"Matanzas Bay Inlet, St. Johns County",Surfing,M,3963.0,Injury
+1995,USA,Florida,"Daytona Beach, Volusia County",Swimming,F,3962.0,Injury
+1995,USA,North Carolina,"Bald Head Island, Brunswick County",Swimming,M,3957.0,Injury
+1995,USA,Florida,"North Beach Inlet, St. Lucie County",Surfing,M,3956.0,Injury
+1995,BRAZIL,Pernambuco,"Boa Viagem, Recife",Surfing,M,3954.0,Injury
+1995,USA,Florida,"Crescent Beach, St. Johns County",Surfing,M,3953.0,Injury
+1995,USA,Florida,"Ponce de Leon Inlet, Volusia County",Surfing,M,3952.0,Injury
+1995,USA,North Carolina,"Off Masonboro Island, New Hanover County",Swimming,M,3951.0,Injury
+1995,USA,Florida,"Ponce de Leon Inlet, Volusia County",Surfing,M,3949.0,Injury
+1995,TONGA,Vavau,Near Tapana Island,Fishing,M,3947.0,Injury
+1995,USA,North Carolina,"Emerald Isle, Carteret County",Swimming,M,3945.0,Injury
+1995,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,3944.0,Injury
+1995,TONGA,Vavau,Neiafu,Fishing,M,3941.0,Injury
+1995,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,3939.0,Injury
+1995,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,3938.0,Injury
+1995,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,3937.0,Injury
+1995,USA,South Carolina,"Pawleys Island, Georgetown County",Swimming,F,3934.0,Injury
+1995,BRAZIL,Pernambuco,Candeias,Surfing,M,3932.0,Fatal
+1984,SOUTH AFRICA,Eastern Cape Province,Gonubie River Mouth,Surfing,M,3931.0,Injury
+1995,USA,Texas,Port Aransas,Surfing,M,3930.0,Injury
+1995,USA,Mississippi,"Cat Island, Harrison County",Fishing,F,3929.0,Injury
+1995,USA,South Carolina,"Garden City Beach, Horry County",Surfing,M,3924.0,Injury
+1995,USA,Florida,"Jensen Beach Park, Martin County",Swimming,M,3923.0,Injury
+1995,USA,Florida,"Tiger Shores Beach, Martin County",Swimming,F,3922.0,Injury
+1995,USA,Hawaii,"Opposite Grand Wailea Resort, Wailea, Maui",Swimming,M,3921.0,Injury
+1995,HONG KONG,Clearwater Bay,First Beach,Swimming,F,3920.0,Fatal
+1995,HONG KONG,New Territories,Sheung Sze Wan Beach,Swimming,M,3919.0,Fatal
+1995,USA,Florida,"Vero Beach, Indian River County",Surfing,M,3917.0,Injury
+1995,AUSTRALIA,South Australia,Cactus Beach,Surfing,M,3908.0,Injury
+1995,BRAZIL,Maranhão,"Praia do Olho D'Água, São Luis",Swimming,0,3907.0,Fatal
+1995,SOUTH AFRICA,Eastern Cape Province,Kidds Beach,Swimming,M,3906.0,Injury
+1995,SOUTH AFRICA,KwaZulu-Natal,Isipingo,Swimming,M,3904.0,Fatal
+1995,BRAZIL,Pernambuco,Piedade,Surfing,M,3903.0,Injury
+1994,BRAZIL,Pernambuco,Piedade,Surfing,M,3896.0,Injury
+1994,BRAZIL,Pernambuco,Paiva,Surfing,M,3895.0,Injury
+1994,BRAZIL,Pernambuco,Paiva,Surfing,M,3891.0,Fatal
+1994,USA,Hawaii,"Kealia Beach, Kaua'i",Surfing,0,3888.0,Injury
+1994,BRAZIL,Pernambuco,Piedade,Surfing,0,3887.0,Injury
+1994,BRAZIL,Pernambuco,Piedade,Surfing,M,3886.0,Injury
+1994,USA,Florida,"Indialantic, Brevard County",Surfing,M,3884.0,Injury
+1994,USA,South Carolina,"North Forest Beach, near Hilton Head, Beaufort County",Swimming,F,3883.0,Injury
+1994,USA,Oregon,"Short Sand Beach, Oswald West State Park",Surfing,M,3882.0,Injury
+1994,BRAZIL,Pernambuco,"Boa Viagem, Recife",Surfing,M,3878.0,Injury
+1994,BRAZIL,Pernambuco,"Boa Viagem, Recife",Swimming,M,3877.0,Fatal
+1994,SOUTH AFRICA,Eastern Cape Province,"Nahoon Beach, East London",Surfing,M,3875.0,Fatal
+1994,SOUTH AFRICA,Eastern Cape Province,"Nahoon Beach, East London",Surfing,M,3874.0,Injury
+1994,BRAZIL,Pernambuco,"Boa Viagem, Recife",Surfing,M,3873.0,Injury
+1994,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,3872.0,Injury
+1994,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,3870.0,Injury
+1994,USA,Florida," Daytona Beach, Volusia County",Surfing,M,3869.0,Injury
+1994,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,3865.0,Injury
+1994,BRAZIL,Pernambuco,"Boa Viagem, Recife",Surfing,M,3856.0,Injury
+1994,USA,Florida,"Juno Beach, Palm Beach County",Surfing,M,3854.0,Injury
+1994,USA,Hawaii,Kailua Bay,Fishing,M,3853.0,Injury
+1994,SOUTH AFRICA,Eastern Cape Province,Beachview Holiday Resort,Surfing,M,3852.0,Injury
+1994,NEW CALEDONIA,South Province,Cap Goulvain,Fishing,0,3851.0,Fatal
+1994,BRAZIL,Pernambuco,Piedade,Swimming,M,3850.0,Injury
+1994,USA,Hawaii,"Velzyland, north shore of O'ahu",Surfing,M,3849.0,Fatal
+1994,AUSTRALIA,Western Australia,Albany,Fishing,0,3847.0,Injury
+1994,USA,Florida,"Flagler Beach, Flagler County",Surfing,M,3843.0,Injury
+1993,USA,Hawaii,Waipo,Surfing,M,3842.0,Fatal
+1993,USA,Florida,"North Beach Jetty, St Lucie County",Swimming,M,3841.0,Injury
+1993,USA,California,"""Bunkers"" Eureka, Humboldt County",Surfing,M,3837.0,Injury
+1993,USA,Florida,"Treasure Shores Beach, Indian River County",Swimming,F,3836.0,Injury
+1993,USA,Hawaii,"Mouth of Wallua River, Kaua'i",Surfing,0,3834.0,Injury
+1993,SOMALIA,Banaadir Region,Mogadishu,Swimming,M,3833.0,Fatal
+1993,EL SALVADOR,La Libertad,near El Cocal Beach,Surfing,0,3831.0,Injury
+1993,EL SALVADOR,La Libertad,El Cocal Beach,Surfing,M,3830.0,Fatal
+1993,SPAIN,Costa Blanca,"Playa de las Arenas, Valencia ",Swimming,M,3827.0,Injury
+1993,USA,Florida,"Bethune Beach, Volusia County",Surfing,0,3825.0,Injury
+1993,AUSTRALIA,Western Australia,Off Rottnest Island,Fishing,0,3821.0,Injury
+1993,SOUTH AFRICA,Eastern Cape Province,"Pollock Beach, Port Elizabeth",Surfing,M,3817.0,Injury
+1993,BRAZIL,Pernambuco,"Boa Viagem, Recife",Swimming,M,3815.0,Fatal
+1993,HONG KONG,New Territories,Silverstrand,Swimming,M,3813.0,Fatal
+1993,HONG KONG,New Territories,Sheung Sz Wan,Swimming,M,3808.0,Fatal
+1993,USA,North Carolina,"Hamstead, Pender County",Swimming,F,3807.0,Injury
+1993,SOMALIA,Banaadir Region,"Arroyo Beach, Mogadishu",Swimming,F,3805.0,Fatal
+1993,BRAZIL,Pernambuco,Paiva,Surfing,M,3803.0,Injury
+1993,NEW CALEDONIA,South Province,Île de Casey,Swimming,0,3798.0,Injury
+1993,AUSTRALIA,Queensland,Mooloolaba,Fishing,M,3795.0,Injury
+1993,USA,Oregon,"Bastendorf Beach, Coos County",Surfing,M,3791.0,Injury
+1993,ANGOLA,West Africa,0,Surfing,M,3790.0,Injury
+1992,USA,Florida,"Brevard County, a mile north of Sebastian Inlet",Surfing,M,3783.0,Injury
+1992,USA,Florida,0,Surfing,M,3782.0,Injury
+1992,USA,Florida,"North Jetty Park, Fort Pierce, St Lucie County",Surfing,M,3778.0,Injury
+1992,USA,Hawaii,"Lanaikea, O'ahu",Surfing,M,3775.0,Injury
+1992,AUSTRALIA,Queensland,"North Point Beach, Moreton Island",Surfing,M,3772.0,Fatal
+1992,USA,Oregon,"Gold Beach, Curry County",Surfing,M,3770.0,Injury
+1992,BRAZIL,Pernambuco,"Boa Viagem, Recife",Swimming,M,3768.0,Fatal
+1992,AUSTRALIA,South Australia,"Lipson Cove, Tumby Bay",Surfing,M,3765.0,Injury
+1992,USA,California,"Klamath River, Del Norte County",Surfing,M,3763.0,Injury
+1992,BRAZIL,Maranhão,"Praia da Marcela, São Marcos Bay",Surfing,M,3758.0,Injury
+1992,BRAZIL,Maranhão,"Praia da Marcela, São Marcos Bay",Surfing,M,3757.0,Injury
+1992,BRAZIL,Pernambuco,Piedade,Swimming,M,3756.0,Fatal
+1992,REUNION,Saint-Paul,Cap de la Marianne,Surfing,M,3755.0,Fatal
+1992,VANUATU,Malampa Province,"Port Sandwich, Malakula",Swimming,F,3754.0,Injury
+1992,REUNION,Saint-Joseph,Lieu-dit Cayenne,Surfing,M,3750.0,Fatal
+1992,SOUTH AFRICA,Eastern Cape Province,Nahoon,Surfing,M,3747.0,Injury
+1992,AUSTRALIA,Victoria,Point Lonsdale,Surfing,M,3745.0,Injury
+1992,AUSTRALIA,Tasmania,"Clifton Beach, southwest of Hobart",Surfing,M,3739.0,Injury
+1992,MAURITIUS,0,Mahebourg,Fishing,M,3734.0,Injury
+1991,USA,Florida,Near Port Canaveral Coast Guard Base,Fishing,M,3726.0,Injury
+1991,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,3724.0,Injury
+1991,USA,California,"Horseshoe Reef, Scott Creek, Davenport, Santa Cruz County",Surfing,M,3723.0,Injury
+1991,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,M,3719.0,Injury
+1991,USA,Florida,Florida Bay,Fishing,M,3717.0,Injury
+1991,USA,Florida,"South Miami Beach, Dade County",Swimming,M,3713.0,Injury
+1991,REUNION,L'Etang-Salé,"Ravine des Sables, Saint Leu",Surfing,M,3712.0,Injury
+1991,USA,California,"8.5 miles south of Ano Nuevo State Reserve, Davenport County",Surfing,M,3711.0,Injury
+1991,HONG KONG,Kowloon Peninsula,Sai Kung,Fishing,M,3708.0,Fatal
+1991,USA,Florida,"Jacksonville Beach, Duval County",Surfing,M,3707.0,Injury
+1991,BRAZIL,Pernambuco,"Praia de Pau Amarelo, Recife",Fishing,0,3702.0,Injury
+1991,USA,Oregon,"Neskowin, Tillamook County",Surfing,M,3697.0,Injury
+1991,AUSTRALIA,Queensland,Mermaid Waters,Swimming,M,3695.0,Injury
+1990,USA,Florida,"Spanish River Park Beach, Palm Beach County",Surfing,M,3689.0,Injury
+1990,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,3688.0,Injury
+1990,USA,Florida,"Indialantic, Brevard County",Surfing,M,3687.0,Injury
+1990,AUSTRALIA,Queensland,Mermaid Waters,Swimming,M,3686.0,Injury
+1990,AUSTRALIA,South Australia,Goolwa Beach,Surfing,M,3685.0,Injury
+1990,USA,Florida,"North end of County Beach, Palm Beach County",Surfing,M,3684.0,Injury
+1990,USA,Hawaii,"Hanalei Point, Kaua'i",Surfing,M,3683.0,Injury
+1990,USA,Florida,"Stuart Beach, Martin County",Surfing,M,3682.0,Injury
+1990,USA,California,"Trinidad Head, Humboldt County",Surfing,M,3677.0,Injury
+1990,USA,Texas,"Mustang Island, Nueces County",Surfing,M,3676.0,Injury
+1990,USA,Florida,"Perdido Key near the Florida Panhandle, Escambia County",Surfing,M,3673.0,Injury
+1990,SOUTH AFRICA,KwaZulu-Natal,Protea Reef,Fishing,0,3670.0,Injury
+1990,AUSTRALIA,Queensland,Greenmount Beach,Surfing,M,3665.0,Injury
+1990,AUSTRALIA,Queensland,Fingal Beach,Surfing,M,3663.0,Injury
+1990,AUSTRALIA,Queensland,Fingal Beach,Surfing,M,3662.0,Injury
+1990,FIJI,Laucala Island,0,Swimming,M,3660.0,Injury
+1990,REUNION,Sainte-Marie,Baie de la Mare,Surfing,M,3659.0,Injury
+1990,USA,Florida,"Pensacola, Escambia County",Surfing,M,3655.0,Fatal
+1989,AUSTRALIA,Queensland,Fraser Island,Swimming,M,3652.0,Injury
+1989,AUSTRALIA,Victoria,Kilcunda,Surfing,M,3651.0,Injury
+1989,AUSTRALIA,Northern Territory,Edith Falls,Swimming,F,3647.0,Injury
+1989,AUSTRALIA,Tasmania,Shelly Point ,Surfing,M,3646.0,Injury
+1989,USA,Texas,Surfside Beach,Surfing,M,3644.0,Injury
+1989,AUSTRALIA,Victoria,"Surfers Point, Phillip Island",Surfing,M,3642.0,Injury
+1989,USA,North Carolina,"Salvo, Dare County",Surfing,M,3637.0,Injury
+1989,USA,Florida,"St Augustine, St Johns County",Swimming,M,3634.0,Injury
+1989,SOUTH AFRICA,Western Cape Province,Mossel Bay,Surfing,M,3633.0,Injury
+1989,AUSTRALIA,New South Wales,Lennox Head,Surfing,M,3632.0,Injury
+1989,SOUTH AFRICA,Eastern Cape Province,Jeffreys Bay,Surfing,M,3628.0,Injury
+1989,REUNION,Sainte-Suzanne,Temple Tamoule,Surfing,M,3627.0,Fatal
+1989,USA,Florida,"Cocoa Beach, Brevard County",Surfing,M,3626.0,Injury
+1989,SOUTH AFRICA,Eastern Cape Province,Jeffreys Bay,Surfing,M,3621.0,Injury
+1989,USA,Florida,"Loggerhead Park, Juno Beach, Palm Beach County",Swimming,M,3618.0,Injury
+1989,AUSTRALIA,South Australia,"Waitpinga Beach, near Victor Harbor, Encounter Bay",Surfing,M,3613.0,Fatal
+1989,SOUTH AFRICA,Western Cape Province,0,Fishing,M,3611.0,Injury
+1988,AUSTRALIA,Victoria,Phillip Island,Surfing,M,3595.0,Injury
+1988,USA,Florida,"Boca Raton, Palm Beach County",Surfing,M,3594.0,Injury
+1988,USA,Florida,"Fort Pierce, St. Lucie County ",Surfing,M,3593.0,Injury
+1988,USA,Florida,"Playalinda, Brevard County",Surfing,M,3592.0,Injury
+1988,AUSTRALIA,South Australia,Moama Beach,Surfing,M,3591.0,Injury
+1988,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,3589.0,Injury
+1988,USA,California,"Klamath River, Del Norte County",Surfing,M,3583.0,Injury
+1988,USA,Florida,"Jensen Beach, Martin County",Swimming,F,3579.0,Injury
+1988,USA,Florida,"Daytona Beach, Volusia County",Swimming,M,3572.0,Injury
+1988,USA,Florida,"Daytona Beach, Volusia County",Surfing,M,3571.0,Injury
+1988,USA,Florida,"Paradise Beach Park, Brevard County",Surfing,M,3569.0,Injury
+1988,USA,California,"North of Morro Rock, San Luis Obispo County",Surfing,M,3566.0,Injury
+1988,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Swimming,M,3565.0,Injury
+1988,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Surfing,M,3563.0,Injury
+1988,SOUTH AFRICA,KwaZulu-Natal,Isipingo,Surfing,M,3558.0,Injury
+1988,REUNION,Saint-Pierre,Pic du Diable,Surfing,M,3557.0,Injury
+1988,SOUTH AFRICA,Eastern Cape Province,Nahoon,Surfing,M,3555.0,Injury
+1988,SOUTH AFRICA,KwaZulu-Natal,Durban,Surfing,M,3551.0,Injury
+1988,USA,Louisiana,0,Fishing,M,3549.0,Injury
+1988,AUSTRALIA,New South Wales,Sydney,Surfing,M,3546.0,Injury
+1987,USA,Florida,"Palm Beach, Palm Beach County",Surfing,M,3544.0,Injury
+1987,USA,Florida,"North of Jupiter Inlet, Palm Beach County",Surfing,M,3542.0,Injury
+1987,USA,California,"Davenport Light, San Mateo County",Surfing,M,3540.0,Injury
+1987,SOUTH AFRICA,Western Cape Province,Still Bay,Surfing,M,3535.0,Injury
+1987,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,M,3532.0,Injury
+1987,USA,Florida,"Nest Key, Monroe County",Fishing,M,3526.0,Injury
+1987,USA,Florida,"St Augustine, St. Johns County",Surfing,M,3524.0,Injury
+1987,AUSTRALIA,New South Wales,0,Fishing,M,3523.0,Injury
+1987,SOUTH AFRICA,KwaZulu-Natal,Port Shepstone,Fishing,M,3522.0,Injury
+1987,USA,Texas,"Mustang Island, near Port Aransas",Swimming,F,3521.0,Injury
+1987,VANUATU,Malampa Province,Vao Island,Swimming,M,3519.0,Fatal
+1987,AUSTRALIA,Western Australia,Fourth Beach / Twilgth Beach,Surfing,M,3518.0,Injury
+1987,AUSTRALIA,Queensland,Lizard Island,Swimming,M,3513.0,Injury
+1986,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,M,3508.0,Injury
+1986,USA,Florida,"Daytona Beach, Volusia County",Surfing,M,3503.0,Injury
+1986,USA,Florida,"Indiatlantic, Brevard County",Surfing,M,3502.0,Injury
+1986,USA,Florida,"Tiger Shores Beach, Martin County",Surfing,M,3501.0,Injury
+1986,USA,Florida,"Sanibel Island, Lee County",Swimming,F,3499.0,Injury
+1986,USA,Florida,"Floridana Beach, Brevard County",Surfing,M,3496.0,Injury
+1986,USA,Florida,"Ormond Beach / Daytona Beach, Volusia County",Surfing,0,3494.0,Injury
+1986,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",Surfing,0,3493.0,Injury
+1986,USA,North Carolina,"Masonboro Inlet, New Hanover County",Surfing,0,3492.0,Injury
+1986,AUSTRALIA,Western Australia,3 km west of Rottnest Island,Fishing,0,3488.0,Injury
+1986,SOUTH AFRICA,Eastern Cape Province,"The Fence, King's Beach, Port Elizabeth",Surfing,M,3479.0,Injury
+1986,SOUTH AFRICA,Eastern Cape Province,East London,Surfing,M,3478.0,Injury
+1986,SOUTH AFRICA,Eastern Cape Province,Cape Recife,Surfing,M,3477.0,Injury
+1986,SOUTH AFRICA,Eastern Cape Province,"King's Beach, Port Elizabeth",Swimming,M,3476.0,Injury
+1986,AUSTRALIA,Victoria,Jan Juc Beach,Surfing,M,3474.0,Injury
+1986,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Surfing,M,3473.0,Injury
+1986,USA,California,"Linda Mar Beach, Pedro Point, San Mateo County",Surfing,M,3472.0,Injury
+1985,SOUTH AFRICA,KwaZulu-Natal,Garvies Beach,Surfing,M,3471.0,Injury
+1985,AUSTRALIA,Queensland,Gladstone,Fishing,M,3469.0,Injury
+1985,USA,California,5 miles south of Redondo Beach,Fishing,M,3467.0,Injury
+1985,USA,Alabama,"Gulf Shores, Baldwin County",Fishing,M,3462.0,Injury
+1985,SOUTH AFRICA,KwaZulu-Natal,T.O. Strand,Swimming,M,3460.0,Injury
+1985,USA,Florida,"Fort Pierce Inlet, St Lucie County",Swimming,M,3458.0,Injury
+1985,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,3453.0,Injury
+1985,USA,Florida,"Palm Beach, Palm Beach County",Surfing,M,3447.0,Injury
+1985,USA,Florida,"15 miles north of Sebastian Inlet, Brevard County",Surfing,M,3444.0,Injury
+1985,SOUTH AFRICA,Western Cape Province,Struisbaai,Swimming,M,3443.0,Injury
+1985,SOUTH AFRICA,KwaZulu-Natal,Umbogintwini,Surfing,M,3441.0,Injury
+1985,IRAN,0,"Ramin, near Ahvaz",Fishing,M,3435.0,Fatal
+1984,USA,Florida,"Jupiter Island Beach, Martin County",Surfing,M,3432.0,Injury
+1984,USA,Florida,"Wabasso Beach, Indian River County",Swimming,M,3430.0,Injury
+1984,USA,Florida,"Bob Graham Beach, Martin County",Surfing,M,3427.0,Injury
+1984,USA,Florida,Volusia County,Surfing,M,3424.0,Injury
+1984,USA,Florida,0,Swimming,M,3423.0,Injury
+1984,USA,Florida,"Indiatlantic, Brevard County",Surfing,M,3422.0,Injury
+1984,USA,Florida,Volusia County,Swimming,0,3421.0,Injury
+1984,USA,Texas,South Padre Island,Swimming,F,3415.0,Injury
+1984,USA,Texas,South Padre Island,Swimming,F,3414.0,Injury
+1984,SOUTH AFRICA,Western Cape Province,"Muizenberg, False Bay",Surfing,M,3410.0,Injury
+1984,VANUATU,Malampa Province,"Atchin Island, off Malakula",Swimming,M,3408.0,Fatal
+1984,SOUTH AFRICA,KwaZulu-Natal,Amanzimtoti,Surfing,M,3405.0,Injury
+1984,SOUTH AFRICA,Eastern Cape Province,"Paradise Beach, Jeffreys Bay",Fishing,M,3402.0,Injury
+1984,SOUTH AFRICA,Eastern Cape Province,Port Alfred,Swimming,M,3398.0,Injury
+1984,USA,Florida,"Indiatlantic, Brevard County",Surfing,M,3395.0,Injury
+1983,USA,Florida,"Riviera Beach, Palm Beach County",Surfing,M,3393.0,Injury
+1983,SOUTH AFRICA,Eastern Cape Province,Great Fish River,Swimming,M,3391.0,Injury
+1983,SOUTH AFRICA,Eastern Cape Province,Nahoon,Swimming,M,3390.0,Injury
+1983,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,3387.0,Injury
+1983,SOUTH AFRICA,KwaZulu-Natal,Tongaat,Swimming,F,3386.0,Injury
+1983,USA,Florida,"Stuart Beach, Martin County",Surfing,M,3385.0,Injury
+1983,USA,Oregon,"Cape Kiwanda,Tillamook County",Surfing,M,3382.0,Injury
+1983,USA,Virginia,"Virginia Beach, Princess Anne County",Swimming,F,3380.0,Injury
+1983,USA,Rhode Island,0,Fishing,0,3377.0,Injury
+1983,SOUTH AFRICA,Eastern Cape Province,"Seal Point, Cape St. Francis",Surfing,M,3373.0,Injury
+1983,USA,Florida,"Off 12th Street, Miami Beach",Swimming,M,3369.0,Injury
+1983,USA,Florida," Riviera Beach, Palm Beach County",Surfing,M,3362.0,Injury
+1983,USA,Florida,"Haulover Inlet, Dade County",Surfing,M,3361.0,Injury
+1983,USA,Florida,0,Surfing,M,3360.0,Injury
+1983,SOUTH AFRICA,Eastern Cape Province,Bonza Bay,Fishing,M,3359.0,Injury
+1983,USA,Florida,"Lake Worth Beach, Palm Beach County",Surfing,M,3358.0,Injury
+1983,SOUTH AFRICA,Eastern Cape Province,Nahoon,Surfing,M,3355.0,Injury
+1983,USA,Florida,"Juno Beach, Palm Beach County",Surfing,M,3354.0,Injury
+1983,USA,South Carolina,60 miles southeast of Beaufort,Fishing,M,3351.0,Injury
+1983,0,English Channel,0,Swimming,M,3347.0,Injury
+1983,USA,North & South Carolina,0,Fishing,M,3345.0,Injury
+1982,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",Surfing,M,3342.0,Injury
+1982,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",Surfing,M,3341.0,Injury
+1982,USA,Florida,"Patrick Air Force Base, Brevard County",Surfing,M,3340.0,Injury
+1982,USA,California,"Morro Rock, Morro Bay, San Obispo County",Surfing,M,3335.0,Injury
+1982,SOUTH AFRICA,Western Cape Province,Langebaan,Swimming,F,3334.0,Injury
+1982,USA,Florida,"Stuart Beach, Martin County ",Swimming,M,3329.0,Injury
+1982,USA,California,"Malibu, Los Angeles County",Swimming,M,3328.0,Injury
+1982,USA,Florida,"Daytona Beach, Volusia County",Swimming,F,3327.0,Injury
+1982,SOUTH AFRICA,Eastern Cape Province,Ntlonyana Bay,Surfing,M,3325.0,Fatal
+1982,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,M,3324.0,Injury
+1982,USA,Florida,"Palm Beach, Palm Beach County",Surfing,M,3319.0,Injury
+1982,AUSTRALIA,New South Wales,"Tallow Beach, Byron Bay",Surfing,M,3318.0,Fatal
+1982,USA,Florida,"Hobe Sound, Palm Beach County",Surfing,M,3315.0,Injury
+1982,SOUTH AFRICA,Western Cape Province,Mossel Bay,Fishing,M,3314.0,Injury
+1982,USA,Hawaii,"White Plains Beach, Barbers Point, O'ahu",Swimming,F,3312.0,Injury
+1982,USA,Florida,"Palm Beach, Palm Beach County",Swimming,F,3311.0,Injury
+1982,SOUTH AFRICA,Eastern Cape Province,Mpekeweni,Swimming,M,3308.0,Injury
+1981,USA,California,"South Moss Beach, Spanish Bay, Monterey Peninsula",Surfing,M,3304.0,Fatal
+1981,USA,Florida,"Jupiter Island, Brevard County",Swimming,M,3298.0,Injury
+1981,USA,Florida,"Palm Beach, Palm Beach County",Surfing,M,3297.0,Injury
+1981,USA,Florida,"Cocoa Beach, Brevard County",Surfing,M,3296.0,Injury
+1981,USA,Florida,"Playalinda Beach, Brevard County",Surfing,M,3295.0,Injury
+1981,USA,Florida,"Cocoa Beach, Brevard County",Surfing,M,3294.0,Injury
+1981,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,3293.0,Injury
+1981,USA,Florida,"Tampa Bay, Manatee County",Swimming,M,3292.0,Fatal
+1981,USA,Florida,"Patrick Air Force Base, Brevard County",Surfing,M,3291.0,Injury
+1981,USA,Florida,"Cocoa Beach, Brevard County",Surfing,M,3290.0,Injury
+1981,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,3289.0,Injury
+1981,USA,Hawaii,"Keaukaha, Hilo, Hawai'i",Fishing,M,3287.0,Injury
+1981,USA,Florida,"St. Petersburg Beach, Pinellas County",Swimming,F,3283.0,Injury
+1981,SOUTH AFRICA,Eastern Cape Province,Nahoon,Surfing,M,3282.0,Injury
+1981,ENGLAND,0,Isle of Wight,Fishing,M,3279.0,Injury
+1981,SOUTH AFRICA,Eastern Cape Province,Nahoon,Surfing,M,3275.0,Injury
+1981,SOUTH AFRICA,Eastern Cape Province,Kings Beach,Surfing,M,3272.0,Injury
+1981,SOUTH AFRICA,Eastern Cape Province,Ntlonyane Bay,Surfing,M,3269.0,Injury
+1981,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Surfing,M,3267.0,Injury
+1981,SOUTH AFRICA,KwaZulu-Natal,Umtentweni,Swimming,M,3264.0,Injury
+1981,USA,Florida,"Juno Beach, Palm Beach County",Surfing,M,3261.0,Injury
+1981,SOUTH AFRICA,KwaZulu-Natal,Widenham,Swimming,M,3258.0,Injury
+1980,AUSTRALIA,Western Australia,Lancelin,Swimming,M,3252.0,Injury
+1980,SOUTH AFRICA,KwaZulu-Natal,Mnini,Swimming,M,3251.0,Injury
+1980,BRAZIL,Pernambuco,Piedade,Swimming,M,3250.0,Fatal
+1980,USA,Oregon,Off Umpqua River,Surfing,M,3249.0,Injury
+1980,USA,California,"Moonstone Beach, Humboldt County",Surfing,M,3248.0,Injury
+1980,USA,North Carolina,"Emerald Isle Pier (near Morehead City), Carteret County",Surfing,M,3241.0,Injury
+1980,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,3240.0,Injury
+1980,SOUTH AFRICA,Eastern Cape Province,Fullers Bay,Surfing,M,3238.0,Injury
+1980,BRAZIL,Rio de Janeiro,"Copacabana Beach, Rio de Janiero",Swimming,M,3233.0,Injury
+1980,SOUTH AFRICA,Western Cape Province,Velddrif,Fishing,M,3231.0,Injury
+1980,SOUTH AFRICA,Eastern Cape Province,Sardinia Bay,Swimming,M,3227.0,Injury
+1980,SOUTH AFRICA,Eastern Cape Province,Kings Beach,Swimming,M,3226.0,Injury
+,GREECE,Island of Kos,0,Surfing,M,3223.0,Injury
+1979,SOUTH AFRICA,Eastern Cape Province,Kenton-on-Sea,Swimming,M,3220.0,Injury
+1979,USA,Oregon,"Haystack Rock, Cannon Beach, Clatsop County",Surfing,M,3217.0,Injury
+1979,SOUTH AFRICA,Eastern Cape Province,Algoa Bay,Fishing,M,3215.0,Injury
+1979,NEW CALEDONIA,North Province,Ile Yandé (between Poum and Bélep),Fishing,0,3205.0,Injury
+1979,USA,Florida,"Public Beach (Carlin Park), Jupiter, Palm Beach County",Swimming,M,3203.0,Injury
+1979,USA,Florida,"Singer Island, Riviera Beach, Palm Beach County",Surfing,M,3201.0,Injury
+1979,USA,Hawaii,"South Kohala, Hawai'i",Fishing,M,3196.0,Fatal
+1978,USA,Hawaii,"Ewa, O'ahu",Surfing,M,3193.0,Injury
+1978,USA,Florida,"Jupiter, Palm Beach County",Surfing,M,3192.0,Injury
+1978,SOUTH AFRICA,KwaZulu-Natal,"Fishing camp, St. Lucia Estuary",Fishing,M,3191.0,Fatal
+1978,USA,California,"Newport Beach, Orange County",Fishing,M,3184.0,Injury
+1978,USA,Florida,"South of Neptune Beach, Duval County",Surfing,M,3183.0,Injury
+1978,USA,Florida,"Neptune Beach, Duval County",Surfing,M,3182.0,Injury
+1978,SOUTH AFRICA,KwaZulu-Natal,Glenashley,Surfing,M,3174.0,Injury
+1978,USA,Florida,"Cocoa Beach, Brevard County",Surfing,F,3172.0,Injury
+1978,VANUATU,Malampa Province,"Ranon, Ambryn",Swimming,F,3171.0,Fatal
+1977,USA,Florida,"Hobe Sound, Palm Beach County",Surfing,M,3169.0,Injury
+1977,SOUTH AFRICA,Eastern Cape Province,Qolera River,Surfing,M,3168.0,Injury
+1977,AUSTRALIA,South Australia,"Cactus Beach, near Ceduna",Surfing,M,3164.0,Injury
+1977,SOUTH AFRICA,Western Cape Province,Off Macassar Beach,Fishing,M,3162.0,Injury
+1977,USA,Hawaii,"Ka'anapali, Maui",Swimming,M,3153.0,Injury
+1977,SOUTH AFRICA,Western Cape Province,"Lappiesbaai Beach, Stilbaai",Swimming,M,3152.0,Injury
+1977,MEXICO,Guerrero,La Playa Hornos (near Acapulco),Swimming,M,3145.0,Fatal
+1976,USA,Florida,"Delray Beach, Palm Beach County",Surfing,M,3140.0,Injury
+1976,SOUTH AFRICA,KwaZulu-Natal,Warner Beach,Swimming,M,3139.0,Injury
+1976,USA,California,"Moonstone Beach, Humboldt County",Surfing,M,3136.0,Injury
+1976,SOUTH AFRICA,Eastern Cape Province,Cape St. Francis,Surfing,M,3135.0,Injury
+1976,USA,Florida,"Jacksonville, Duval County",Swimming,M,3131.0,Fatal
+1976,USA,Florida,"Jacksonville, Duval County",Swimming,M,3130.0,Fatal
+1976,USA,Florida,"Sebastian, Indian River County",Surfing,M,3129.0,Injury
+1976,USA,Oregon,Winchester Bay,Surfing,M,3127.0,Injury
+1976,USA,Hawaii,"Kama'ole Beach, Park No. 1, Kihei, Maui",Swimming,M,3121.0,Injury
+1976,ITALY,Reggio Calabria Province,Bovalino,Fishing,M,3120.0,Injury
+1976,SOUTH AFRICA,Western Cape Province,Robberg Point,Fishing,0,3115.0,Injury
+1975,USA,Florida,"Crescent Beach, St. Johns County",Surfing,M,3099.0,Injury
+1975,AUSTRALIA,New South Wales,"Lennox Head, Ballina",Surfing,M,3097.0,Injury
+1975,USA,California,"Seal Beach, Orange County",Surfing,0,3096.0,Fatal
+1975,SOUTH AFRICA,Eastern Cape Province,Cape St. Francis,Surfing,M,3094.0,Injury
+1975,AUSTRALIA,Queensland,Maroochydore,Surfing,M,3087.0,Injury
+1975,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,F,3084.0,Injury
+1975,USA,Florida,"Indiatlantic, Brevard County",Surfing,M,3082.0,Injury
+1975,USA,Florida,"Daytona Beach, Volusia County",Surfing,M,3078.0,Injury
+1975,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,3076.0,Injury
+1975,SOUTH AFRICA,KwaZulu-Natal,Tongaat,Swimming,M,3071.0,Injury
+1975,SOUTH AFRICA,KwaZulu-Natal,"Inyoni Rocks, Amanzimtoti",Surfing,M,3065.0,Injury
+1975,SOUTH AFRICA,Western Cape Province,"Beespens, False Bay",Fishing,M,3060.0,Injury
+1975,AUSTRALIA,South Australia,Coffin Bay,Surfing,M,3059.0,Fatal
+1974,USA,California,"North of Point Sur, Monterey County",Surfing,M,3054.0,Injury
+1974,ISRAEL,Red Sea,"North Beach, Eilat",Swimming,F,3052.0,Injury
+1974,USA,Oregon,Myers Creek,Surfing,M,3048.0,Injury
+1974,USA,California,"San Gregorio Beach, San Mateo County",Surfing,M,3042.0,Injury
+1974,USA,Georgia,"Back River, Savannah Beach, Chatham County",Swimming,M,3040.0,Fatal
+1974,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,F,3038.0,Injury
+1974,USA,Florida,"Haulover Beach, Miami-Dade County",Swimming,F,3033.0,Injury
+1974,SOUTH AFRICA,KwaZulu-Natal,"Inyoni Rocks, Amanzimtoti",Surfing,M,3032.0,Injury
+1974,SOUTH AFRICA,KwaZulu-Natal,Amanzimtoti,Surfing,M,3031.0,Injury
+1974,SOUTH AFRICA,KwaZulu-Natal,"Inyoni Rocks, Amanzimtoti",Swimming,M,3029.0,Injury
+1974,SOUTH AFRICA,KwaZulu-Natal,"Inyoni Rocks, Amanzimtoti",Swimming,M,3028.0,Injury
+1974,SOUTH AFRICA,KwaZulu-Natal,Amanzimtoti,Swimming,M,3023.0,Injury
+1974,MOZAMBIQUE,Gaza,Xai Xai,Swimming,M,3022.0,Fatal
+1974,MOZAMBIQUE,Gaza,Xai Xai,Swimming,M,3021.0,Fatal
+1973,PHILIPPINES,Luzon,0,Swimming,M,3016.0,Fatal
+1973,USA,Hawaii,"Kalama Beach, Kihei, Maui",Swimming,M,3015.0,Injury
+1973,USA,Florida,"Ormond By The Sea, Volusia County",Surfing,M,3012.0,Injury
+1973,AUSTRALIA,Queensland,"Point Lookout, Stradbroke Island",Surfing,M,3004.0,Injury
+1973,MEXICO,Guerrero,"Revolcadero Beach, Acapulco",Swimming,0,2997.0,Fatal
+1973,USA,Hawaii,"Ho'okipa Beach, Pa'ia, Maui",Surfing,M,2995.0,Injury
+1973,SOUTH AFRICA,Eastern Cape Province,Queensberry Bay,Surfing,M,2992.0,Injury
+1972,MOZAMBIQUE,Gaza,Xai Xai,Swimming,M,2990.0,Injury
+1972,SOUTH AFRICA,Western Cape Province,Hartenbos,Swimming,M,2988.0,Injury
+1972,AUSTRALIA,New South Wales,Tabourie Beach,Surfing,M,2983.0,Injury
+1972,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,2981.0,Injury
+1972,NEW ZEALAND,North Island,Wanganui,Swimming,M,2980.0,Injury
+1972,USA,California,"Point Sur, Monterey County",Surfing,M,2979.0,Injury
+1972,MOZAMBIQUE,Maputo Province,Inhaca Island,Swimming,F,2978.0,Injury
+1972,USA,Florida,"Crescent Beach, St. Johns County",Surfing,M,2977.0,Injury
+1972,USA,Florida,"Cocoa Beach, Brevard County",Surfing,M,2971.0,Injury
+1972,WESTERN SAMOA,Upolu Island,Nuulua,Swimming,M,2968.0,Fatal
+1972,MOZAMBIQUE,Gaza,Xai Xai,Swimming,M,2966.0,Fatal
+1972,PACIFIC OCEAN ,0,0,Fishing,M,2965.0,Injury
+1972,AUSTRALIA,Victoria,"Wilson's Promontory, Waratah Bay",Surfing,M,2963.0,Injury
+1972,SOUTH AFRICA,Eastern Cape Province,St. Georges Strand,Swimming,M,2961.0,Fatal
+1972,FRANCE,Antibes,0,Swimming,0,2958.0,Injury
+1971,SOUTH AFRICA,Western Cape Province,"Fish Hoek, False Bay",Swimming,F,2955.0,Injury
+1971,USA,Florida,"Ft. Pierce, St Lucie County",Surfing,M,2951.0,Injury
+1971,SOUTH AFRICA,KwaZulu-Natal,"North Beach, Durban",Swimming,M,2950.0,Injury
+1971,USA,North Carolina,"Emerald Isle, Carteret County",Surfing,0,2948.0,Injury
+1971,CROATIA,Istria County,Ika,Swimming,M,2947.0,Fatal
+1971,AUSTRALIA,South Australia,Adelaide,Fishing,M,2946.0,Fatal
+1971,SOUTH AFRICA,Western Cape Province,Mossel Bay,Surfing,M,2942.0,Injury
+1971,KENYA,Coast Province,Watamu,Swimming,M,2940.0,Injury
+1971,SOUTH AFRICA,Western Cape Province,Buffels Bay,Swimming,M,2939.0,Fatal
+1971,MEXICO,Guerrero,"Copacabana Beach, Acapulco",Surfing,M,2938.0,Fatal
+1971,NEW ZEALAND,South Island,Dunedin,Surfing,M,2934.0,Injury
+1971,AUSTRALIA,Tasmania,0,Swimming,M,2933.0,Injury
+1971,AUSTRALIA,South Australia,Southport,Surfing,M,2932.0,Injury
+1970,MICRONESIA,Namonuito Atoll,Pisarach (Pisaras),Fishing,M,2927.0,Injury
+1970,USA,Florida,"Matanzas Inlet, St Johns County",Surfing,M,2923.0,Injury
+1970,USA,South Carolina,0,Swimming,M,2918.0,Injury
+1970,USA,Florida,"Dania, Broward County",Fishing,M,2914.0,Injury
+1970,GRENADA,St. Andrew Parish,Grenville,Swimming,M,2909.0,Fatal
+1970,SOLOMON ISLANDS,0,0,Swimming,M,2907.0,Injury
+1970,MOZAMBIQUE,Limpopo River,3.2 km inland,Swimming,M,2903.0,Injury
+1970,MOZAMBIQUE,Limpopo River,"Gijana, 150 km inland",Swimming,M,2902.0,Injury
+1970,MOZAMBIQUE,Limpopo River,"Gijana, 150 km inland",Swimming,M,2901.0,Injury
+1970,MOZAMBIQUE,Limpopo River,"Gijana, 150 km inland",Swimming,M,2900.0,Injury
+1970,MEXICO,Guerrero,Acapulco,Swimming,M,2898.0,Injury
+,IRAQ,Basrah,Shatt-al-Arab River,Swimming,M,2889.0,Fatal
+1969,AUSTRALIA,Western Australia,"Swan River, 13 miles upstream",Swimming,M,2887.0,Injury
+1969,USA,Massachusetts,40 miles south of Nantucket,Fishing,M,2881.0,Injury
+1969,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,2880.0,Injury
+1969,DOMINICAN REPUBLIC,0,0,Surfing,M,2869.0,Fatal
+1969,USA,Florida,"Marathon, Monroe County",Fishing,M,2866.0,Injury
+1969,USA,Hawaii,"Makaha, O'ahu",Surfing,M,2864.0,Injury
+1969,AUSTRALIA,Tasmania,Taroona,Fishing,M,2863.0,Injury
+1968,NEW ZEALAND,South Island,"St. Clair Beach, Dunedin",Surfing,M,2856.0,Injury
+1968,SOUTH AFRICA,KwaZulu-Natal,Ramsgate,Fishing,M,2852.0,Injury
+1968,USA,Florida,"Riviera Beach, Palm Beach County",Surfing,0,2846.0,Fatal
+1968,FRENCH POLYNESIA,Society Islands,Tahiti,Swimming,M,2842.0,Injury
+1968,PAPUA NEW GUINEA,Gulf Province,Orokolo Bay,Swimming,M,2826.0,Fatal
+1968,USA,Florida,"Jensen Beach, Martin County",Surfing,M,2823.0,Injury
+1968,USA,Florida,Palm Beach County,Surfing,M,2821.0,Injury
+1968,AUSTRALIA,Western Australia,Swan River,Swimming,F,2820.0,Injury
+1968,PAPUA NEW GUINEA,Morobe Province,Finschafen,Swimming,0,2815.0,Fatal
+1968,USA,Florida,"Jensen Beach, Martin County",Surfing,0,2812.0,Fatal
+1967,SOUTH AFRICA,Western Cape Province,Mossel Bay,Surfing,M,2811.0,Injury
+1967,AUSTRALIA,Victoria,"Cheviot Beach, Portsea, Port Phillip Bay",Swimming,M,2808.0,Fatal
+1967,MEXICO,Veracruz,Veracruz,Swimming,0,2801.0,Fatal
+1967,TONGA,0,0,Swimming,M,2799.0,Injury
+1967,USA,South Carolina,0,Surfing,M,2780.0,Injury
+1967,UNITED KINGDOM,Gibraltar,0,Fishing,M,2775.0,Injury
+1966,AUSTRALIA,Tasmania,"Piccaninny Point, 10 miles from Bicheno",Fishing,M,2763.0,Injury
+1966,PAPUA NEW GUINEA,New Ireland Province,"Lamassa Island, 16 miles from Lambom Island",Swimming,F,2756.0,Fatal
+1966,USA,Hawaii,50 miles NE of Honolulu,Fishing,M,2753.0,Injury
+1966,NEW BRITAIN,Duke of York Islands,"Butliwan Village, 15 miles north of Rabaul",Swimming,F,2744.0,Fatal
+1966,CROATIA,Primorje-Gorski Kotar County ,Bakar,Swimming,M,2742.0,Fatal
+1966,USA,Texas,"Point Comfort, Calhoun County",Fishing,M,2735.0,Injury
+1966,TAIWAN,Northern Taiwan,Tamsui Beach,Swimming,M,2734.0,Fatal
+1966,PAPUA NEW GUINEA,"Admiralty Islands, Manus Province",Manus Island,Swimming,F,2733.0,Fatal
+1966,USA,Florida,"Ft. Lauderdale, Broward County",Fishing,M,2729.0,Injury
+1966,USA,Texas,Bolivar Peninsula,Swimming,M,2728.0,Injury
+1966,FRENCH POLYNESIA,Society Islands,Tahiti,Fishing,M,2727.0,Injury
+1966,AUSTRALIA,New South Wales, Bellingen,Fishing,M,2725.0,Injury
+1966,USA,Puerto Rico,0,Swimming,M,2721.0,Injury
+1966,USA,Florida,"Hollywood, Broward County",Swimming,M,2707.0,Injury
+1965,AUSTRALIA,South Australia,Cape Jervis,Fishing,0,2703.0,Injury
+1965,AUSTRALIA,Queensland,Oak Beach,Surfing,M,2699.0,Injury
+1965,USA,New Jersey,"Steel Pier, Atlantic City, Atlantic County",Swimming,M,2689.0,Injury
+1965,MEXICO,Veracruz,Mocambo,Swimming,M,2683.0,Injury
+1965,MEXICO,Veracruz,Playa Mocambo,Swimming,M,2680.0,Fatal
+1965,MEXICO,Veracruz,Playa Mocambo,Swimming,M,2679.0,Fatal
+1965,MEXICO,Veracruz,Mocambo,Swimming,M,2676.0,Injury
+1965,USA,California,"Pacifica, San Mateo County",Surfing,M,2674.0,Injury
+1965,AUSTRALIA,Victoria,"East of Station Pier, Port Melbourne",Swimming,M,2663.0,Injury
+1965,USA,California,"Dana Point, San Clemente, Orange County",Surfing,M,2660.0,Injury
+1964,SOUTH AFRICA,Eastern Cape Province,Port Alfred,Swimming,M,2654.0,Injury
+1964,AUSTRALIA,New South Wales,Port Jervis,Fishing,0,2652.0,Injury
+1964,TAIWAN,Northern Taiwan,"Tamsui Beach, Taipai",Swimming,M,2641.0,Fatal
+1964,TAIWAN,Northern Taiwan,Tamsui Beach,Swimming,M,2640.0,Injury
+1964,USA,Florida,"Hollywood Beach, Broward County",Swimming,M,2639.0,Injury
+1964,USA,Florida,"Panama City, Bay County",Swimming,M,2636.0,Injury
+1964,JAPAN,Okayama Prefecture,Saidaiji,Swimming,M,2634.0,Injury
+1964,USA,California,"Long Beach, Los Angeles County",Fishing,0,2623.0,Injury
+1964,PAPUA NEW GUINEA,New Britain,Near Rabaul,Fishing,M,2622.0,Injury
+1964,SOUTH AFRICA,KwaZulu-Natal,Port Edward,Swimming,M,2620.0,Injury
+1964,PAPUA NEW GUINEA,Madang Province,Inshore side of reef near Madang,Fishing,M,2616.0,Fatal
+1964,AUSTRALIA,South Australia,Surfers Paradise Beach near Victor Harbour,Surfing,M,2615.0,Injury
+1964,FIJI,0,Savuli Reef,Fishing,0,2611.0,Injury
+1964,NEW ZEALAND,South Island,"St. Clair Beach, Dunedin",Swimming,M,2604.0,Fatal
+1964,AUSTRALIA,Queensland,Brisbane,Swimming,M,2603.0,Injury
+1964,COSTA RICA,Puntarenas Province,Puntarenas,Swimming,M,2600.0,Fatal
+1964,PAPUA NEW GUINEA,New Britain,0,Fishing,M,2593.0,Fatal
+1964,FIJI,"Lomaloma, Lau",Tuvuca Isalnd,Swimming,F,2592.0,Injury
+1963,SOUTH AFRICA,Eastern Cape Province,Gonubie River Mouth,Swimming,M,2585.0,Fatal
+1963,AUSTRALIA,New South Wales,"Woolgoolga, Coffs Harbour",Fishing,M,2582.0,Injury
+1963,FIJI, Lau Province,"Dravuwalu, Totoya Island",Fishing,F,2575.0,Injury
+1963,PALAU,Western Caroline Islands,Koror,Fishing,M,2569.0,Injury
+1963,AUSTRALIA,New South Wales,Wanda Beach,Surfing,M,2563.0,Injury
+1963,GREECE,Thessaly,near Trikerion Island,Swimming,F,2555.0,Fatal
+1963,PAPUA NEW GUINEA,Central Province,Near Fisherman's Island,Fishing,M,2554.0,Injury
+1963,USA,California,San Mateo County,Swimming,M,2553.0,Injury
+1963,AUSTRALIA,New South Wales,Clarence Head,Fishing,M,2551.0,Injury
+1963,USA,US Virgin Islands,"St. Thomas, Magens Bay",Swimming,M,2550.0,Fatal
+1963,SOUTH AFRICA,KwaZulu-Natal,Amanzimtoti,Swimming,M,2549.0,Injury
+1963,PAPUA NEW GUINEA,New Ireland Province,Namatanai,Swimming,M,2544.0,Injury
+1963,AUSTRALIA,New South Wales,Evans Head,Swimming,M,2537.0,Injury
+1963,NEW ZEALAND,North Island,"Petone Beach, Wellington",Fishing,0,2535.0,Injury
+1963,SOUTH AFRICA,Eastern Cape Province,Humewood,Fishing,M,2534.0,Injury
+1962,SOUTH AFRICA,Western Cape Province,Swartklip,Fishing,0,2525.0,Injury
+1962,AUSTRALIA,New South Wales,Off Kisma,Fishing,0,2521.0,Injury
+1962,MEXICO,Veracruz,"Villa del Mar Beach, Veracruz",Swimming,M,2512.0,Injury
+1962,ISRAEL,Sharon,2 km north of Apollonia,Fishing,M,2509.0,Injury
+1962,PAPUA NEW GUINEA,Northern District,Kufulu Point,Fishing,M,2507.0,Injury
+1962,SOUTH AFRICA,Western Cape Province,Robbesteen,Fishing,0,2504.0,Injury
+1962,AUSTRALIA,Western Australia,Emu Point,Fishing,0,2484.0,Injury
+1962,FIJI,Viti Levu,Near Suva,Fishing,0,2479.0,Injury
+1962,AUSTRALIA,Queensland,Nobbys Beach,Fishing,0,2478.0,Injury
+1962,MOZAMBIQUE,Gaza,Xai Xai,Swimming,M,2477.0,Injury
+1962,SOUTH AFRICA,Eastern Cape Province,East London,Fishing,0,2475.0,Injury
+1962,PAPUA NEW GUINEA,Madang,Matukar village ,Swimming,M,2472.0,Fatal
+1962,NEW ZEALAND,Southland,Long Beach,Swimming,M,2470.0,Injury
+1962,SOUTH AFRICA,KwaZulu-Natal,Winkelspruit,Swimming,M,2468.0,Fatal
+1962,AUSTRALIA,Queensland,Greenmount Beach,Swimming,M,2466.0,Injury
+1962,NEW ZEALAND,North Island,South of New Plymouth,Fishing,0,2465.0,Fatal
+1962,NEW ZEALAND,South Island,"Pigeon Bay, Canterbury",Fishing,0,2459.0,Injury
+1962,AUSTRALIA,New South Wales,"Lennox Head, Ballina",Surfing,M,2455.0,Injury
+1962,AUSTRALIA,South Australia,Marino,Fishing,0,2454.0,Injury
+1962,AUSTRALIA,New South Wales,Lake Illawarra,Swimming,M,2450.0,Injury
+1962,AUSTRALIA,New South Wales,Sydney,Surfing,0,2448.0,Injury
+1962,SOUTH AFRICA,Western Cape Province,6 km off Groot Brak River,Fishing,0,2447.0,Injury
+1962,AUSTRALIA,New South Wales,"Seaspray, near Sale",Fishing,0,2446.0,Injury
+1961,USA,Florida,"Ocean Ridge, Boca Raton, Palm Beach County",Swimming,M,2431.0,Injury
+1961,CROATIA,Primorje-Gorski Kotar County ,"Opatija, northwestern coast of Rijeka Bay",Swimming,M,2427.0,Fatal
+1961,TANZANIA,0,Near entrance to Dar-es-Salaam Harbour,Fishing,M,2426.0,Injury
+1961,ITALY,Venice Province, Chioggia,Fishing,M,2423.0,Injury
+1961,USA,California,"Portuguese Beach at mouth of Salmon Creek, Sonoma County",Swimming,M,2421.0,Injury
+1961,TURKEY,Anatolia,"?nciralti Beach, ?zmir ",Swimming,M,2415.0,Injury
+1961,MOZAMBIQUE,Gaza,"Sepulveda Beach, Xai Xai",Swimming,M,2400.0,Injury
+1961,AUSTRALIA,Victoria,Lady Beach at Warrnambool,Swimming,M,2390.0,Injury
+1961,SOUTH AFRICA,KwaZulu-Natal,St. Lucia,Fishing,M,2386.0,Injury
+1961,SOUTH AFRICA,Eastern Cape Province,Nahoon,Swimming,M,2380.0,Fatal
+1961,SOUTH AFRICA,KwaZulu-Natal,Amanzimtoti,Swimming,M,2376.0,Injury
+1961,AUSTRALIA,Northern Territory,"Stokes Hill Wharf, Darwin",Fishing,M,2372.0,Injury
+1961,MOZAMBIQUE,Limpopo River,190 km to 240 km from the sea,Swimming,M,2371.0,Injury
+1960,SOUTH AFRICA,KwaZulu-Natal,Margate,Swimming,M,2360.0,Fatal
+1960,AUSTRALIA,Queensland,"Colledge's Crossing, Brisbane River",Fishing,M,2358.0,Injury
+1960,AUSTRALIA,Queensland,"Blacks Beach, 9 miles north of Mackay",Swimming,M,2357.0,Injury
+1960,PAPUA NEW GUINEA,Central Province,Abau Subdistrict,Fishing,M,2351.0,Fatal
+1960,AUSTRALIA,New South Wales,North Head,Fishing,M,2348.0,Injury
+1960,SOUTH AFRICA,Western Cape Province,False Bay,Fishing,0,2344.0,Injury
+1960,PAPUA NEW GUINEA,Madang,"Bimat, Bogia",Fishing,M,2322.0,Injury
+1960,NORTH SEA,"Unknown, treated at Wick, SCOTLAND","On board  East German fishing trawler, I Mai",Fishing,M,2319.0,Injury
+1960,USA,Georgia,"North picnic area, Jekyll Island, Glynn County",Swimming,M,2315.0,Injury
+1960,SOUTH AFRICA,Eastern Cape Province,Port Alfred,Fishing,M,2306.0,Injury
+1960,AUSTRALIA,New South Wales,"Horseshoe Bay, near Kempsey",Surfing,M,2304.0,Injury
+1960,SOUTH AFRICA,Western Cape Province,Saldanha Bay,Fishing,0,2297.0,Injury
+1960,SENEGAL,Casamance,Ziguinchor,Fishing,M,2291.0,Injury
+1960,PAPUA NEW GUINEA,West New Britain Province,"West Nakanai,  Talasea",Fishing,M,2272.0,Injury
+1960,MOZAMBIQUE,Gaza,Xai Xai,Swimming,F,2271.0,Fatal
+1959,AUSTRALIA,New South Wales,"Leichardt, Sydney",Fishing,0,2268.0,Injury
+1959,PAPUA NEW GUINEA,New Britain,"Rapindik Beach, Rabaul",Fishing,M,2252.0,Injury
+1959,MOZAMBIQUE,Maputo Province,"Xefina Island, Bay of Maputo",Swimming,M,2251.0,Fatal
+1959,AZORES,0,Sao Miguel,Fishing,0,2238.0,Injury
+1959,AUSTRALIA,Tasmania,0,Swimming,M,2237.0,Injury
+1959,USA,South Carolina,Charleston,Fishing,M,2232.0,Injury
+1959,CROATIA,Istria,Pula,Fishing,M,2229.0,Injury
+1959,JAPAN,Wakayama Prefecture,"Isonoura Beach, Wakayama City ",Swimming,M,2228.0,Fatal
+1959,USA,California,"Off La Jolla Cove, San Diego County",Fishing,0,2220.0,Injury
+1959,USA,Hawaii,"Hilo, off Kaua'i",Fishing,M,2203.0,Injury
+1959,SOUTH AFRICA,Eastern Cape Province,Port Elizabeth ,Fishing,M,2202.0,Injury
+1959,USA,Florida,"Vaca Cut Channel & bridge under Marathon, Monroe County",Swimming,M,2200.0,Injury
+1959,PAPUA NEW GUINEA, Kikori River mouth,"Ururumba, mouth of Kikori River 7.45S, 144.40E",Fishing,M,2195.0,Injury
+1959,SOUTH AFRICA,Western Cape Province,Melkbaai,Swimming,M,2187.0,Injury
+1959,SOUTH KOREA,South Chungcheong Province,"36º17'N,  126º31'E",Swimming,M,2183.0,Fatal
+1959,PAPUA NEW GUINEA,West New Britain Province,"Kalapiai, Kombe",Fishing,M,2179.0,Injury
+1959,PAPUA NEW GUINEA,Morobe Province,0,Fishing,M,2177.0,Injury
+1958,TURKEY,Ahirkapi coast,Constantinople,Fishing,0,2176.0,Injury
+1958,SOUTH AFRICA,Western Cape Province,"Melkbaai, False Bay",Swimming,M,2174.0,Fatal
+1958,AUSTRALIA,Queensland,Surfer's Paradise,Swimming,M,2171.0,Fatal
+1958,SOUTH AFRICA,Western Cape Province,False Bay,Fishing,M,2170.0,Injury
+1958,USA,California,"Pacific Beach, San Diego County",Fishing,0,2168.0,Injury
+1958,BAHAMAS,Cat Cay,off yacht Serenade,Fishing,M,2162.0,Injury
+1958,CROATIA,Primorje-Gorski Kotar County,Mo?eni?ka Draga,Swimming,F,2159.0,Injury
+1958,MEXICO,Guerrero,"Caleta Beach, Acapulco",Swimming,F,2158.0,Fatal
+1958,KENYA,Coast Province,Port Kilindeni / Mombasa Harbor,Swimming,M,2154.0,Fatal
+1958,PAPUA NEW GUINEA,"New Ireland Province, Bismarck Archipelago","Maritzoan, east coast of Namatanai",Swimming,M,2150.0,Fatal
+1958,AUSTRALIA,Queensland,Green Island,Swimming,F,2144.0,Injury
+1958,SOUTH AFRICA,KwaZulu-Natal,Scotburgh,Swimming,M,2132.0,Fatal
+1957,AUSTRALIA,New South Wales,Off Scotts,Fishing,0,2115.0,Injury
+1957,USA,North Carolina,"Salter Path, Atlantic Beach, Carteret County",Swimming,M,2109.0,Fatal
+1957,SOLOMON ISLANDS,0,0,Fishing,M,2105.0,Injury
+1957,USA,California,"Atascadero Beach, Morro Bay, San Luis Obispo County",Swimming,M,2103.0,Fatal
+1957,AUSTRALIA,New South Wales,"Merewether Beach, Newcastle",Surfing,M,2102.0,Injury
+1957,SRI LANKA,Western Province,Colombo Harbor,Fishing,M,2092.0,Fatal
+1957,CUBA,Havana Province,Cojimar,Fishing,0,2089.0,Injury
+1957,FIJI,Kadavu,Great Astrolabe Reef,Fishing,M,2086.0,Injury
+1957,PAPUA NEW GUINEA,"Abau Subdistrict,Central Province",Mailu area  ,Fishing,M,2084.0,Fatal
+1956,GABON,Estuaire Province,Owendo,Swimming,M,2079.0,Fatal
+1956,NEW ZEALAND,North Island,North Auckland,Fishing,M,2078.0,Injury
+1956,PAPUA NEW GUINEA,0,Port Moresby,Fishing,M,2074.0,Fatal
+1956,MAYOTTE,Mozambique Channel,0,Fishing,M,2071.0,Fatal
+1956,PAPUA NEW GUINEA,Central Province,"Paga Point, Port Moresby ",Fishing,M,2068.0,Injury
+1956,MALTA,Congreve Channel,between Filfla Island and Wied iz-Zurrieq,Fishing,0,2061.0,Injury
+1956,PAPUA NEW GUINEA,Central Province,Yule Island,Fishing,M,2060.0,Injury
+1956,PAPUA NEW GUINEA,Central Province,"Fisherman's Island, near Port Moresby",Fishing,M,2059.0,Injury
+1956,USA,California,"Van Ness Municipal Pier, San Francisco",Fishing,M,2057.0,Injury
+1956,MALTA,St. Thomas Bay,Marsascala,Swimming,M,2056.0,Fatal
+1956,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,M,2054.0,Injury
+1956,SOUTH AFRICA,Western Cape Province,Plettenberg Bay,Fishing,0,2050.0,Injury
+1956,AUSTRALIA,Victoria,Cowes,Swimming,M,2042.0,Injury
+1956,COSTA RICA,0,San Juan River,Swimming,M,2040.0,Fatal
+1956,USA,Virginia,"Virginia Beach, Princess Anne County",Swimming,F,2034.0,Injury
+1955,PAPUA NEW GUINEA,Central Province,"Kalautu Village, Baibara at the mouth of Oibada River",Swimming,M,2028.0,Injury
+1955,JAPAN,Izo Islands,"Mikura-jima Island, 150 miles south of Tokyo",Fishing,M,2020.0,Fatal
+1955,USA,California,"Zuma Beach, Santa Monica, Los Angeles County",Surfing,M,2019.0,Injury
+1955,CROATIA, Primorje-Gorski Kotar County,Opatija,Swimming,F,2018.0,Fatal
+1955,AMERICAN SAMOA,Tutuila Island,Pago Pago Bay,Swimming,M,2017.0,Fatal
+1955,USA,South Carolina,Windy Hill Beach,Fishing,M,2016.0,Injury
+1955,AUSTRALIA,South Australia,Port Augusta,Fishing,0,2014.0,Injury
+1955,MONTENEGRO,Adriatic Sea,Budva,Swimming,M,2011.0,Fatal
+1955,YEMEN,Aden,Telegraph Bay,Swimming,F,2010.0,Fatal
+1955,AUSTRALIA,New South Wales,"Sugarloaf Bay, Middle Harbor, Sydney",Swimming,M,1999.0,Fatal
+1955,INDIA,Tamil Nadu,"Vanagiri, Madras (Chennai), Bay of Bengal",Fishing,M,1998.0,Injury
+1955,CUBA,Havana Province,Cojimar,Fishing,M,1992.0,Injury
+1955,USA,Illinois,Chicago (Lake Michigan),Swimming,M,1990.0,Injury
+1954,AUSTRALIA,Victoria,Point Lonsdale,Swimming,M,1986.0,Fatal
+1954,SOUTH AFRICA,KwaZulu-Natal,"Rocket Hut Beach, Durban",Swimming,M,1984.0,Injury
+1954,USA,California,"La Jolla, San Diego County",Swimming,M,1978.0,Injury
+1954,HONG KONG,0,Junk Bay,Swimming,M,1977.0,Fatal
+1954,THE BALKANS,Slovenia,Between Punta Grossa & Koper,Swimming,M,1969.0,Fatal
+1954,BERMUDA,South shore ,Elbow Beach,Swimming,M,1967.0,Injury
+1954,GREECE,0,Kalamata,Swimming,M,1966.0,Fatal
+1954,AUSTRALIA,New South Wales,"The Entrance, near Gosford",Swimming,M,1957.0,Fatal
+1954,AUSTRALIA,New South Wales,Avoca Beach,Swimming,M,1956.0,Injury
+1954,USA,Hawaii,Moloka'i,Fishing,M,1949.0,Injury
+1954,PAPUA NEW GUINEA,West New Britain Province,"Volupai, Talasea",Swimming,M,1948.0,Injury
+1953,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. Johns",Swimming,F,1945.0,Injury
+1953,SOUTH AFRICA,Eastern Cape Province,Port Elizabeth,Swimming,M,1944.0,Injury
+1953,USA,Texas,South Padre Island,Swimming,F,1924.0,Injury
+1953,AUSTRALIA,South Australia,Largs Bay,Fishing,M,1914.0,Injury
+1953,AUSTRALIA,Tasmania,Wynyard,Fishing,0,1913.0,Injury
+1952,ITALY,Genoa  Province,Riva Trigoso,Fishing,M,1906.0,Injury
+1952,USA,Hawaii,"Between Ala Moana Channel & Kewalo Basin, O'ahu",Swimming,M,1905.0,Fatal
+1952,PAPUA NEW GUINEA,"Abau Sub District, Central Province",Lalaura Village,Fishing,M,1902.0,Injury
+1952,ITALY,Teramo,Giulianova,Fishing,0,1900.0,Injury
+1952,USA,South Carolina,Seabrook Beach,Fishing,M,1898.0,Injury
+1952,USA,South Carolina,Seabrook Beach,Fishing,M,1897.0,Injury
+1952,USA,California,"San Diego, San Diego County",Fishing,M,1895.0,Injury
+1952,AUSTRALIA,New South Wales,Evans Head,Surfing,M,1886.0,Injury
+1952,USA,Florida,Near Key West,Swimming,M,1881.0,Fatal
+1951,MOZAMBIQUE,Bay of Maputu,Catembe ,Swimming,M,1880.0,Fatal
+,MOZAMBIQUE,Sofala Province,Beira,Swimming,M,1878.0,Injury
+1951,SOUTH AFRICA,KwaZulu-Natal,"South Beach, Durban",Swimming,M,1876.0,Injury
+1951,JAMAICA,Kingston Parish,Kingston Harbor,Fishing,M,1875.0,Injury
+1951,AUSTRALIA,Queensland,"Ocean baths, Kissing Point Beach ",Swimming,M,1872.0,Fatal
+1951,ITALY,Salerno,Amalfi,Swimming,F,1870.0,Fatal
+1951,GREECE,Corfu Island,Off Royal Residence,Swimming,M,1867.0,Injury
+1951,GREECE,Corfu Island,Off Royal Residence,Swimming,F,1866.0,Fatal
+1951,AUSTRALIA,New South Wales,Bondi Beach,Swimming,M,1852.0,Injury
+1951,SOUTH AFRICA,KwaZulu-Natal,"Native Beach, Durban",Swimming,M,1851.0,Fatal
+1950,AUSTRALIA,New South Wales,Jervis Bay,Swimming,0,1847.0,Injury
+1950,AUSTRALIA,Queensland,"Peterson's Beach, Sarina",Fishing,M,1841.0,Injury
+1950,AUSTRALIA,South Australia,Streaky Bay,Fishing,0,1838.0,Injury
+1950,JAPAN,Sago Prefecture,Ariakeno Bay,Swimming,M,1837.0,Fatal
+,ITALY,Savona,Albenga,Fishing,0,1836.0,Injury
+1950,USA,Texas,Near Port Arthur,Swimming,M,1834.0,Injury
+1950,AUSTRALIA,Victoria,South Werribee Beach,Swimming,M,1819.0,Injury
+1950,GREECE,0,"Piraeus, Athens",Swimming,0,1810.0,Fatal
+1949,AUSTRALIA,Queensland,Yorkeys Knob Beach near Cairns,Swimming,M,1801.0,Injury
+1949,AUSTRALIA,Queensland,Yorkeys Knob Beach near Cairns,Swimming,M,1800.0,Fatal
+1949,ITALY,Tuscany,Elba Island,Swimming,M,1799.0,Injury
+1949,ITALY,Calabria,Cosenza,Swimming,M,1797.0,Injury
+1949,IRAN,Shatt-el-Arab River,0,Swimming,M,1796.0,Injury
+1949,IRAN,Shatt-al-Arab River,Bashamir,Swimming,M,1795.0,Fatal
+1949,USA,California,"10 miles off Redondo Beach, Los Angeles County",Fishing,M,1793.0,Injury
+1949,AUSTRALIA,Queensland,"Nerang River, Southpot",Fishing,M,1789.0,Injury
+1949,AUSTRALIA,New South Wales,Off North Bondi,Surfing,M,1784.0,Injury
+1948,AUSTRALIA,Western Australia,Lancelin Island,Swimming,M,1774.0,Fatal
+1948,AUSTRALIA,Queensland,Rib Reef off Townsville,Fishing,M,1770.0,Injury
+1948,GREECE,Attica,Keratsini ,Swimming,M,1767.0,Fatal
+1948,USA,Hawaii,"Off Makapauu Point, O'ahu",Swimming,M,1766.0,Injury
+1948,USA,Hawaii,"Off Makapauu Point, O'ahu",Fishing,M,1765.0,Injury
+1848,TURKEY,Adana Province,Yumurtalik,Swimming,M,1764.0,Fatal
+1948,IRAN,Shatt-al-Arab River,Bashamir,Swimming,M,1760.0,Injury
+1948,USA,US Virgin Islands,"St. John, Genti Bay",Swimming,M,1758.0,Fatal
+1948,NORTHERN MARIANA ISLANDS,Saipan,0,Swimming,M,1757.0,Injury
+1948,AUSTRALIA,New South Wales,"Stockton Beach, Newcastle",Swimming,M,1750.0,Fatal
+1948,SOUTH AFRICA,Western Cape Province,False Bay,Fishing,0,1745.0,Injury
+1947,AUSTRALIA,New South Wales,"Watson Taylor's Lake, 25 miles south of Port Macquarie",Fishing,M,1744.0,Injury
+1947,AUSTRALIA,South Australia,3 miles out to sea off Glenelg,Fishing,0,1741.0,Injury
+1947,AUSTRALIA,New South Wales,"Maria River, Port Macquarie, 12 miles from river mouth",Swimming,M,1738.0,Fatal
+1947,AUSTRALIA,New South Wales,"Maria River, Port Macquarie, 12 miles from river mouth",Swimming,M,1737.0,Injury
+1947,USA,Florida,In a canal 10 miles north of St Augustine,Swimming,M,1733.0,Fatal
+1947,USA,California,"Santa Monica, Los Angeles County",Fishing,M,1732.0,Injury
+1947,SOUTH AFRICA,KwaZulu-Natal,"North Beach, Durban",Swimming,M,1730.0,Injury
+1947,USA,Hawaii,"Off Waianae, O'ahu",Fishing,M,1728.0,Injury
+1947,AUSTRALIA,New South Wales,Coogee,Fishing,0,1727.0,Injury
+1947,KENYA,Coast Province,"Kilindini Harbor, Mombasa",Swimming,M,1726.0,Injury
+1947,AUSTRALIA,New South Wales,Palm Beach,Surfing,M,1723.0,Injury
+1947,AUSTRALIA,Queensland,Palm Beach,Fishing,0,1719.0,Injury
+1946,MARSHALL ISLANDS,Kwajalein,0,Fishing,M,1711.0,Fatal
+1946,AUSTRALIA,New South Wales,"Marks Point, Swan Bay, Lake Macquarie",Swimming,M,1710.0,Injury
+1946,ISRAEL,Gaza,Jura Village,Fishing,M,1709.0,Injury
+1946,AUSTRALIA,Queensland,"Trinity Beach, Cairns",Swimming,M,1703.0,Fatal
+1946,AUSTRALIA,South Australia,Port Newby,Fishing,0,1702.0,Injury
+1946,AUSTRALIA,South Australia,Grange,Fishing,M,1701.0,Injury
+1946,SOUTH AFRICA,KwaZulu-Natal,"Battery Beach, Durban",Swimming,M,1696.0,Injury
+1946,AUSTRALIA,New South Wales,"Oatley Bay near Como, Georges River",Swimming,F,1693.0,Fatal
+1945,IRAN,Shatt-al-Arab River,Bashamir,Swimming,M,1685.0,Injury
+1945,AUSTRALIA,Queensland,"Trinity Beach, Cairns",Swimming,M,1680.0,Fatal
+1945,USA,North Carolina,"Ocracoke Inlet, Carteret County",Swimming,M,1679.0,Fatal
+1945,ISRAEL,Tel Aviv,0,Swimming,M,1677.0,Injury
+1945,IRAQ,Basrah,Shatt-al Arab River,Swimming,M,1673.0,Injury
+1944,AUSTRALIA,Queensland,Maroochydore Beach,Swimming,M,1669.0,Injury
+1944,AUSTRALIA,Queensland,Tewantin,Fishing,0,1663.0,Injury
+1944,USA,Maryland,North Beach,Swimming,M,1662.0,Injury
+,SOUTH AFRICA,Western Cape Province,Hartenbos,Swimming,M,1659.0,Fatal
+1944,AUSTRALIA,Western Australia,"Cottesloe, Perth",Fishing,M,1647.0,Injury
+1944,AUSTRALIA,New South Wales,"First Beach, Forster",Surfing,M,1646.0,Injury
+1944,SOUTH AFRICA,KwaZulu-Natal,"North Beach, Durban",Swimming,M,1645.0,Fatal
+1943,MEXICO,Veracruz,"Villa del Mar Beach, Veracruz",Swimming,M,1632.0,Injury
+1943,SOUTH AFRICA,KwaZulu-Natal,"North Beach, Durban",Swimming,M,1624.0,Fatal
+1943,MEXICO,Veracruz,"Villa del Mar Beach, Veracruz",Swimming,0,1619.0,Fatal
+1943,SOLOMON ISLANDS,0,Guadalcanal,Swimming,M,1618.0,Injury
+1943,IRAQ,0,River Tigris,Swimming,M,1617.0,Injury
+1942,SOUTH AFRICA,KwaZulu-Natal,Umkomaas,Swimming,M,1611.0,Injury
+1942,AUSTRALIA,New South Wales,"Egg Rock, Middle Harbor, Sydney",Swimming,F,1585.0,Fatal
+1942,PANAMA,Panama City,Bella Vista Beach,Swimming,M,1573.0,Fatal
+1941,AUSTRALIA,Western Australia,Carnarvon,Swimming,M,1571.0,Injury
+1941,USA,New York,Montauk,Fishing,0,1565.0,Injury
+1941,AUSTRALIA,New South Wales,Parramata River,Swimming,M,1564.0,Injury
+1941,USA,Hawaii,"Nankuli, O'ahu",Fishing,M,1561.0,Injury
+1941,USA,California,"Santa Monica, Los Angeles County",Fishing,M,1557.0,Injury
+1941,AUSTRALIA,New South Wales,Wollongong,Fishing,M,1556.0,Injury
+1940,SOUTH AFRICA,KwaZulu-Natal,"Inyoni Rocks, South Coast",Swimming,M,1544.0,Fatal
+1940,AUSTRALIA,Queensland,Double Island Beach,Fishing,M,1543.0,Injury
+1940,USA,North Carolina,"Holden Beach, Brunswick County",Fishing,M,1538.0,Injury
+1940,SOUTH AFRICA,KwaZulu-Natal,"Inyoni Rocks, South Coast",Swimming,M,1535.0,Fatal
+1940,AUSTRALIA,New South Wales,"North Brighton, Botany Bay",Swimming,M,1531.0,Fatal
+1940,AUSTRALIA,Queensland,"Surfers Paradise, near Southport",Swimming,M,1530.0,Injury
+1940,SOUTH AFRICA,Eastern Cape Province,Kidd's Beach,Swimming,0,1524.0,Injury
+1939,AUSTRALIA,New South Wales,"Cabramatta Creek, Georges River ",Swimming,M,1521.0,Injury
+1939,SAMOA,0,0,Fishing,M,1515.0,Fatal
+1939,USA,California,"Off San Pedro, Los Angeles County",Fishing,M,1511.0,Injury
+1939,NEW ZEALAND,North Island,Matakana River Mouth,Fishing,M,1503.0,Injury
+1939,BAHAMAS,Andros Islands,Middle Bight,Fishing,0,1500.0,Injury
+1938,AUSTRALIA,New South Wales,"North Beach, Belligen River",Swimming,M,1496.0,Fatal
+1938,AUSTRALIA,Queensland,Between Wynnum & St. Helena Island,Fishing,M,1495.0,Injury
+1938,USA,California,"Near Encino, Los Angeles County",Fishing,M,1493.0,Injury
+1938,USA,South Carolina,Charleston,Swimming,M,1492.0,Injury
+1938,TURKEY,0,0,Fishing,M,1491.0,Injury
+1938,COSTA RICA,Nicoya Peninsula,0,Fishing,M,1486.0,Fatal
+1938,AUSTRALIA,New South Wales,Tweed Heads,Fishing,M,1481.0,Injury
+1938,USA,North Carolina,On one of the sounds near Wilmington,Fishing,M,1475.0,Injury
+1938,SOUTH AFRICA,KwaZulu-Natal,"Bilanhlolo River Mouth, Ramsgate",Swimming,M,1473.0,Injury
+,CROATIA, Split-Dalmatia County,Bisk,Fishing,M,1465.0,Injury
+1937,SCOTLAND,Arran,Fallen Rocks,Fishing,0,1463.0,Injury
+1937,TURKEY,0,Istanbul,Swimming,M,1460.0,Injury
+1937,PANAMA,Colon Province,Limon Bay,Swimming,M,1459.0,Fatal
+1937,USA,Texas,Galveston,Swimming,M,1454.0,Fatal
+1937,USA,Texas,Galveston,Fishing,M,1453.0,Injury
+1937,AUSTRALIA,Victoria,Port Melbourne,Swimming,M,1450.0,Injury
+1937,AUSTRALIA,New South Wales,"Bar Beach, Newcastle",Swimming,M,1449.0,Fatal
+1937,AUSTRALIA,New South Wales, Botany Bay ,Fishing,0,1447.0,Injury
+1937,AUSTRALIA,Queensland,Moreton Island,Fishing,M,1446.0,Injury
+1936,AUSTRALIA,New South Wales,"Throsby Creek, Newcastle",Swimming,M,1439.0,Fatal
+1936,AUSTRALIA,Victoria,Mordialloc,Fishing,M,1438.0,Fatal
+1936,USA,Hawaii,"Lahaina, Maui",Swimming,M,1435.0,Injury
+1936,USA,North Carolina,"Pamlico Sound off Frisco, Dare County",Fishing,M,1430.0,Injury
+1936,USA,Florida,"Boca Ciega Bay, Pinellas County",Swimming,M,1424.0,Fatal
+1936,USA,Florida,"Miami, Miami-Date County",Fishing,M,1421.0,Injury
+1936,AUSTRALIA,New South Wales,"South Steyne, Manly",Swimming,M,1415.0,Fatal
+1936,AUSTRALIA,Queensland,"Main Beach, Southport",Surfing,M,1413.0,Injury
+1935,USA,North Carolina,"Browns Inlet on New River, Onslow Beach",Swimming,M,1408.0,Fatal
+1935,PAPUA NEW GUINEA,Central Province,Hula,Swimming,M,1407.0,Fatal
+1935,UNITED KINGDOM,Isle of Wight,Atherfield,Fishing,M,1405.0,Injury
+1935,CROATIA,Adriatic Sea,"Susak / Fiume (Rijeka, Istria)",Swimming,F,1400.0,Fatal
+1935,SOLOMON ISLANDS,Makira-Uluwa Province,Makira Island,Fishing,M,1398.0,Fatal
+1935,AUSTRALIA,New South Wales,Newcastle,Surfing,M,1386.0,Injury
+1935,AUSTRALIA,New South Wales,Maroubra Beach,Swimming,M,1385.0,Fatal
+1935,AUSTRALIA,New South Wales,"Off Ben Buckler, near Sydney",Fishing,M,1382.0,Injury
+1934,BERMUDA,Hamilton,Hamilton Parish,Fishing,M,1373.0,Injury
+1934,BERMUDA,Hamilton,Nine miles off Frasconi Flats,Fishing,M,1371.0,Injury
+1934,ITALY / CROATIA,0,Kralievica,Swimming,F,1369.0,Fatal
+1934,CROATIA,Adriatic Sea,"Susak (Rijeka, Istria)",Swimming,F,1367.0,Fatal
+1934,USA,Georgia,"Thunderbolt, Chatham County",Swimming,M,1366.0,Injury
+1934,AUSTRALIA,New South Wales,Cronulla,Fishing,N,1365.0,Injury
+1934,AUSTRALIA,New South Wales,Off Mooloolabah,Fishing,M,1364.0,Injury
+1934,SOUTH AFRICA,KwaZulu-Natal,"Grannys Pool, Winkelspruit",Swimming,M,1361.0,Fatal
+1934,TURKEY,Istanbul,"Haydarpasa jetty, Istanbul",Fishing,M,1354.0,Injury
+1933,ISRAEL,0,Nabi Rubin,Fishing,M,1348.0,Injury
+1933,USA,Connecticut,Mystic River,Swimming,F,1345.0,Injury
+1933,AUSTRALIA,Northern Territory,Darwin,Fishing,M,1340.0,Injury
+1933,AUSTRALIA,Queensland,Off Stradbroke Island,Fishing,M,1338.0,Injury
+1933,USA,Florida,"Miami Beach, Miami-Dade County",Swimming,M,1335.0,Fatal
+1933,AUSTRALIA,South Australia,"Port River, Adelaide",Fishing,M,1331.0,Injury
+1933,AUSTRALIA,Queensland,"Strand Beach, Kissing Point, Townsville",Swimming,M,1330.0,Fatal
+1932,AUSTRALIA,New South Wales,"Redhead Beach, Newcastle",Swimming,M,1326.0,Injury
+1932,CAPE VERDE,Barlavento Islands,São Vicente ,Swimming,M,1325.0,Fatal
+1932,USA,New Jersey,"Offshore, between Mantoloking & Point Pleasant, Ocean County",Fishing,M,1321.0,Injury
+1932,USA,New Jersey,"10 miles offshore from Sea Isle City, Cape May County",Fishing,M,1316.0,Injury
+1932,USA,New Jersey,"Off Ocean City, Cape May County",Fishing,M,1315.0,Injury
+1932,USA,Hawaii,"1 mile off Mala Wharf, Lahaina, Maui",Swimming,M,1309.0,Injury
+1932,AUSTRALIA,Queensland,Ipswich,Swimming,M,1306.0,Injury
+1932,AUSTRALIA,Victoria,Frankston,Fishing,0,1305.0,Injury
+1932,MEXICO,Baja California,Descano Point,Fishing,M,1304.0,Injury
+1931,USA,Florida,"Municipal Beach, West Palm Beach, Palm Beach County",Swimming,M,1300.0,Injury
+1931,USA,Hawaii,"Kahala, O'ahu",Fishing,M,1298.0,Injury
+1931,CUBA,Havana Province,"Vedado Baths, Miramar, Havana",Swimming,M,1297.0,Fatal
+1931,USA,Texas,Off Brownsville,Swimming,M,1292.0,Injury
+1931,USA,New Jersey,"Sandy Hook (ocean side), Monmouth County",Swimming,M,1291.0,Injury
+1931,FIJI,Viti Levu Island,Tamavua River,Swimming,M,1289.0,Injury
+1931,USA,New Jersey,"Sea Girt, Monmouth County",Swimming,M,1288.0,Injury
+1931,TURKEY,0,"Bakurköy, Istanbul",Fishing,0,1281.0,Injury
+1931,AUSTRALIA,Queensland,"Yeppoon, near Ross Creek",Swimming,M,1276.0,Injury
+1930,AUSTRALIA,New South Wales,"Homebush Bay, Parramatta River, Sydney",Swimming,M,1273.0,Injury
+1930,AUSTRALIA,Victoria,Rosebud,Fishing,0,1271.0,Injury
+1930,HONDURAS,Black River,0,Swimming,M,1268.0,Fatal
+1930,AUSTRALIA,Western Australia,Geraldton,Fishing,M,1266.0,Injury
+1930,SPAIN,Canary Islands,"El Escabonal, Tenerife ",Swimming,M,1265.0,Injury
+1930,USA,Florida,"Palm Beach Inlet, Palm Beach County",Swimming,M,1264.0,Injury
+1930,CUBA,Havana Province,"LaPlaya Beach / Vedado, Havana",Swimming,M,1263.0,Injury
+1930,USA,Florida,"Jensen Beach, Martin County",Swimming,M,1262.0,Injury
+1930,TURKEY,0,Ye?ilköy,Fishing,M,1259.0,Injury
+1930,SOUTH AFRICA,Western Cape Province,"Melkbaai, False Bay",Swimming,M,1251.0,Injury
+1930,SOUTH AFRICA,Eastern Cape Province,"North End Beach, Port Elizabeth",Swimming,M,1248.0,Fatal
+1929,CUBA,Cienfuegos Province,Cienfuegos,Fishing,M,1240.0,Injury
+1929,MEXICO,Tamaulipas,Tampico,Swimming,M,1235.0,Injury
+1929,USA,Florida,"Fort Pierce, St Lucie County",Fishing,M,1233.0,Injury
+1929,USA,Florida,"Sea Spray, Palm Beach",Swimming,M,1226.0,Injury
+1929,AUSTRALIA,New South Wales,Bondi,Swimming,M,1220.0,Fatal
+1929,AUSTRALIA,Queensland,"Alma Bay, Magnetic Island, Townsville",Swimming,M,1219.0,Fatal
+1929,AUSTRALIA,New South Wales,Sydney Harbor,Swimming,M,1214.0,Injury
+1929,USA,Florida,Indian River area,Fishing,M,1212.0,Injury
+1928,USA,New Jersey,"Seabright, Monmouth County",Fishing,M,1208.0,Injury
+1928,PANAMA,Gulf of Panama,Taboga Island Bay,Swimming,M,1205.0,Fatal
+1928,USA,Texas,Corpus Christi,Fishing,M,1204.0,Injury
+1928,USA,Florida,"Daytona Beach, Volusia County",Swimming,M,1200.0,Injury
+1928,AUSTRALIA,Queensland,"Barrow Point, 100 miles north of Cooktown, Queensland",Fishing,M,1198.0,Injury
+1928,COSTA RICA,Near Puntarenas,0,Swimming,F,1191.0,Injury
+1928,COSTA RICA,Near Puntarenas,0,Swimming,M,1190.0,Injury
+1928,USA,Florida,0,Swimming,0,1188.0,Injury
+1927,SOUTH AFRICA,Western Cape Province,Little Brak River,Swimming,M,1183.0,Fatal
+1927,NEW ZEALAND,South Island,"Menzies Bay, Banks Peninsula, ",Fishing,M,1170.0,Injury
+1927,USA,California,"Catalina Channel, Los Angeles County",Swimming,M,1168.0,Injury
+1927,AUSTRALIA,New South Wales,"Greys Point, Port Hacking",Swimming,M,1167.0,Fatal
+1927,AUSTRALIA,New South Wales,15 miles up the Cataract River,Swimming,M,1166.0,Fatal
+1926,USA,New Jersey,"Seaside, Ocean County",Swimming,M,1158.0,Fatal
+1926,ITALY,Golfo di Genova in the Ligurian Sea,Varazze,Swimming,M,1157.0,Fatal
+1926,USA,New Jersey,20 miles off Seabright,Fishing,M,1156.0,Injury
+1926,USA,Hawaii,"Hale'iwa, O'ahu",Swimming,M,1153.0,Fatal
+1926,USA,Hawaii,"Hilo Bay Yacht Club, Hilo, Hawai'i",Swimming,F,1151.0,Injury
+1926,SOUTH AFRICA,Eastern Cape Province,Hamburg,Swimming,M,1149.0,Injury
+1925,SPAIN,Valencia ,Valencia,Fishing,M,1140.0,Injury
+1925,ENGLAND,Isle of Wight,Off Shanklin,Fishing,M,1139.0,Injury
+1925,USA,South Carolina,"Folly Island, near Charleston",Swimming,F,1138.0,Injury
+1925,AUSTRALIA,New South Wales,Newcastle Beach,Swimming,M,1134.0,Fatal
+1925,PAPUA NEW GUINEA,Central Province,Hula,Swimming,M,1133.0,Fatal
+1925,USA,Florida,"Miami Beach, Miami-Dade County",Swimming,M,1132.0,Injury
+1924,USA,California,"Newport Beach, Orange County",Fishing,M,1122.0,Injury
+1924,SOLOMON ISLANDS,Central Province,Savo Island,Swimming,M,1117.0,Injury
+1924,SPAIN,Galica,Sisargas Islands,Fishing,0,1116.0,Injury
+1924,SOUTH AFRICA,KwaZulu-Natal,"South Beach, Durban",Swimming,M,1113.0,Fatal
+1924,SOUTH AFRICA,Eastern Cape Province,"St. Georges Strand, Port Elizabeth",Swimming,M,1112.0,Injury
+1923,AUSTRALIA,New South Wales,"Murwillumbah, Tweed River",Swimming,M,1110.0,Injury
+1923,AUSTRALIA,New South Wales,Bellinger Head,Fishing,M,1107.0,Fatal
+1923,AUSTRALIA,New South Wales," Black Head, south of Taree",Fishing,0,1105.0,Injury
+1923,GUYANA,Demerara County,Off the Demerara River ,Fishing,M,1103.0,Injury
+1923,AUSTRALIA,Western Australia,"In Swan River at Freshwater Bay, Claremont, 5 miles from river mouth",Swimming,M,1094.0,Fatal
+1923,USA,New Jersey,"Sea Bright, Monmouth County",Fishing,M,1092.0,Injury
+1922,BARBADOS,Lucy,Pie Corner,Fishing,M,1086.0,Fatal
+1922,USA,Massachusetts,Nahant,Fishing,0,1082.0,Injury
+1922,JAMAICA,Westmoreland Parish,Savanna-la-Mar,Swimming,M,1079.0,Fatal
+1922,SOUTH AFRICA,Western Cape Province,"Simons Town, False Bay",Swimming,M,1078.0,Injury
+1922,AUSTRALIA,New South Wales,Hawkesbury River,Swimming,M,1077.0,Fatal
+1922,JAMAICA,Kingston Parish,Kingston Harbor,Fishing,M,1076.0,Injury
+1922,AUSTRALIA,New South Wales,"Bilgola Beach, Sydney",Swimming,M,1073.0,Injury
+1922,AUSTRALIA,New South Wales,Coogee ,Swimming,M,1072.0,Fatal
+1922,AUSTRALIA,New South Wales,"Stockton Beach, Newcastle",Surfing,M,1068.0,Fatal
+1921,AUSTRALIA,Queensland,Fitzroy River at  Rockhampton,Swimming,M,1067.0,Injury
+1921,FIJI,Viti Levu Island,Rewa River,Swimming,0,1064.0,Fatal
+1921,ENGLAND,Dorset,Weymouth,Fishing,M,1061.0,Injury
+1921,PHILIPPINES,Luzon Island,"Fort Frank, Manila Bay",Swimming,M,1059.0,Fatal
+1919,AUSTRALIA,Queensland,Brible Island,Swimming,M,1040.0,Injury
+1919,AUSTRALIA,New South Wales,"Pelican Island, Macleay River",Swimming,M,1039.0,Fatal
+1919,USA,Florida,"Gadsden Point, Tampa Bay",Swimming,M,1036.0,Injury
+1919,AUSTRALIA,New South Wales,Newcastle Beach,Swimming,M,1032.0,Injury
+1919,NEW ZEALAND,South Island,"Tahuna Beach, Nelson",Swimming,F,1031.0,Injury
+1919,ITALY,0,Savona,Fishing,M,1028.0,Injury
+1919,USA,Florida,"Near Panama City, Bay County",Swimming,F,1027.0,Injury
+1918,USA,Hawaii,Papaikou plantation ,Fishing,M,1026.0,Fatal
+1918,AUSTRALIA,New South Wales,Newcastle,Surfing,M,1023.0,Injury
+1917,AUSTRALIA,Western Australia,Port Hedland,Swimming,M,1021.0,Injury
+1917,PHILIPPINES,Luzon Island,Canacao Bay,Swimming,M,1013.0,Fatal
+1916,AUSTRALIA,Queensland,Townsville,Swimming,M,1006.0,Fatal
+1916,USA,North Carolina,"Atlantic, near New Bern, Craven County",Fishing,M,1002.0,Injury
+1916,USA,New York,"Sheepshead Bay, Brooklyn",Swimming,F,1001.0,Injury
+1916,USA,New York,"Sheepshead Bay, Brooklyn",Swimming,M,1000.0,Injury
+1916,USA,New Jersey,"In Matawan Creek, off NJ Clay Company brickyards at Cliffwood, Monmouth County, 9.5 miles from the sea, Monmouth County",Swimming,M,999.0,Injury
+1916,USA,New Jersey,"Matawan Creek, 10 miles from the sea, Monmouth County",Swimming,M,997.0,Fatal
+1916,USA,New Jersey,"Spring Lake, Monmouth County",Swimming,M,993.0,Fatal
+1916,USA,New Jersey,"Beach Haven, Ocean County",Swimming,M,992.0,Fatal
+1916,USA,New Jersey,"Atlantic City, Atlantic County",Swimming,M,991.0,Injury
+1916,AUSTRALIA,New South Wales,Manley Beach,Swimming,M,988.0,Fatal
+1915,MEXICO,Tamaulipas,Tampico,Fishing,M,981.0,Fatal
+1915,AUSTRALIA,Queensland,Wynnum-Manley,Swimming,M,977.0,Injury
+1915,NEW ZEALAND,North Island,Otaki,Fishing,M,976.0,Injury
+1914,AUSTRALIA,Queensland,Magnetic Island,Swimming,M,973.0,Injury
+1914,USA,Louisiana,Lake Pontchartrain,Swimming,M,970.0,Fatal
+1914,USA,Louisiana,New Orleans,Fishing,M,968.0,Injury
+1914,USA,Florida,"Boca Ciega Bay, Pinellas County",Fishing,F,963.0,Injury
+1914,USA,Florida,"St. Augustine, St Johns County",Swimming,M,962.0,Injury
+1913,AUSTRALIA,Queensland,"Sandgate Jetty, Brisbane",Swimming,M,952.0,Injury
+1913,COSTA RICA,0,Port Limon,Swimming,M,945.0,Fatal
+1913,USA,Florida,"John's Pass, Pinellas County",Fishing,M,944.0,Injury
+1913,REUNION,5aint-Denis,Barachois,Swimming,M,939.0,Fatal
+1912,USA,Georgia,"Tybee Island, Chatham County",Swimming,M,936.0,Fatal
+1912,USA,South Carolina,Sullivan's Island,Swimming,M,935.0,Injury
+1912,NEW ZEALAND,North Island,Takapuna,Swimming,M,932.0,Injury
+1912,AUSTRALIA,New South Wales,Coogee,Swimming,M,930.0,Injury
+1912,NEW CALEDONIA,South Province,Noumea,Swimming,M,929.0,Injury
+1912,AUSTRALIA,New South Wales,"Fig Tree Bridge, Lane Cove River, near Sydney ",Swimming,M,928.0,Fatal
+1911,USA,Delaware,Delaware Lightship,Fishing,M,916.0,Injury
+1911,USA,Texas,"Rockport, Aransas County",Fishing,M,914.0,Injury
+1911,SOUTH AFRICA,Western Cape Province,Victoria Bay,Swimming,M,913.0,Fatal
+1911,NEW ZEALAND,Chatham Islands,0,Fishing,0,912.0,Injury
+1911,AUSTRALIA,Torres Strait,Thursday Island,Swimming,M,911.0,Fatal
+1911,USA,Texas,"Texas City, Galveston",Swimming,M,909.0,Injury
+1911,NEW ZEALAND,North Island,"Manukau Harbor, 6 miles south of Auckland",Fishing,M,908.0,Fatal
+1910,NORTH ATLANTIC OCEAN,Georges Bank,0,Fishing,M,905.0,Injury
+1910,MEXICO,0,LaBarra,Swimming,M,903.0,Injury
+1910,NEW ZEALAND,North Island,"Waikanae Beach, Gisborne",Swimming,M,899.0,Injury
+1910,PHILIPPINES,Luzon Island,"Polinao Point, Manila",Swimming,M,894.0,Injury
+1909,AUSTRALIA,New South Wales,Bondi,Fishing,M,891.0,Injury
+1909,USA,Florida,"Panama City, Bay County",Swimming,M,886.0,Injury
+1909,SPAIN,Andalucia,"Puente Mayorga, San Roque, Cádiz",Fishing,M,882.0,Injury
+1908,SOUTH AFRICA,Western Cape Province,Stilbaai,Swimming,M,875.0,Fatal
+1907,CHINA,Hong Kong,"Sharp Peak, Sai Kung Peninsula, New Territories",Fishing,M,860.0,Injury
+1907,CHINA,Hong Kong,"Sharp Peak, Sai Kung Peninsula, New Territories",Fishing,M,859.0,Injury
+1907,ENGLAND,English Channel,0,Swimming,M,855.0,Injury
+1907,CROATIA," Split-Dalmatia Count,","Sucurja, Hvar Island,",Swimming,F,854.0,Fatal
+1907,CROATIA, Primorje-Gorski Kotar County,Krk Island,Swimming,F,853.0,Fatal
+1907,CROATIA, Primorje-Gorski Kotar County,Krk Island,Swimming,M,852.0,Fatal
+1907,CROATIA," Split-Dalmatia Count,","Su?uraj, Hvar Island",Swimming,F,850.0,Fatal
+1907,MALTA,Harare Province,Marsaskala,Fishing,M,845.0,Fatal
+1907,VIETNAM,Khánh Hòa Province,Nha Trang,Fishing,M,841.0,Injury
+1906,JAMAICA,Westmoreland Parish,Cabaritta River mouth,Fishing,M,839.0,Injury
+1906,USA,Hawaii,0,Swimming,M,837.0,Fatal
+1906,USA,Hawaii,0,Swimming,M,835.0,Fatal
+1906,INDONESIA,Java,Lorok Bay,Swimming,M,834.0,Injury
+1906,INDONESIA,Java,Lorok Bay,Swimming,M,833.0,Fatal
+1906,AUSTRALIA,Torres Strait,Mabiuag,Swimming,M,832.0,Fatal
+1906,USA,California,"Avalon, Los Angeles County",Fishing,M,831.0,Injury
+1906,USA,Mississippi,"Bay St. Louis, Hancock County",Swimming,M,828.0,Fatal
+1906,NEW ZEALAND,North Island,Mototapu Island,Swimming,M,821.0,Injury
+1905,AUSTRALIA,New South Wales,"Waverly, Sydney",Swimming,M,816.0,Fatal
+1905,USA,Florida,"Fort Pierce, St Lucie County",Fishing,M,815.0,Injury
+1905,USA,North Carolina,"Ocracoke, Hyde County",Fishing,M,808.0,Fatal
+1905,USA,Florida,"Pablo Beach, Jacksonville, Duval County",Swimming,M,807.0,Injury
+1905,SOUTH AFRICA,KwaZulu-Natal,"Back Beach, Durban",Swimming,M,806.0,Fatal
+1904,USA,Texas,0,Swimming,M,795.0,Fatal
+1904,ITALY,Ancona Province,Ancona,Swimming,M,794.0,Fatal
+1904,NEW ZEALAND,North Island,Waitara,Swimming,M,792.0,Fatal
+1904,REUNION ISLAND,0,Swimming off the British steamer Troutpool,Swimming,M,790.0,Fatal
+1904,USA,Hawaii,"Off Diamond Head, Honolulu, O'ahu",Swimming,M,787.0,Fatal
+1903,USA,New Jersey,"Atlantic City, Atlantic County",Fishing,M,785.0,Injury
+1903,AUSTRALIA,New South Wales,Georges River,Swimming,M,783.0,Fatal
+1903,AUSTRALIA,Queensland,Logan River,Swimming,M,780.0,Fatal
+1903,USA,Hawaii,"Koko Head, south side of O'ahu Island",Fishing,M,777.0,Fatal
+1902,NICARAGUA,Rio San Juan,Greytown,Swimming,M,776.0,Fatal
+1902,AUSTRALIA,New South Wales,"Middle Harbour, Sydney ",Swimming,M,775.0,Fatal
+1902,USA,Texas,"Near Port Lavaca, Calhoun County",Fishing,M,774.0,Injury
+1902,ITALY,Calabria,Nicotera,Swimming,M,773.0,Fatal
+1902,CROATIA,Istria County,Porec,Fishing,M,772.0,Injury
+1902,ITALY,Liguria,"Galliera dock, Genoa",Fishing,M,770.0,Injury
+1902,USA,New Jersey,"Atlantic City, Atlantic County",Swimming,M,769.0,Injury
+1902,SOUTH AFRICA,Eastern Cape Province,Algoa Bay,Swimming,M,766.0,Injury
+1902,AUSTRALIA,Queensland,Brisbane,Swimming,M,762.0,Injury
+1901,CYPRUS,Southern Cyprus,Larnaca,Swimming,M,759.0,Fatal
+1901,SOUTH AFRICA,Western Cape Province,Windmill Beach,Swimming,M,758.0,Fatal
+1901,ITALY,Syracuse,Capo Santa Croce,Swimming,M,757.0,Injury
+1901,PHILIPPINES,Western Viscayas,"Island of Panay, Iliolo",Swimming,M,755.0,Injury
+1900,SOUTH AFRICA,Western Cape Province,Three Anchor Bay,Swimming,M,751.0,Fatal
+1900,SOUTH AFRICA,Western Cape Province,"Woodstock Beach, Cape Town",Swimming,M,750.0,Injury
+1900,AUSTRALIA,Queensland,Townsville,Swimming,M,749.0,Injury
+1900,CROATIA, Primorje-Gorski Kotar County,"Volosko, Opatija",Swimming,M,745.0,Fatal
+1900,SOUTH AFRICA,Eastern Cape Province,Port Elizabeth,Swimming,M,740.0,Injury
+1899,MEXICO,Tamaulipas,Tampico,Swimming,M,734.0,Fatal
+1899,USA,Florida,"Trout River, Panama Park",Swimming,M,732.0,Fatal
+1899,ITALY,Calabria,Bagnara Calabra,Fishing,M,727.0,Injury
+1899,PHILIPPINES,Negros ,Escalante,Swimming,M,725.0,Fatal
+1898,USA,New York,"Prince's Bay, Staten Island",Swimming,M,714.0,Injury
+1898,CUBA,Santiago de Cuba Province,Santiago de Cuba,Swimming,M,710.0,Fatal
+,SRI LANKA,0,Colombo Harbor,Swimming,M,707.0,Fatal
+1897,MARSHALL ISLANDS,Ratak ,Ailuk Island,Fishing,0,696.0,Fatal
+1897,USA,Rhode Island,Point Judith,Fishing,M,695.0,Injury
+1897,0,Mediterranean Sea,0,Swimming,M,691.0,Fatal
+1897,USA,Massachusetts,30 miles south of Lynn,Fishing,M,690.0,Fatal
+1896,AUSTRALIA,Victoria,Hobson's Bay,Fishing,M,687.0,Injury
+1896,AUSTRALIA,Western Australia,Albany,Swimming,M,684.0,Fatal
+1896,USA,Hawaii,"Kahului, Maui",Fishing,M,681.0,Fatal
+1895,AUSTRALIA,New South Wales,Jervis Bay ,Fishing,M,674.0,Fatal
+1895,USA,North Carolina,"Near the mouth of the Cape Fear River, Brunswick County",Fishing,0,671.0,Injury
+1895,USA,Rhode Island,Noyes Beach,Swimming,M,670.0,Fatal
+1895,USA,New Jersey,Raritan Bay,Fishing,M,669.0,Injury
+1895,NEW ZEALAND,South Island,Oamaru,Swimming,M,662.0,Injury
+1895,INDONESIA,Moluccas,South Aroo Island,Swimming,M,661.0,Fatal
+1895,AUSTRALIA,Queensland,Burnett River,Swimming,M,660.0,Injury
+1895,AUSTRALIA,New South Wales,Sydney Harbor,Swimming,M,659.0,Fatal
+1894,USA,Florida,"North Beach, St. Augustine",Fishing,M,656.0,Injury
+1894,USA,Alabama,Mobile Bay,Swimming,M,654.0,Fatal
+1894,USA,Texas,Rockport,Fishing,M,651.0,Injury
+1894,USA,New York,"Woolsey's Point, East River",Swimming,F,650.0,Injury
+1894,FRANCE,Provence,"la Badine, Hyères ",Fishing,M,648.0,Injury
+1892,AUSTRALIA,Norfolk Island,0,Fishing,M,627.0,Injury
+1892,AUSTRALIA,Queensland,"Wellington Point, Brisbane",Swimming,F,626.0,Injury
+1892,AUSTRALIA,New South Wales,Lake Macquarie,Fishing,M,619.0,Injury
+1891,AUSTRALIA,New South Wales,0,Swimming,M,617.0,Injury
+1890,CROATIA,0,Fiume,Swimming,M,602.0,Injury
+1890,EGYPT,0,Port Said,Swimming,M,600.0,Fatal
+1890,NEW ZEALAND,North Island,"Lampton Harbour, Wellington",Swimming,M,593.0,Fatal
+1889,INDIA,Tamil Nadu,Madras,Swimming,M,588.0,Fatal
+1889,USA,Florida,"Fernandina, Nassau County",Swimming,M,587.0,Fatal
+1889,USA,Texas,West Bay near Galveston ,Fishing,M,586.0,Injury
+1889,USA,Florida,Hillsborough Bay,Fishing,0,584.0,Injury
+1888,INDIAN OCEAN,Between Perth & Colombo,0,Swimming,M,582.0,Injury
+1888,AUSTRALIA,New South Wales,"Iron Cove Bridge, Sydney (Estuary)",Swimming,M,581.0,Fatal
+1888,AUSTRALIA,Victoria,Port Melbourne,Fishing,0,573.0,Injury
+1887,ITALY,0,Trieste,Swimming,M,563.0,Injury
+1887,NEW ZEALAND,North Island,Kaipara,Swimming,M,559.0,Fatal
+1887,SOUTH AFRICA,Eastern Cape Province,"Mzimvubu River, 9.6 km from the sea",Swimming,M,556.0,Fatal
+1886,AUSTRALIA,Victoria,Mordialloc,Fishing,M,544.0,Injury
+1886,SOUTH AFRICA,Western Cape Province,Groot River,Swimming,M,541.0,Fatal
+1885,0,0,0,Swimming,M,533.0,Fatal
+1885,SOUTH AFRICA,KwaZulu-Natal,Kokstad District,Fishing,M,531.0,Injury
+1884,SOUTH AFRICA,Eastern Cape Province,"South Jetty, Port Elizabeth",Swimming,M,525.0,Fatal
+1883,AUSTRALIA,New South Wales,Parramatta River,Swimming,M,523.0,Fatal
+1883,PACIFIC OCEAN,0,0,Fishing,M,514.0,Fatal
+1882,AUSTRALIA,New South Wales,Lake Macquarie,Fishing,M,504.0,Fatal
+1881,AUSTRALIA,New South Wales,"Johnstone's Bay, Sydney",Swimming,M,498.0,Injury
+1881,USA,Rhode Island,Providence,Swimming,M,494.0,Injury
+1880,AUSTRALIA,Queensland,"Petrie Bight, Brisbane River",Swimming,M,489.0,Fatal
+1880,AUSTRALIA,New South Wales,"Chowder Bay, Sydney",Fishing,0,480.0,Injury
+1879,INDIA,Andaman Islands,Port Blair,Swimming,M,474.0,Fatal
+1879,AUSTRALIA,New South Wales,Clarence Heads,Swimming,M,473.0,Injury
+1879,SPAIN,Valencia,Castellon de la Plana,Fishing,0,472.0,Injury
+1878,INDONESIA,East Java,Probolinggo,Swimming,M,465.0,Fatal
+1878,USA,Connecticut,"Branford, New Haven County",Fishing,M,463.0,Injury
+1878,USA,New York,East River,Swimming,M,460.0,Fatal
+1878,USA,New York,Brooklyn,Swimming,M,459.0,Fatal
+1877,AUSTRALIA,New South Wales,Port Jackson,Fishing,M,450.0,Injury
+1877,AUSTRALIA,Victoria,Boarding School Bay,Swimming,F,442.0,Injury
+1876,USA,New York,0,Fishing,M,439.0,Fatal
+1876,AUSTRALIA,New South Wales,Sydney Harbour,Swimming,M,436.0,Fatal
+1875,AUSTRALIA,New South Wales,Clarence Heads,Fishing,M,430.0,Injury
+1874,CROATIA,Zadar County,"Lika-Senj, Pag Island",Fishing,0,424.0,Injury
+1874,FRANCE,0,0,Fishing,0,423.0,Injury
+1874,USA,Hawaii,Waikiki,Fishing,M,422.0,Injury
+1874,CANADA,Newfoundland,St. Pierre Bank ,Fishing,M,416.0,Injury
+1872,CROATIA,0,Fiume,Fishing,M,406.0,Injury
+1871,USA,Hawaii,0,Fishing,M,400.0,Injury
+1871,AUSTRALIA,New South Wales,Jervis Bay & Long Reef,Fishing,M,393.0,Injury
+1870,AUSTRALIA,Queensland,Moreton Island,Fishing,M,389.0,Injury
+1868,AUSTRALIA,South Australia,Belfast (now Port Fairy),Fishing,0,379.0,Injury
+1868,AUSTRALIA,Torres Strait,South Aroo Island,Swimming,M,378.0,Fatal
+1867,EGYPT,0,Port Said,Swimming,M,376.0,Fatal
+1865,SOUTH AFRICA,Western Cape Province,St. Helena Bay,Fishing,M,367.0,Fatal
+1864,USA,New York,Mahattan,Swimming,M,362.0,Injury
+1864,CHINA,0,Macao Harbor,Swimming,M,358.0,Injury
+1864,AUSTRALIA,South Australia,"Corio Bay, Port Phillip",Swimming,M,352.0,Fatal
+1863,USA,Hawaii,Palama,Fishing,M,349.0,Injury
+1863,GREECE,Corfu,0,Swimming,M,341.0,Fatal
+1862,NEW ZEALAND,North Island,"Soldier's Point, Brick Bay, Auckland",Swimming,M,340.0,Injury
+1862,SPAIN,Malaga,San Andres Beach,Swimming,M,335.0,Fatal
+1861,EQUATORIAL GUINEA / CAMEROON,Fernando Po Island,0,Swimming,M,325.0,Fatal
+1860,USA,New York,Brooklyn,Swimming,M,321.0,Injury
+1860,NEW ZEALAND,North Island,"Princes Wharf, Auckland Harbor",Swimming,M,320.0,Injury
+1858,USA,New York ,"Staten Island, Richmond County",Swimming,M,315.0,Injury
+1858,USA,New York ,"Staten Island, Richmond County",Swimming,M,314.0,Injury
+1858,USA,Hawaii,0,Swimming,M,311.0,Fatal
+1857,USA,Florida,"Cape Sable, Monroe County",Swimming,M,309.0,Fatal
+1856,FIJI,0,0,Swimming,M,308.0,Fatal
+1856,0,0,0,Swimming,M,307.0,Fatal
+1856,ENGLAND,Isle of Wight,Colwell Bay,Swimming,M,306.0,Injury
+1856,AUSTRALIA,Victoria,Point Henry,Swimming,M,305.0,Injury
+1855,AUSTRALIA,Victoria,Melbourne,Swimming,M,304.0,Fatal
+1853,AUSTRALIA,New South Wales,0,Swimming,M,297.0,Injury
+1853,USA,South Carolina,"Charleston Harbor, Charleston County",Swimming,M,295.0,Fatal
+1853,GREECE,Corfu ,0,Swimming,M,294.0,Injury
+1852,AUSTRALIA,New South Wales,"Clark's Island, Sydney Harbor",Swimming,M,289.0,Injury
+1852,PACIFIC OCEAN,Between Australia & USA,0,Fishing,M,288.0,Injury
+1852,USA,Virginia,Norfolk,Swimming,M,285.0,Fatal
+1852,NEW ZEALAND,North Island,Wellington Harbor,Swimming,M,281.0,Fatal
+1851,USA,Hawaii,Honolulu Harbor,Swimming,M,278.0,Fatal
+1849,PERU,0,Tumbez,Swimming,M,272.0,Fatal
+1849,AUSTRALIA,Victoria,Warrnambool,Swimming,M,271.0,Fatal
+1848,USA,Maryland,Patapsco River,Swimming,M,267.0,Injury
+1847,AUSTRALIA,Queensland,Brisbane River,Swimming,M,264.0,Injury
+1847,GREECE,Corfu,Off the harbor wall at Mandrakina,Swimming,M,262.0,Fatal
+1847,USA,South Carolina,"Charleston Harbor, Charleston County",Swimming,M,257.0,Injury
+1845,AUSTRALIA,New South Wales,Newcastle ,Fishing,M,252.0,Fatal
+,ALGERIA,0,Cape Matifou,Swimming,M,245.0,Fatal
+1842,USA,New Jersey,"Absecon, Atlantic County",Swimming,M,242.0,Injury
+1840,AUSTRALIA,New South Wales,"Off Domain, Sydney Harbor",Swimming,M,237.0,Fatal
+1840,WEST INDIES,0,0,Swimming,M,234.0,Fatal
+1836,ENGLAND,Cumberland,Whitehaven,Swimming,M,224.0,Fatal
+1834,FRENCH POLYNESIA,Society Islands,Tahiti,Swimming,F,219.0,Fatal
+1832,AUSTRALIA,New South Wales,"South Head, Sydney",Fishing,F,218.0,Injury
+1828,USA,Hawaii,"Uo, Lahaina, Maui",Surfing,M,206.0,Fatal
+1827,SIERRA LEONE,Western Area ,Tombo Island in the Sierra Leone River,Swimming,M,205.0,Injury
+1827,SIERRA LEONE,Western Area ,Tombo Island in the Sierra Leone River,Swimming,M,204.0,Injury
+,AUSTRALIA,Tasmania,"Sweet Water Point, Pitt Water",Swimming,M,197.0,Fatal
+1817,USA,South Carolina,"Charleston Harbor, Charleston County",Swimming,M,191.0,Fatal
+1817,INDIA,Maharashtra,Bombay (now Mumbai),Swimming,M,190.0,Fatal
+1817,SRI LANKA,Western Province,Colombo,Swimming,M,189.0,Fatal
+1816,USA,Rhode Island,Bristol Harbor,Swimming,M,187.0,Fatal
+1812,ENGLAND,Devon,Mill Bay,Swimming,M,185.0,Injury
+1808,JAMAICA,0,Port Royal Harbour,Swimming,M,182.0,Fatal
+1792,ENGLAND,0,On the Thames River,Fishing,M,169.0,Fatal
+1788,AUSTRALIA,New South Wales,Sydney Harbor,Fishing,0,167.0,Injury
+1787,0,St Helena,Landing Place,Swimming,M,166.0,Fatal
+1784,JAMAICA,0,Kingston,Swimming,M,163.0,Fatal
+1780,USA,Florida,"Pensacola Harbor, Escambia County",Swimming,M,161.0,Fatal
+1779,USA,Hawaii,"Maliu, Hawai'i",Surfing,M,160.0,Fatal
+1771,USA,0,Damiscotte,Fishing,M,157.0,Fatal
+1764,SPAIN,0,Guadalquivir River,Swimming,M,155.0,Fatal
+1751,USA,Massachusetts,0,Swimming,M,152.0,Fatal
+1749,CUBA,Havana Province,Havana Harbor,Swimming,M,151.0,Injury
+1742,0,0,Carlisle Bay,Swimming,M,148.0,Fatal
+1738,ITALY,Sicily,Strait of Messina,Swimming,M,147.0,Fatal
+1721,ITALY,Sardinia,"Ponte della Maddelena,",Swimming,M,144.0,Fatal
+1703,BARBADOS,Southwest coast,Carlisle Bay,Swimming,M,143.0,Injury
+1555,0,0,0,Swimming,M,132.0,Fatal
+1939,CANADA,0,Grand Banks,Fishing,M,122.0,Injury
+1934,URUGUAY,Rocha,"Isla Chica, La Paloma",Swimming,0,118.0,Injury
+1934,URUGUAY,Rocha ,"Playa del Barco, La Pedrera",Swimming,M,117.0,Fatal
+,USA,South Carolina,Charleston,Swimming,M,116.0,Injury
+1963,GREECE,0,0,Swimming,F,110.0,Fatal
+1994,USA,Florida,"Lost Tree Village, Palm Beach County",Surfing,M,102.0,Injury
+2004,MOZAMBIQUE,Inhambane Province,Off Inhambane,Fishing,0,91.0,Injury
+1962,SOUTH AFRICA,Western Cape Province,"Murray Bay, Robben Island",Swimming,M,90.0,Fatal
+1995,FRENCH POLYNESIA,Tuamotus,Rangiroa,Fishing,M,82.0,Injury
+1965,GREECE,Island of Volos,Eastern shore,Swimming,F,72.0,Fatal
+1963,SINGAPORE,0,"Keppel Harbor,  2 miles from Singapore city center",Swimming,0,66.0,Injury
+1956,MARSHALL ISLANDS,Bikini Atoll,0,Swimming,M,48.0,Injury
+1942,IRAQ,Basrah,Shatt-el Arab River near a small boat stand,Swimming,M,38.0,Fatal
+1939,REUNION,Saint-Denis,Barachois,Swimming,0,25.0,Fatal
+1921,USA,Florida,"Gadsden Point, Tampa Bay",Fishing,M,20.0,Injury
+1916,USA,North Carolina ,Somewhere between Hatteras and Beaufort,Swimming,M,15.0,Injury
+1913,SOUTH AFRICA,KwaZulu-Natal,Durban,Fishing,M,14.0,Fatal
+1911,ASIA?,0,0,Swimming,M,12.0,Injury
+1906,AUSTRALIA,0,0,Fishing,M,10.0,Fatal
+1906,AUSTRALIA,0,0,Fishing,M,9.0,Fatal
+1906,AUSTRALIA,0,0,Fishing,M,8.0,Fatal
+1906,AUSTRALIA,New South Wales,            ,Swimming,M,7.0,Fatal
+1905,USA,North Carolina,Ocracoke Inlet,Swimming,M,4.0,Fatal
+1853,CEYLON (SRI LANKA),Eastern Province,"Below the English fort, Trincomalee",Swimming,M,2.0,Fatal
