@@ -1,7 +1,7 @@
 import unittest
-from vikingsClases import War
-from vikingsClases import Viking
-from vikingsClases import Saxon
+from vikingsclases import War
+from vikingsclases import Viking
+from vikingsclases import Saxon
 from inspect import signature
 
 
@@ -38,7 +38,7 @@ class TestWar2(unittest.TestCase):
         cls.viking = generateViking()
         cls.saxon = generateSaxon()
         cls.war = War()
-        cls.war.addSaxon(cls.saxon)
+        cls.war.addsaxon(cls.saxon)
         cls.war.addViking(cls.viking)
 
     def testAddViking(self):

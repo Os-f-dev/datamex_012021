@@ -1,5 +1,5 @@
 import unittest
-from vikingsClases import Soldier
+from vikingsclases import Soldier
 from inspect import signature
 
 
