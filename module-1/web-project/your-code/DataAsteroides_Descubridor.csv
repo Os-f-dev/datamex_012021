@@ -1,0 +1,1000 @@
+,id,Nombre,Descubridor(es),Fecha,Observatorio o Sitio de observación
+0,1,Ceres,G. Piazzi,1 de enero de 1801,Observatorio de Palermo
+1,2,Pallas,H. W. M. Olbers,28 de marzo de 1802,Bremen
+2,3,Juno,K. L. Harding,1 de septiembre de 1804,Lilienthal
+3,4,Vesta,H. W. M. Olbers,29 de marzo de 1807,Bremen
+4,5,Astraea,K. L. Hencke,8 de diciembre de 1845,Drezdenko[1]​
+5,6,Hebe,K. L. Hencke,1 de julio de 1847,Drezdenko[1]​
+6,7,Iris,J. R. Hind,13 de agosto de 1847,Observatorio George Bishop
+7,8,Flora,J. R. Hind,18 de octubre de 1847,Observatorio George Bishop
+8,9,Metis,A. Graham,25 de abril de 1848,Observatorio Markree
+9,10,Hygiea,A. de Gasparis,12 de abril de 1849,Obs. Astronómico de Capodimonte
+10,11,Parthenope,A. de Gasparis,11 de mayo de 1850,Obs. Astronómico de Capodimonte
+11,12,Victoria,J. R. Hind,13 de septiembre de 1850,Observatorio George Bishop
+12,13,Egeria,A. de Gasparis,2 de noviembre de 1850,Obs. Astronómico de Capodimonte
+13,14,Irene,J. R. Hind,19 de mayo de 1851,Observatorio George Bishop
+14,15,Eunomia,A. de Gasparis,29 de julio de 1851,Obs. Astronómico de Capodimonte
+15,16,Psyche,A. de Gasparis,17 de marzo de 1852,Obs. Astronómico de Capodimonte
+16,17,Thetis,K. T. R. Luther,17 de abril de 1852,Observatorio de Düsseldorf-Bilk
+17,18,Melpomene,J. R. Hind,24 de junio de 1852,Observatorio George Bishop
+18,19,Fortuna,J. R. Hind,22 de agosto de 1852,Observatorio George Bishop
+19,20,Massalia,A. de Gasparis,19 de septiembre de 1852,Obs. Astronómico de Capodimonte
+20,21,Lutetia,H. M. S. Goldschmidt,15 de noviembre de 1852,París
+21,22,Kalliope,J. R. Hind,16 de noviembre de 1852,Observatorio George Bishop
+22,23,Thalia,J. R. Hind,15 de diciembre de 1852,Observatorio George Bishop
+23,24,Themis,A. de Gasparis,5 de abril de 1853,Obs. Astronómico de Capodimonte
+24,25,Phocaea,J. Chacornac,6 de abril de 1853,Observatorio de Marsella
+25,26,Proserpina,K. T. R. Luther,5 de mayo de 1853,Observatorio de Düsseldorf-Bilk
+26,27,Euterpe,J. R. Hind,8 de noviembre de 1853,Observatorio George Bishop
+27,28,Bellona,K. T. R. Luther,1 de marzo de 1854,Observatorio de Düsseldorf-Bilk
+28,29,Amphitrite,A. Marth,1 de marzo de 1854,Observatorio George Bishop
+29,30,Urania,J. R. Hind,22 de julio de 1854,Observatorio George Bishop
+30,31,Euphrosyne,J. Ferguson,1 de septiembre de 1854,Obs. Naval de los Estados Unidos
+31,32,Pomona,H. M. S. Goldschmidt,26 de octubre de 1854,París
+32,33,Polyhymnia,J. Chacornac,28 de octubre de 1854,Observatorio de París
+33,34,Circe,J. Chacornac,6 de abril de 1855,Observatorio de París
+34,35,Leukothea,K. T. R. Luther,19 de abril de 1855,Observatorio de Düsseldorf-Bilk
+35,36,Atalante,H. M. S. Goldschmidt,5 de octubre de 1855,París
+36,37,Fides,K. T. R. Luther,5 de octubre de 1855,Observatorio de Düsseldorf-Bilk
+37,38,Leda,J. Chacornac,12 de enero de 1856,Observatorio de París
+38,39,Laetitia,J. Chacornac,8 de febrero de 1856,Observatorio de París
+39,40,Harmonia,H. M. S. Goldschmidt,31 de marzo de 1856,París
+40,41,Daphne,H. M. S. Goldschmidt,22 de mayo de 1856,París
+41,42,Isis,N. R. Pogson,23 de mayo de 1856,"Observatorio Radcliffe, Oxford"
+42,43,Ariadne,N. R. Pogson,15 de abril de 1857,"Observatorio Radcliffe, Oxford"
+43,44,Nysa,H. M. S. Goldschmidt,27 de mayo de 1857,París
+44,45,Eugenia,H. M. S. Goldschmidt,27 de junio de 1857,París
+45,46,Hestia,N. R. Pogson,16 de agosto de 1857,"Observatorio Radcliffe, Oxford"
+46,47,Aglaja,K. T. R. Luther,15 de septiembre de 1857,Observatorio de Düsseldorf-Bilk
+47,48,Doris,H. M. S. Goldschmidt,19 de septiembre de 1857,París
+48,49,Pales,H. M. S. Goldschmidt,19 de septiembre de 1857,París
+49,50,Virginia,J. Ferguson,4 de octubre de 1857,Obs. Naval de los Estados Unidos
+50,51,Nemausa,J. J. P. Laurent,22 de enero de 1858,Nimes
+51,52,Europa,H. M. S. Goldschmidt,4 de febrero de 1858,París
+52,53,Kalypso,K. T. R. Luther,4 de abril de 1858,Observatorio de Düsseldorf-Bilk
+53,54,Alexandra,H. M. S. Goldschmidt,10 de septiembre de 1858,París
+54,55,Pandora,G. M. Searle,10 de septiembre de 1858,"Observatorio Dudley, Albany"
+55,56,Melete,H. M. S. Goldschmidt,9 de septiembre de 1857,París
+56,57,Mnemosyne,K. T. R. Luther,22 de septiembre de 1859,Observatorio de Düsseldorf-Bilk
+57,58,Concordia,K. T. R. Luther,24 de marzo de 1860,Observatorio de Düsseldorf-Bilk
+58,59,Elpis,J. Chacornac,12 de septiembre de 1860,Observatorio de París
+59,60,Echo,J. Ferguson,14 de septiembre de 1860,Obs. Naval de los Estados Unidos
+60,61,Danaë,H. M. S. Goldschmidt,9 de septiembre de 1860,París
+61,62,Erato,O. L. Lesser; W. J. Foerster,14 de septiembre de 1860,Berlín
+62,63,Ausonia,A. de Gasparis,10 de febrero de 1861,Obs. Astronómico de Capodimonte
+63,64,Angelina,E. W. L. Tempel,4 de marzo de 1861,Observatorio de Marsella
+64,65,Cybele,E. W. L. Tempel,8 de marzo de 1861,Observatorio de Marsella
+65,66,Maja,H. P. Tuttle,9 de abril de 1861,Observatorio del Harvard College
+66,67,Asia,N. R. Pogson,17 de abril de 1861,Observatorio de Madrás
+67,68,Leto,K. T. R. Luther,29 de abril de 1861,Observatorio de Düsseldorf-Bilk
+68,69,Hesperia,G. V. Schiaparelli,29 de abril de 1861,Observatorio Astronómico de Brera
+69,70,Panopaea,H. M. S. Goldschmidt,5 de mayo de 1861,París
+70,71,Niobe,K. T. R. Luther,13 de agosto de 1861,Observatorio de Düsseldorf-Bilk
+71,72,Feronia,C. H. F. Peters,29 de mayo de 1861,"Observatorio Litchfield, Clinton"
+72,73,Klytia,H. P. Tuttle,7 de abril de 1862,Observatorio del Harvard College
+73,74,Galatea,E. W. L. Tempel,29 de agosto de 1862,Observatorio de Marsella
+74,75,Eurydike,C. H. F. Peters,22 de septiembre de 1862,"Observatorio Litchfield, Clinton"
+75,76,Freia,H. L. d'Arrest,21 de octubre de 1862,Copenhague
+76,77,Frigga,C. H. F. Peters,12 de noviembre de 1862,"Observatorio Litchfield, Clinton"
+77,78,Diana,K. T. R. Luther,15 de marzo de 1863,Observatorio de Düsseldorf-Bilk
+78,79,Eurynome,J. C. Watson,14 de septiembre de 1863,"Observatorio Detroit, Ann Arbor"
+79,80,Sappho,N. R. Pogson,2 de mayo de 1864,Observatorio de Madrás
+80,81,Terpsichore,E. W. L. Tempel,30 de septiembre de 1864,Observatorio de Marsella
+81,82,Alkmene,K. T. R. Luther,27 de noviembre de 1864,Observatorio de Düsseldorf-Bilk
+82,83,Beatrix,A. de Gasparis,26 de abril de 1865,Obs. Astronómico de Capodimonte
+83,84,Klio,K. T. R. Luther,25 de agosto de 1865,Observatorio de Düsseldorf-Bilk
+84,85,Io,C. H. F. Peters,19 de septiembre de 1865,"Observatorio Litchfield, Clinton"
+85,86,Semele,F. Tietjen,4 de enero de 1866,Berlín
+86,87,Sylvia,N. R. Pogson,16 de mayo de 1866,Observatorio de Madrás
+87,88,Thisbe,C. H. F. Peters,15 de junio de 1866,"Observatorio Litchfield, Clinton"
+88,89,Julia,E. J. M. Stephan,6 de agosto de 1866,Observatorio de Marsella
+89,90,Antiope,K. T. R. Luther,1 de octubre de 1866,Observatorio de Düsseldorf-Bilk
+90,91,Aegina,E. J. M. Stephan,4 de noviembre de 1866,Observatorio de Marsella
+91,92,Undina,C. H. F. Peters,7 de julio de 1867,"Observatorio Litchfield, Clinton"
+92,93,Minerva,J. C. Watson,24 de agosto de 1867,"Observatorio Detroit, Ann Arbor"
+93,94,Aurora,J. C. Watson,6 de septiembre de 1867,"Observatorio Detroit, Ann Arbor"
+94,95,Arethusa,K. T. R. Luther,23 de noviembre de 1867,Observatorio de Düsseldorf-Bilk
+95,96,Aegle,J. E. Coggia,17 de febrero de 1868,Observatorio de Marsella
+96,97,Klotho,E. W. L. Tempel,17 de febrero de 1868,Observatorio de Marsella
+97,98,Ianthe,C. H. F. Peters,18 de abril de 1868,"Observatorio Litchfield, Clinton"
+98,99,Dike,A. L. N. Borrelly,28 de mayo de 1868,Observatorio de Marsella
+99,100,Hekate,J. C. Watson,11 de julio de 1868,"Observatorio Detroit, Ann Arbor"
+100,101,Helena,J. C. Watson,15 de agosto de 1868,"Observatorio Detroit, Ann Arbor"
+101,102,Miriam,C. H. F. Peters,22 de agosto de 1868,"Observatorio Litchfield, Clinton"
+102,103,Hera,J. C. Watson,7 de septiembre de 1868,"Observatorio Detroit, Ann Arbor"
+103,104,Klymene,J. C. Watson,13 de septiembre de 1868,"Observatorio Detroit, Ann Arbor"
+104,105,Artemis,J. C. Watson,16 de septiembre de 1868,"Observatorio Detroit, Ann Arbor"
+105,106,Dione,J. C. Watson,10 de octubre de 1868,"Observatorio Detroit, Ann Arbor"
+106,107,Camilla,N. R. Pogson,17 de noviembre de 1868,Observatorio de Madrás
+107,108,Hecuba,K. T. R. Luther,2 de abril de 1869,Observatorio de Düsseldorf-Bilk
+108,109,Felicitas,C. H. F. Peters,9 de octubre de 1869,"Observatorio Litchfield, Clinton"
+109,110,Lydia,A. L. N. Borrelly,19 de abril de 1870,Observatorio de Marsella
+110,111,Ate,C. H. F. Peters,14 de agosto de 1870,"Observatorio Litchfield, Clinton"
+111,112,Iphigenia,C. H. F. Peters,19 de septiembre de 1870,"Observatorio Litchfield, Clinton"
+112,113,Amalthea,K. T. R. Luther,12 de marzo de 1871,Observatorio de Düsseldorf-Bilk
+113,114,Kassandra,C. H. F. Peters,23 de julio de 1871,"Observatorio Litchfield, Clinton"
+114,115,Thyra,J. C. Watson,6 de agosto de 1871,"Observatorio Detroit, Ann Arbor"
+115,116,Sirona,C. H. F. Peters,8 de septiembre de 1871,"Observatorio Litchfield, Clinton"
+116,117,Lomia,A. L. N. Borrelly,12 de septiembre de 1871,Observatorio de Marsella
+117,118,Peitho,K. T. R. Luther,15 de marzo de 1872,Observatorio de Düsseldorf-Bilk
+118,119,Althaea,J. C. Watson,3 de abril de 1872,"Observatorio Detroit, Ann Arbor"
+119,120,Lachesis,A. L. N. Borrelly,10 de abril de 1872,Observatorio de Marsella
+120,121,Hermione,J. C. Watson,12 de mayo de 1872,"Observatorio Detroit, Ann Arbor"
+121,122,Gerda,C. H. F. Peters,31 de julio de 1872,"Observatorio Litchfield, Clinton"
+122,123,Brunhild,C. H. F. Peters,31 de julio de 1872,"Observatorio Litchfield, Clinton"
+123,124,Alkeste,C. H. F. Peters,23 de agosto de 1872,"Observatorio Litchfield, Clinton"
+124,125,Liberatrix,M. P. Henry,11 de septiembre de 1872,Observatorio de París
+125,126,Velleda,P. P. Henry,5 de noviembre de 1872,Observatorio de París
+126,127,Johanna,M. P. Henry,5 de noviembre de 1872,Observatorio de París
+127,128,Nemesis,J. C. Watson,25 de noviembre de 1872,"Observatorio Detroit, Ann Arbor"
+128,129,Antigone,C. H. F. Peters,5 de febrero de 1873,"Observatorio Litchfield, Clinton"
+129,130,Elektra,C. H. F. Peters,17 de febrero de 1873,"Observatorio Litchfield, Clinton"
+130,131,Vala,C. H. F. Peters,24 de mayo de 1873,"Observatorio Litchfield, Clinton"
+131,132,Aethra,J. C. Watson,13 de junio de 1873,"Observatorio Detroit, Ann Arbor"
+132,133,Cyrene,J. C. Watson,16 de agosto de 1873,"Observatorio Detroit, Ann Arbor"
+133,134,Sophrosyne,K. T. R. Luther,27 de septiembre de 1873,Observatorio de Düsseldorf-Bilk
+134,135,Hertha,C. H. F. Peters,18 de febrero de 1874,"Observatorio Litchfield, Clinton"
+135,136,Austria,J. Palisa,18 de marzo de 1874,Observatorio de Pula
+136,137,Meliboea,J. Palisa,21 de abril de 1874,Observatorio de Pula
+137,138,Tolosa,H. J. A. Perrotin,19 de mayo de 1874,Observatorio de Toulouse
+138,139,Juewa,J. C. Watson,10 de octubre de 1874,Pekín
+139,140,Siwa,J. Palisa,13 de octubre de 1874,Observatorio de Pula
+140,141,Lumen,P. P. Henry,13 de enero de 1875,Observatorio de París
+141,142,Polana,J. Palisa,28 de enero de 1875,Observatorio de Pula
+142,143,Adria,J. Palisa,23 de febrero de 1875,Observatorio de Pula
+143,144,Vibilia,C. H. F. Peters,3 de junio de 1875,"Observatorio Litchfield, Clinton"
+144,145,Adeona,C. H. F. Peters,3 de junio de 1875,"Observatorio Litchfield, Clinton"
+145,146,Lucina,A. L. N. Borrelly,8 de junio de 1875,Observatorio de Marsella
+146,147,Protogeneia,L. Schulhof,10 de julio de 1875,Observatorio de Viena
+147,148,Gallia,M. P. Henry,7 de agosto de 1875,Observatorio de París
+148,149,Medusa,H. J. A. Perrotin,21 de septiembre de 1875,Observatorio de Toulouse
+149,150,Nuwa,J. C. Watson,18 de octubre de 1875,"Observatorio Detroit, Ann Arbor"
+150,151,Abundantia,J. Palisa,1 de noviembre de 1875,Observatorio de Pula
+151,152,Atala,P. P. Henry,2 de noviembre de 1875,Observatorio de París
+152,153,Hilda,J. Palisa,2 de noviembre de 1875,Observatorio de Pula
+153,154,Bertha,M. P. Henry,4 de noviembre de 1875,Observatorio de París
+154,155,Scylla,J. Palisa,8 de noviembre de 1875,Observatorio de Pula
+155,156,Xanthippe,J. Palisa,22 de noviembre de 1875,Observatorio de Pula
+156,157,Dejanira,A. L. N. Borrelly,1 de diciembre de 1875,Observatorio de Marsella
+157,158,Koronis,V. K. Knorre,4 de enero de 1876,Berlín
+158,159,Aemilia,P. P. Henry,26 de enero de 1876,Observatorio de París
+159,160,Una,C. H. F. Peters,20 de febrero de 1876,"Observatorio Litchfield, Clinton"
+160,161,Athor,J. C. Watson,19 de abril de 1876,"Observatorio Detroit, Ann Arbor"
+161,162,Laurentia,M. P. Henry,21 de abril de 1876,Observatorio de París
+162,163,Erigone,H. J. A. Perrotin,26 de abril de 1876,Observatorio de Toulouse
+163,164,Eva,P. P. Henry,12 de julio de 1876,Observatorio de París
+164,165,Loreley,C. H. F. Peters,9 de agosto de 1876,"Observatorio Litchfield, Clinton"
+165,166,Rhodope,C. H. F. Peters,15 de agosto de 1876,"Observatorio Litchfield, Clinton"
+166,167,Urda,C. H. F. Peters,28 de agosto de 1876,"Observatorio Litchfield, Clinton"
+167,168,Sibylla,J. C. Watson,28 de septiembre de 1876,"Observatorio Detroit, Ann Arbor"
+168,169,Zelia,M. P. Henry,28 de septiembre de 1876,Observatorio de París
+169,170,Maria,H. J. A. Perrotin,10 de enero de 1877,Observatorio de Toulouse
+170,171,Ophelia,A. L. N. Borrelly,13 de enero de 1877,Observatorio de Marsella
+171,172,Baucis,A. L. N. Borrelly,5 de febrero de 1877,Observatorio de Marsella
+172,173,Ino,A. L. N. Borrelly,1 de agosto de 1877,Observatorio de Marsella
+173,174,Phaedra,J. C. Watson,2 de septiembre de 1877,"Observatorio Detroit, Ann Arbor"
+174,175,Andromache,J. C. Watson,1 de octubre de 1877,"Observatorio Detroit, Ann Arbor"
+175,176,Iduna,C. H. F. Peters,14 de octubre de 1877,"Observatorio Litchfield, Clinton"
+176,177,Irma,P. P. Henry,5 de noviembre de 1877,Observatorio de París
+177,178,Belisana,J. Palisa,6 de noviembre de 1877,Observatorio de Pula
+178,179,Klytaemnestra,J. C. Watson,11 de noviembre de 1877,"Observatorio Detroit, Ann Arbor"
+179,180,Garumna,H. J. A. Perrotin,29 de enero de 1878,Observatorio de Toulouse
+180,181,Eucharis,P. Cottenot,2 de febrero de 1878,Observatorio de Marsella
+181,182,Elsa,J. Palisa,7 de febrero de 1878,Observatorio de Pula
+182,183,Istria,J. Palisa,8 de febrero de 1878,Observatorio de Pula
+183,184,Dejopeja,J. Palisa,28 de febrero de 1878,Observatorio de Pula
+184,185,Eunike,C. H. F. Peters,1 de marzo de 1878,"Observatorio Litchfield, Clinton"
+185,186,Celuta,M. P. Henry,6 de abril de 1878,Observatorio de París
+186,187,Lamberta,J. E. Coggia,11 de abril de 1878,Observatorio de Marsella
+187,188,Menippe,C. H. F. Peters,18 de junio de 1878,"Observatorio Litchfield, Clinton"
+188,189,Phthia,C. H. F. Peters,9 de septiembre de 1878,"Observatorio Litchfield, Clinton"
+189,190,Ismene,C. H. F. Peters,22 de septiembre de 1878,"Observatorio Litchfield, Clinton"
+190,191,Kolga,C. H. F. Peters,30 de septiembre de 1878,"Observatorio Litchfield, Clinton"
+191,192,Nausikaa,J. Palisa,17 de febrero de 1879,Observatorio de Pula
+192,193,Ambrosia,J. E. Coggia,28 de febrero de 1879,Observatorio de Marsella
+193,194,Prokne,C. H. F. Peters,21 de marzo de 1879,"Observatorio Litchfield, Clinton"
+194,195,Eurykleia,J. Palisa,19 de abril de 1879,Observatorio de Pula
+195,196,Philomela,C. H. F. Peters,14 de mayo de 1879,"Observatorio Litchfield, Clinton"
+196,197,Arete,J. Palisa,21 de mayo de 1879,Observatorio de Pula
+197,198,Ampella,A. L. N. Borrelly,13 de junio de 1879,Observatorio de Marsella
+198,199,Byblis,C. H. F. Peters,9 de julio de 1879,"Observatorio Litchfield, Clinton"
+199,200,Dynamene,C. H. F. Peters,27 de julio de 1879,"Observatorio Litchfield, Clinton"
+200,201,Penelope,J. Palisa,7 de agosto de 1879,Observatorio de Pula
+201,202,Chryseïs,C. H. F. Peters,11 de septiembre de 1879,"Observatorio Litchfield, Clinton"
+202,203,Pompeja,C. H. F. Peters,25 de septiembre de 1879,"Observatorio Litchfield, Clinton"
+203,204,Kallisto,J. Palisa,8 de octubre de 1879,Observatorio de Pula
+204,205,Martha,J. Palisa,13 de octubre de 1879,Observatorio de Pula
+205,206,Hersilia,C. H. F. Peters,13 de octubre de 1879,"Observatorio Litchfield, Clinton"
+206,207,Hedda,J. Palisa,17 de octubre de 1879,Observatorio de Pula
+207,208,Lacrimosa,J. Palisa,21 de octubre de 1879,Observatorio de Pula
+208,209,Dido,C. H. F. Peters,22 de octubre de 1879,"Observatorio Litchfield, Clinton"
+209,210,Isabella,J. Palisa,12 de noviembre de 1879,Observatorio de Pula
+210,211,Isolda,J. Palisa,10 de diciembre de 1879,Observatorio de Pula
+211,212,Medea,J. Palisa,6 de febrero de 1880,Observatorio de Pula
+212,213,Lilaea,C. H. F. Peters,16 de febrero de 1880,"Observatorio Litchfield, Clinton"
+213,214,Aschera,J. Palisa,29 de febrero de 1880,Observatorio de Pula
+214,215,Oenone,V. K. Knorre,7 de abril de 1880,Berlín
+215,216,Kleopatra,J. Palisa,10 de abril de 1880,Observatorio de Pula
+216,217,Eudora,J. E. Coggia,30 de agosto de 1880,Observatorio de Marsella
+217,218,Bianca,J. Palisa,4 de septiembre de 1880,Observatorio de Pula
+218,219,Thusnelda,J. Palisa,30 de septiembre de 1880,Observatorio de Pula
+219,220,Stephania,J. Palisa,19 de mayo de 1881,Observatorio de Viena
+220,221,Eos,J. Palisa,18 de enero de 1882,Observatorio de Viena
+221,222,Lucia,J. Palisa,9 de febrero de 1882,Observatorio de Viena
+222,223,Rosa,J. Palisa,9 de marzo de 1882,Observatorio de Viena
+223,224,Oceana,J. Palisa,30 de marzo de 1882,Observatorio de Viena
+224,225,Henrietta,J. Palisa,19 de abril de 1882,Observatorio de Viena
+225,226,Weringia,J. Palisa,19 de julio de 1882,Observatorio de Viena
+226,227,Philosophia,P. P. Henry,12 de agosto de 1882,Observatorio de París
+227,228,Agathe,J. Palisa,19 de agosto de 1882,Observatorio de Viena
+228,229,Adelinda,J. Palisa,22 de agosto de 1882,Observatorio de Viena
+229,230,Athamantis,L. A. K. de Ball,3 de septiembre de 1882,Observatorio de Bothkamp
+230,231,Vindobona,J. Palisa,10 de septiembre de 1882,Observatorio de Viena
+231,232,Russia,J. Palisa,31 de enero de 1883,Observatorio de Viena
+232,233,Asterope,A. L. N. Borrelly,11 de mayo de 1883,Observatorio de Marsella
+233,234,Barbara,C. H. F. Peters,12 de agosto de 1883,"Observatorio Litchfield, Clinton"
+234,235,Carolina,J. Palisa,28 de noviembre de 1883,Observatorio de Viena
+235,236,Honoria,J. Palisa,26 de abril de 1884,Observatorio de Viena
+236,237,Coelestina,J. Palisa,27 de junio de 1884,Observatorio de Viena
+237,238,Hypatia,V. K. Knorre,1 de julio de 1884,Berlín
+238,239,Adrastea,J. Palisa,18 de agosto de 1884,Observatorio de Viena
+239,240,Vanadis,A. L. N. Borrelly,27 de agosto de 1884,Observatorio de Marsella
+240,241,Germania,K. T. R. Luther,12 de septiembre de 1884,Observatorio de Düsseldorf-Bilk
+241,242,Kriemhild,J. Palisa,22 de septiembre de 1884,Observatorio de Viena
+242,243,Ida,J. Palisa,29 de septiembre de 1884,Observatorio de Viena
+243,244,Sita,J. Palisa,14 de octubre de 1884,Observatorio de Viena
+244,245,Vera,N. R. Pogson,6 de febrero de 1885,Observatorio de Madrás
+245,246,Asporina,A. L. N. Borrelly,6 de marzo de 1885,Observatorio de Marsella
+246,247,Eukrate,K. T. R. Luther,14 de marzo de 1885,Observatorio de Düsseldorf-Bilk
+247,248,Lameia,J. Palisa,5 de junio de 1885,Observatorio de Viena
+248,249,Ilse,C. H. F. Peters,16 de agosto de 1885,"Observatorio Litchfield, Clinton"
+249,250,Bettina,J. Palisa,3 de septiembre de 1885,Observatorio de Viena
+250,251,Sophia,J. Palisa,4 de octubre de 1885,Observatorio de Viena
+251,252,Clementina,H. J. A. Perrotin,11 de octubre de 1885,Observatorio de Niza
+252,253,Mathilde,J. Palisa,12 de noviembre de 1885,Observatorio de Viena
+253,254,Augusta,J. Palisa,31 de marzo de 1886,Observatorio de Viena
+254,255,Oppavia,J. Palisa,31 de marzo de 1886,Observatorio de Viena
+255,256,Walpurga,J. Palisa,3 de abril de 1886,Observatorio de Viena
+256,257,Silesia,J. Palisa,5 de abril de 1886,Observatorio de Viena
+257,258,Tyche,K. T. R. Luther,4 de mayo de 1886,Observatorio de Düsseldorf-Bilk
+258,259,Aletheia,C. H. F. Peters,28 de junio de 1886,"Observatorio Litchfield, Clinton"
+259,260,Huberta,J. Palisa,3 de octubre de 1886,Observatorio de Viena
+260,261,Prymno,C. H. F. Peters,31 de octubre de 1886,"Observatorio Litchfield, Clinton"
+261,262,Valda,J. Palisa,3 de noviembre de 1886,Observatorio de Viena
+262,263,Dresda,J. Palisa,3 de noviembre de 1886,Observatorio de Viena
+263,264,Libussa,C. H. F. Peters,22 de diciembre de 1886,"Observatorio Litchfield, Clinton"
+264,265,Anna,J. Palisa,25 de febrero de 1887,Observatorio de Viena
+265,266,Aline,J. Palisa,17 de mayo de 1887,Observatorio de Viena
+266,267,Tirza,A. H. Charlois,27 de mayo de 1887,Observatorio de Niza
+267,268,Adorea,A. L. N. Borrelly,8 de junio de 1887,Observatorio de Marsella
+268,269,Justitia,J. Palisa,21 de septiembre de 1887,Observatorio de Viena
+269,270,Anahita,C. H. F. Peters,8 de octubre de 1887,"Observatorio Litchfield, Clinton"
+270,271,Penthesilea,V. K. Knorre,13 de octubre de 1887,Berlín
+271,272,Antonia,A. H. Charlois,4 de febrero de 1888,Observatorio de Niza
+272,273,Atropos,J. Palisa,8 de marzo de 1888,Observatorio de Viena
+273,274,Philagoria,J. Palisa,3 de abril de 1888,Observatorio de Viena
+274,275,Sapientia,J. Palisa,15 de abril de 1888,Observatorio de Viena
+275,276,Adelheid,J. Palisa,17 de abril de 1888,Observatorio de Viena
+276,277,Elvira,A. H. Charlois,3 de mayo de 1888,Observatorio de Niza
+277,278,Paulina,J. Palisa,16 de mayo de 1888,Observatorio de Viena
+278,279,Thule,J. Palisa,25 de octubre de 1888,Observatorio de Viena
+279,280,Philia,J. Palisa,29 de octubre de 1888,Observatorio de Viena
+280,281,Lucretia,J. Palisa,31 de octubre de 1888,Observatorio de Viena
+281,282,Clorinde,A. H. Charlois,28 de enero de 1889,Observatorio de Niza
+282,283,Emma,A. H. Charlois,8 de febrero de 1889,Observatorio de Niza
+283,284,Amalia,A. H. Charlois,29 de mayo de 1889,Observatorio de Niza
+284,285,Regina,A. H. Charlois,3 de agosto de 1889,Observatorio de Niza
+285,286,Iclea,J. Palisa,3 de agosto de 1889,Observatorio de Viena
+286,287,Nephthys,C. H. F. Peters,25 de agosto de 1889,"Observatorio Litchfield, Clinton"
+287,288,Glauke,K. T. R. Luther,20 de febrero de 1890,Observatorio de Düsseldorf-Bilk
+288,289,Nenetta,A. H. Charlois,10 de marzo de 1890,Observatorio de Niza
+289,290,Bruna,J. Palisa,20 de marzo de 1890,Observatorio de Viena
+290,291,Alice,J. Palisa,25 de abril de 1890,Observatorio de Viena
+291,292,Ludovica,J. Palisa,25 de abril de 1890,Observatorio de Viena
+292,293,Brasilia,A. H. Charlois,20 de mayo de 1890,Observatorio de Niza
+293,294,Felicia,A. H. Charlois,15 de julio de 1890,Observatorio de Niza
+294,295,Theresia,J. Palisa,17 de agosto de 1890,Observatorio de Viena
+295,296,Phaëtusa,A. H. Charlois,19 de agosto de 1890,Observatorio de Niza
+296,297,Caecilia,A. H. Charlois,9 de septiembre de 1890,Observatorio de Niza
+297,298,Baptistina,A. H. Charlois,9 de septiembre de 1890,Observatorio de Niza
+298,299,Thora,J. Palisa,6 de octubre de 1890,Observatorio de Viena
+299,300,Geraldina,A. H. Charlois,3 de octubre de 1890,Observatorio de Niza
+300,301,Bavaria,J. Palisa,16 de noviembre de 1890,Observatorio de Viena
+301,302,Clarissa,A. H. Charlois,14 de noviembre de 1890,Observatorio de Niza
+302,303,Josephina,E. F. F. Millosevich,12 de febrero de 1891,Obs. Astronómico del Collegio Romano
+303,304,Olga,J. Palisa,14 de febrero de 1891,Observatorio de Viena
+304,305,Gordonia,A. H. Charlois,16 de febrero de 1891,Observatorio de Niza
+305,306,Unitas,E. F. F. Millosevich,1 de marzo de 1891,Obs. Astronómico del Collegio Romano
+306,307,Nike,A. H. Charlois,5 de marzo de 1891,Observatorio de Niza
+307,308,Polyxo,A. L. N. Borrelly,31 de marzo de 1891,Observatorio de Marsella
+308,309,Fraternitas,J. Palisa,6 de abril de 1891,Observatorio de Viena
+309,310,Margarita,A. H. Charlois,16 de mayo de 1891,Observatorio de Niza
+310,311,Claudia,A. H. Charlois,11 de junio de 1891,Observatorio de Niza
+311,312,Pierretta,A. H. Charlois,28 de agosto de 1891,Observatorio de Niza
+312,313,Chaldaea,J. Palisa,30 de agosto de 1891,Observatorio de Viena
+313,314,Rosalia,A. H. Charlois,1 de septiembre de 1891,Observatorio de Niza
+314,315,Constantia,J. Palisa,4 de septiembre de 1891,Observatorio de Viena
+315,316,Goberta,A. H. Charlois,8 de septiembre de 1891,Observatorio de Niza
+316,317,Roxane,A. H. Charlois,11 de septiembre de 1891,Observatorio de Niza
+317,318,Magdalena,A. H. Charlois,24 de septiembre de 1891,Observatorio de Niza
+318,319,Leona,A. H. Charlois,8 de octubre de 1891,Observatorio de Niza
+319,320,Katharina,J. Palisa,11 de octubre de 1891,Observatorio de Viena
+320,321,Florentina,J. Palisa,15 de octubre de 1891,Observatorio de Viena
+321,322,Phaeo,A. L. N. Borrelly,27 de noviembre de 1891,Observatorio de Marsella
+322,323,Brucia,M. F. Wolf,22 de diciembre de 1891,Observatorio de Heidelberg-Königstuhl
+323,324,Bamberga,J. Palisa,25 de febrero de 1892,Observatorio de Viena
+324,325,Heidelberga,M. F. Wolf,4 de marzo de 1892,Observatorio de Heidelberg-Königstuhl
+325,326,Tamara,J. Palisa,19 de marzo de 1892,Observatorio de Viena
+326,327,Columbia,A. H. Charlois,22 de marzo de 1892,Observatorio de Niza
+327,328,Gudrun,M. F. Wolf,18 de marzo de 1892,Observatorio de Heidelberg-Königstuhl
+328,329,Svea,M. F. Wolf,21 de marzo de 1892,Observatorio de Heidelberg-Königstuhl
+329,330,Adalberta,M. F. Wolf,2 de febrero de 1910,Observatorio de Heidelberg-Königstuhl
+330,331,Etheridgea,A. H. Charlois,1 de abril de 1892,Observatorio de Niza
+331,332,Siri,M. F. Wolf,19 de marzo de 1892,Observatorio de Heidelberg-Königstuhl
+332,333,Badenia,M. F. Wolf,22 de agosto de 1892,Observatorio de Heidelberg-Königstuhl
+333,334,Chicago,M. F. Wolf,23 de agosto de 1892,Observatorio de Heidelberg-Königstuhl
+334,335,Roberta,A. Staus,1 de septiembre de 1892,Observatorio de Heidelberg-Königstuhl
+335,336,Lacadiera,A. H. Charlois,19 de septiembre de 1892,Observatorio de Niza
+336,337,Devosa,A. H. Charlois,22 de septiembre de 1892,Observatorio de Niza
+337,338,Budrosa,A. H. Charlois,25 de septiembre de 1892,Observatorio de Niza
+338,339,Dorothea,M. F. Wolf,25 de septiembre de 1892,Observatorio de Heidelberg-Königstuhl
+339,340,Eduarda,M. F. Wolf,25 de septiembre de 1892,Observatorio de Heidelberg-Königstuhl
+340,341,California,M. F. Wolf,25 de septiembre de 1892,Observatorio de Heidelberg-Königstuhl
+341,342,Endymion,M. F. Wolf,17 de octubre de 1892,Observatorio de Heidelberg-Königstuhl
+342,343,Ostara,M. F. Wolf,15 de noviembre de 1892,Observatorio de Heidelberg-Königstuhl
+343,344,Desiderata,A. H. Charlois,15 de noviembre de 1892,Observatorio de Niza
+344,345,Tercidina,A. H. Charlois,23 de noviembre de 1892,Observatorio de Niza
+345,346,Hermentaria,A. H. Charlois,25 de noviembre de 1892,Observatorio de Niza
+346,347,Pariana,A. H. Charlois,28 de noviembre de 1892,Observatorio de Niza
+347,348,May,A. H. Charlois,28 de noviembre de 1892,Observatorio de Niza
+348,349,Dembowska,A. H. Charlois,9 de diciembre de 1892,Observatorio de Niza
+349,350,Ornamenta,A. H. Charlois,14 de diciembre de 1892,Observatorio de Niza
+350,351,Yrsa,M. F. Wolf,16 de diciembre de 1892,Observatorio de Heidelberg-Königstuhl
+351,352,Gisela,M. F. Wolf,12 de enero de 1893,Observatorio de Heidelberg-Königstuhl
+352,353,Ruperto-Carola,M. F. Wolf,16 de enero de 1893,Observatorio de Heidelberg-Königstuhl
+353,354,Eleonora,A. H. Charlois,17 de enero de 1893,Observatorio de Niza
+354,355,Gabriella,A. H. Charlois,20 de enero de 1893,Observatorio de Niza
+355,356,Liguria,A. H. Charlois,21 de enero de 1893,Observatorio de Niza
+356,357,Ninina,A. H. Charlois,11 de febrero de 1893,Observatorio de Niza
+357,358,Apollonia,A. H. Charlois,8 de marzo de 1893,Observatorio de Niza
+358,359,Georgia,A. H. Charlois,10 de marzo de 1893,Observatorio de Niza
+359,360,Carlova,A. H. Charlois,11 de marzo de 1893,Observatorio de Niza
+360,361,Bononia,A. H. Charlois,11 de marzo de 1893,Observatorio de Niza
+361,362,Havnia,A. H. Charlois,12 de marzo de 1893,Observatorio de Niza
+362,363,Padua,A. H. Charlois,17 de marzo de 1893,Observatorio de Niza
+363,364,Isara,A. H. Charlois,19 de marzo de 1893,Observatorio de Niza
+364,365,Corduba,A. H. Charlois,21 de marzo de 1893,Observatorio de Niza
+365,366,Vincentina,A. H. Charlois,21 de marzo de 1893,Observatorio de Niza
+366,367,Amicitia,A. H. Charlois,19 de mayo de 1893,Observatorio de Niza
+367,368,Haidea,A. H. Charlois,19 de mayo de 1893,Observatorio de Niza
+368,369,Aëria,A. L. N. Borrelly,4 de julio de 1893,Observatorio de Marsella
+369,370,Modestia,A. H. Charlois,14 de julio de 1893,Observatorio de Niza
+370,371,Bohemia,A. H. Charlois,16 de julio de 1893,Observatorio de Niza
+371,372,Palma,A. H. Charlois,19 de agosto de 1893,Observatorio de Niza
+372,373,Melusina,A. H. Charlois,15 de septiembre de 1893,Observatorio de Niza
+373,374,Burgundia,A. H. Charlois,18 de septiembre de 1893,Observatorio de Niza
+374,375,Ursula,A. H. Charlois,18 de septiembre de 1893,Observatorio de Niza
+375,376,Geometria,A. H. Charlois,18 de septiembre de 1893,Observatorio de Niza
+376,377,Campania,A. H. Charlois,20 de septiembre de 1893,Observatorio de Niza
+377,378,Holmia,A. H. Charlois,6 de diciembre de 1893,Observatorio de Niza
+378,379,Huenna,A. H. Charlois,8 de enero de 1894,Observatorio de Niza
+379,380,Fiducia,A. H. Charlois,8 de enero de 1894,Observatorio de Niza
+380,381,Myrrha,A. H. Charlois,10 de enero de 1894,Observatorio de Niza
+381,382,Dodona,A. H. Charlois,29 de enero de 1894,Observatorio de Niza
+382,383,Janina,A. H. Charlois,29 de enero de 1894,Observatorio de Niza
+383,384,Burdigala,F. Courty,11 de febrero de 1894,Observatorio de Burdeos
+384,385,Ilmatar,M. F. Wolf,1 de marzo de 1894,Observatorio de Heidelberg-Königstuhl
+385,386,Siegena,M. F. Wolf,1 de marzo de 1894,Observatorio de Heidelberg-Königstuhl
+386,387,Aquitania,F. Courty,5 de marzo de 1894,Observatorio de Burdeos
+387,388,Charybdis,A. H. Charlois,7 de marzo de 1894,Observatorio de Niza
+388,389,Industria,A. H. Charlois,8 de marzo de 1894,Observatorio de Niza
+389,390,Alma,G. Bigourdan,24 de marzo de 1894,Observatorio de París
+390,391,Ingeborg,M. F. Wolf,1 de noviembre de 1894,Observatorio de Heidelberg-Königstuhl
+391,392,Wilhelmina,M. F. Wolf,4 de noviembre de 1894,Observatorio de Heidelberg-Königstuhl
+392,393,Lampetia,M. F. Wolf,4 de noviembre de 1894,Observatorio de Heidelberg-Königstuhl
+393,394,Arduina,A. L. N. Borrelly,19 de noviembre de 1894,Observatorio de Marsella
+394,395,Delia,A. H. Charlois,30 de noviembre de 1894,Observatorio de Niza
+395,396,Aeolia,A. H. Charlois,1 de diciembre de 1894,Observatorio de Niza
+396,397,Vienna,A. H. Charlois,19 de diciembre de 1894,Observatorio de Niza
+397,398,Admete,A. H. Charlois,28 de diciembre de 1894,Observatorio de Niza
+398,399,Persephone,M. F. Wolf,23 de febrero de 1895,Observatorio de Heidelberg-Königstuhl
+399,400,Ducrosa,A. H. Charlois,15 de marzo de 1895,Observatorio de Niza
+400,401,Ottilia,M. F. Wolf,16 de marzo de 1895,Observatorio de Heidelberg-Königstuhl
+401,402,Chloë,A. H. Charlois,21 de marzo de 1895,Observatorio de Niza
+402,403,Cyane,A. H. Charlois,18 de mayo de 1895,Observatorio de Niza
+403,404,Arsinoë,A. H. Charlois,20 de junio de 1895,Observatorio de Niza
+404,405,Thia,A. H. Charlois,23 de julio de 1895,Observatorio de Niza
+405,406,Erna,A. H. Charlois,22 de agosto de 1895,Observatorio de Niza
+406,407,Arachne,M. F. Wolf,13 de octubre de 1895,Observatorio de Heidelberg-Königstuhl
+407,408,Fama,M. F. Wolf,13 de octubre de 1895,Observatorio de Heidelberg-Königstuhl
+408,409,Aspasia,A. H. Charlois,9 de diciembre de 1895,Observatorio de Niza
+409,410,Chloris,A. H. Charlois,7 de enero de 1896,Observatorio de Niza
+410,411,Xanthe,A. H. Charlois,7 de enero de 1896,Observatorio de Niza
+411,412,Elisabetha,M. F. Wolf,7 de enero de 1896,Observatorio de Heidelberg-Königstuhl
+412,413,Edburga,M. F. Wolf,7 de enero de 1896,Observatorio de Heidelberg-Königstuhl
+413,414,Liriope,A. H. Charlois,16 de enero de 1896,Observatorio de Niza
+414,415,Palatia,M. F. Wolf,7 de febrero de 1896,Observatorio de Heidelberg-Königstuhl
+415,416,Vaticana,A. H. Charlois,4 de mayo de 1896,Observatorio de Niza
+416,417,Suevia,M. F. Wolf,6 de mayo de 1896,Observatorio de Heidelberg-Königstuhl
+417,418,Alemannia,M. F. Wolf,7 de septiembre de 1896,Observatorio de Heidelberg-Königstuhl
+418,419,Aurelia,M. F. Wolf,7 de septiembre de 1896,Observatorio de Heidelberg-Königstuhl
+419,420,Bertholda,M. F. Wolf,7 de septiembre de 1896,Observatorio de Heidelberg-Königstuhl
+420,421,Zähringia,M. F. Wolf,7 de septiembre de 1896,Observatorio de Heidelberg-Königstuhl
+421,422,Berolina,C. G. Witt,8 de octubre de 1896,"Observatorio Urania, Berlín"
+422,423,Diotima,A. H. Charlois,7 de diciembre de 1896,Observatorio de Niza
+423,424,Gratia,A. H. Charlois,31 de diciembre de 1896,Observatorio de Niza
+424,425,Cornelia,A. H. Charlois,28 de diciembre de 1896,Observatorio de Niza
+425,426,Hippo,A. H. Charlois,25 de agosto de 1897,Observatorio de Niza
+426,427,Galene,A. H. Charlois,27 de agosto de 1897,Observatorio de Niza
+427,428,Monachia,W. A. Villiger,18 de noviembre de 1897,Múnich
+428,429,Lotis,A. H. Charlois,23 de noviembre de 1897,Observatorio de Niza
+429,430,Hybris,A. H. Charlois,18 de diciembre de 1897,Observatorio de Niza
+430,431,Nephele,A. H. Charlois,18 de diciembre de 1897,Observatorio de Niza
+431,432,Pythia,A. H. Charlois,18 de diciembre de 1897,Observatorio de Niza
+432,433,Eros,C. G. Witt,13 de agosto de 1898,"Observatorio Urania, Berlín"
+433,434,Hungaria,M. F. Wolf,11 de septiembre de 1898,Observatorio de Heidelberg-Königstuhl
+434,435,Ella,M. F. Wolf; F. K. A. Schwassmann,11 de septiembre de 1898,Observatorio de Heidelberg-Königstuhl
+435,436,Patricia,M. F. Wolf; F. K. A. Schwassmann,13 de septiembre de 1898,Observatorio de Heidelberg-Königstuhl
+436,437,Rhodia,A. H. Charlois,16 de julio de 1898,Observatorio de Niza
+437,438,Zeuxo,A. H. Charlois,8 de noviembre de 1898,Observatorio de Niza
+438,439,Ohio,E. F. Coddington,13 de octubre de 1898,"Observatorio Lick, Monte Hamilton"
+439,440,Theodora,E. F. Coddington,13 de octubre de 1898,"Observatorio Lick, Monte Hamilton"
+440,441,Bathilde,A. H. Charlois,8 de diciembre de 1898,Observatorio de Niza
+441,442,Eichsfeldia,M. F. Wolf; F. K. A. Schwassmann,15 de febrero de 1899,Observatorio de Heidelberg-Königstuhl
+442,443,Photographica,M. F. Wolf; F. K. A. Schwassmann,17 de febrero de 1899,Observatorio de Heidelberg-Königstuhl
+443,444,Gyptis,J. E. Coggia,31 de marzo de 1899,Observatorio de Marsella
+444,445,Edna,E. F. Coddington,2 de octubre de 1899,"Observatorio Lick, Monte Hamilton"
+445,446,Aeternitas,M. F. Wolf; F. K. A. Schwassmann,27 de octubre de 1899,Observatorio de Heidelberg-Königstuhl
+446,447,Valentine,M. F. Wolf; F. K. A. Schwassmann,27 de octubre de 1899,Observatorio de Heidelberg-Königstuhl
+447,448,Natalie,M. F. Wolf; F. K. A. Schwassmann,27 de octubre de 1899,Observatorio de Heidelberg-Königstuhl
+448,449,Hamburga,M. F. Wolf; F. K. A. Schwassmann,31 de octubre de 1899,Observatorio de Heidelberg-Königstuhl
+449,450,Brigitta,M. F. Wolf; F. K. A. Schwassmann,10 de octubre de 1899,Observatorio de Heidelberg-Königstuhl
+450,451,Patientia,A. H. Charlois,4 de diciembre de 1899,Observatorio de Niza
+451,452,Hamiltonia,J. E. Keeler,6 de diciembre de 1899,"Observatorio Lick, Monte Hamilton"
+452,453,Tea,A. H. Charlois,22 de febrero de 1900,Observatorio de Niza
+453,454,Mathesis,F. K. A. Schwassmann,28 de marzo de 1900,Observatorio de Heidelberg-Königstuhl
+454,455,Bruchsalia,M. F. Wolf; F. K. A. Schwassmann,22 de mayo de 1900,Observatorio de Heidelberg-Königstuhl
+455,456,Abnoba,M. F. Wolf; F. K. A. Schwassmann,4 de junio de 1900,Observatorio de Heidelberg-Königstuhl
+456,457,Alleghenia,M. F. Wolf; F. K. A. Schwassmann,15 de septiembre de 1900,Observatorio de Heidelberg-Königstuhl
+457,458,Hercynia,M. F. Wolf; F. K. A. Schwassmann,21 de septiembre de 1900,Observatorio de Heidelberg-Königstuhl
+458,459,Signe,M. F. Wolf,22 de octubre de 1900,Observatorio de Heidelberg-Königstuhl
+459,460,Scania,M. F. Wolf,22 de octubre de 1900,Observatorio de Heidelberg-Königstuhl
+460,461,Saskia,M. F. Wolf,22 de octubre de 1900,Observatorio de Heidelberg-Königstuhl
+461,462,Eriphyla,M. F. Wolf,22 de octubre de 1900,Observatorio de Heidelberg-Königstuhl
+462,463,Lola,M. F. Wolf,31 de octubre de 1900,Observatorio de Heidelberg-Königstuhl
+463,464,Megaira,M. F. Wolf,9 de enero de 1901,Observatorio de Heidelberg-Königstuhl
+464,465,Alekto,M. F. Wolf,13 de enero de 1901,Observatorio de Heidelberg-Königstuhl
+465,466,Tisiphone,M. F. Wolf; L. Carnera,17 de enero de 1901,Observatorio de Heidelberg-Königstuhl
+466,467,Laura,M. F. Wolf,9 de enero de 1901,Observatorio de Heidelberg-Königstuhl
+467,468,Lina,M. F. Wolf,18 de enero de 1901,Observatorio de Heidelberg-Königstuhl
+468,469,Argentina,L. Carnera,20 de febrero de 1901,Observatorio de Heidelberg-Königstuhl
+469,470,Kilia,L. Carnera,21 de abril de 1901,Observatorio de Heidelberg-Königstuhl
+470,471,Papagena,M. F. Wolf,7 de junio de 1901,Observatorio de Heidelberg-Königstuhl
+471,472,Roma,L. Carnera,11 de julio de 1901,Observatorio de Heidelberg-Königstuhl
+472,473,Nolli,M. F. Wolf,13 de febrero de 1901,Observatorio de Heidelberg-Königstuhl
+473,474,Prudentia,M. F. Wolf,13 de febrero de 1901,Observatorio de Heidelberg-Königstuhl
+474,475,Ocllo,D. Stewart,14 de agosto de 1901,"Observatorio Boyden, Arequipa"
+475,476,Hedwig,L. Carnera,17 de agosto de 1901,Observatorio de Heidelberg-Königstuhl
+476,477,Italia,L. Carnera,23 de agosto de 1901,Observatorio de Heidelberg-Königstuhl
+477,478,Tergeste,L. Carnera,21 de septiembre de 1901,Observatorio de Heidelberg-Königstuhl
+478,479,Caprera,L. Carnera,12 de noviembre de 1901,Observatorio de Heidelberg-Königstuhl
+479,480,Hansa,M. F. Wolf; L. Carnera,21 de mayo de 1901,Observatorio de Heidelberg-Königstuhl
+480,481,Emita,L. Carnera,12 de febrero de 1902,Observatorio de Heidelberg-Königstuhl
+481,482,Petrina,M. F. Wolf,3 de marzo de 1902,Observatorio de Heidelberg-Königstuhl
+482,483,Seppina,M. F. Wolf,4 de marzo de 1902,Observatorio de Heidelberg-Königstuhl
+483,484,Pittsburghia,M. F. Wolf,29 de abril de 1902,Observatorio de Heidelberg-Königstuhl
+484,485,Genua,L. Carnera,7 de mayo de 1902,Observatorio de Heidelberg-Königstuhl
+485,486,Cremona,L. Carnera,11 de mayo de 1902,Observatorio de Heidelberg-Königstuhl
+486,487,Venetia,L. Carnera,9 de julio de 1902,Observatorio de Heidelberg-Königstuhl
+487,488,Kreusa,M. F. Wolf; L. Carnera,26 de junio de 1902,Observatorio de Heidelberg-Königstuhl
+488,489,Comacina,L. Carnera,2 de septiembre de 1902,Observatorio de Heidelberg-Königstuhl
+489,490,Veritas,M. F. Wolf,3 de septiembre de 1902,Observatorio de Heidelberg-Königstuhl
+490,491,Carina,M. F. Wolf,3 de septiembre de 1902,Observatorio de Heidelberg-Königstuhl
+491,492,Gismonda,M. F. Wolf,3 de septiembre de 1902,Observatorio de Heidelberg-Königstuhl
+492,493,Griseldis,M. F. Wolf,7 de septiembre de 1902,Observatorio de Heidelberg-Königstuhl
+493,494,Virtus,M. F. Wolf,7 de octubre de 1902,Observatorio de Heidelberg-Königstuhl
+494,495,Eulalia,M. F. Wolf,25 de octubre de 1902,Observatorio de Heidelberg-Königstuhl
+495,496,Gryphia,M. F. Wolf,25 de octubre de 1902,Observatorio de Heidelberg-Königstuhl
+496,497,Iva,R. S. Dugan,4 de noviembre de 1902,Observatorio de Heidelberg-Königstuhl
+497,498,Tokio,A. H. Charlois,2 de diciembre de 1902,Observatorio de Niza
+498,499,Venusia,M. F. Wolf,24 de diciembre de 1902,Observatorio de Heidelberg-Königstuhl
+499,500,Selinur,M. F. Wolf,16 de enero de 1903,Observatorio de Heidelberg-Königstuhl
+500,501,Urhixidur,M. F. Wolf,18 de enero de 1903,Observatorio de Heidelberg-Königstuhl
+501,502,Sigune,M. F. Wolf,19 de enero de 1903,Observatorio de Heidelberg-Königstuhl
+502,503,Evelyn,R. S. Dugan,19 de enero de 1903,Observatorio de Heidelberg-Königstuhl
+503,504,Cora,S. I. Bailey,30 de junio de 1902,"Observatorio Boyden, Arequipa"
+504,505,Cava,R. H. Frost,21 de agosto de 1902,"Observatorio Boyden, Arequipa"
+505,506,Marion,R. S. Dugan,17 de febrero de 1903,Observatorio de Heidelberg-Königstuhl
+506,507,Laodica,R. S. Dugan,19 de febrero de 1903,Observatorio de Heidelberg-Königstuhl
+507,508,Princetonia,R. S. Dugan,20 de abril de 1903,Observatorio de Heidelberg-Königstuhl
+508,509,Iolanda,M. F. Wolf,28 de abril de 1903,Observatorio de Heidelberg-Königstuhl
+509,510,Mabella,R. S. Dugan,20 de mayo de 1903,Observatorio de Heidelberg-Königstuhl
+510,511,Davida,R. S. Dugan,30 de mayo de 1903,Observatorio de Heidelberg-Königstuhl
+511,512,Taurinensis,M. F. Wolf,23 de junio de 1903,Observatorio de Heidelberg-Königstuhl
+512,513,Centesima,M. F. Wolf,24 de agosto de 1903,Observatorio de Heidelberg-Königstuhl
+513,514,Armida,M. F. Wolf,24 de agosto de 1903,Observatorio de Heidelberg-Königstuhl
+514,515,Athalia,M. F. Wolf,20 de septiembre de 1903,Observatorio de Heidelberg-Königstuhl
+515,516,Amherstia,R. S. Dugan,20 de septiembre de 1903,Observatorio de Heidelberg-Königstuhl
+516,517,Edith,R. S. Dugan,22 de septiembre de 1903,Observatorio de Heidelberg-Königstuhl
+517,518,Halawe,R. S. Dugan,20 de octubre de 1903,Observatorio de Heidelberg-Königstuhl
+518,519,Sylvania,R. S. Dugan,20 de octubre de 1903,Observatorio de Heidelberg-Königstuhl
+519,520,Franziska,M. F. Wolf; P. Götz,27 de octubre de 1903,Observatorio de Heidelberg-Königstuhl
+520,521,Brixia,R. S. Dugan,10 de enero de 1904,Observatorio de Heidelberg-Königstuhl
+521,522,Helga,M. F. Wolf,10 de enero de 1904,Observatorio de Heidelberg-Königstuhl
+522,523,Ada,R. S. Dugan,27 de enero de 1904,Observatorio de Heidelberg-Königstuhl
+523,524,Fidelio,M. F. Wolf,14 de marzo de 1904,Observatorio de Heidelberg-Königstuhl
+524,525,Adelaide,J. H. Metcalf,21 de octubre de 1908,Observatorio de Taunton
+525,526,Jena,M. F. Wolf,14 de marzo de 1904,Observatorio de Heidelberg-Königstuhl
+526,527,Euryanthe,M. F. Wolf,20 de marzo de 1904,Observatorio de Heidelberg-Königstuhl
+527,528,Rezia,M. F. Wolf,20 de marzo de 1904,Observatorio de Heidelberg-Königstuhl
+528,529,Preziosa,M. F. Wolf,20 de marzo de 1904,Observatorio de Heidelberg-Königstuhl
+529,530,Turandot,M. F. Wolf,11 de abril de 1904,Observatorio de Heidelberg-Königstuhl
+530,531,Zerlina,M. F. Wolf,12 de abril de 1904,Observatorio de Heidelberg-Königstuhl
+531,532,Herculina,M. F. Wolf,20 de abril de 1904,Observatorio de Heidelberg-Königstuhl
+532,533,Sara,R. S. Dugan,19 de abril de 1904,Observatorio de Heidelberg-Königstuhl
+533,534,Nassovia,R. S. Dugan,19 de abril de 1904,Observatorio de Heidelberg-Königstuhl
+534,535,Montague,R. S. Dugan,7 de mayo de 1904,Observatorio de Heidelberg-Königstuhl
+535,536,Merapi,G. H. Peters,11 de mayo de 1904,Obs. Naval de los Estados Unidos
+536,537,Pauly,A. H. Charlois,7 de julio de 1904,Observatorio de Niza
+537,538,Friederike,P. Götz,18 de julio de 1904,Observatorio de Heidelberg-Königstuhl
+538,539,Pamina,M. F. Wolf,2 de agosto de 1904,Observatorio de Heidelberg-Königstuhl
+539,540,Rosamunde,M. F. Wolf,3 de agosto de 1904,Observatorio de Heidelberg-Königstuhl
+540,541,Deborah,M. F. Wolf,4 de agosto de 1904,Observatorio de Heidelberg-Königstuhl
+541,542,Susanna,P. Götz; A. Kopff,15 de agosto de 1904,Observatorio de Heidelberg-Königstuhl
+542,543,Charlotte,P. Götz,11 de septiembre de 1904,Observatorio de Heidelberg-Königstuhl
+543,544,Jetta,P. Götz,11 de septiembre de 1904,Observatorio de Heidelberg-Königstuhl
+544,545,Messalina,P. Götz,3 de octubre de 1904,Observatorio de Heidelberg-Königstuhl
+545,546,Herodias,P. Götz,10 de octubre de 1904,Observatorio de Heidelberg-Königstuhl
+546,547,Praxedis,P. Götz,14 de octubre de 1904,Observatorio de Heidelberg-Königstuhl
+547,548,Kressida,P. Götz,14 de octubre de 1904,Observatorio de Heidelberg-Königstuhl
+548,549,Jessonda,M. F. Wolf,15 de noviembre de 1904,Observatorio de Heidelberg-Königstuhl
+549,550,Senta,M. F. Wolf,16 de noviembre de 1904,Observatorio de Heidelberg-Königstuhl
+550,551,Ortrud,M. F. Wolf,16 de noviembre de 1904,Observatorio de Heidelberg-Königstuhl
+551,552,Sigelinde,M. F. Wolf,14 de diciembre de 1904,Observatorio de Heidelberg-Königstuhl
+552,553,Kundry,M. F. Wolf,27 de diciembre de 1904,Observatorio de Heidelberg-Königstuhl
+553,554,Peraga,P. Götz,8 de enero de 1905,Observatorio de Heidelberg-Königstuhl
+554,555,Norma,M. F. Wolf,14 de enero de 1905,Observatorio de Heidelberg-Königstuhl
+555,556,Phyllis,P. Götz,8 de enero de 1905,Observatorio de Heidelberg-Königstuhl
+556,557,Violetta,M. F. Wolf,26 de enero de 1905,Observatorio de Heidelberg-Königstuhl
+557,558,Carmen,M. F. Wolf,9 de febrero de 1905,Observatorio de Heidelberg-Königstuhl
+558,559,Nanon,M. F. Wolf,8 de marzo de 1905,Observatorio de Heidelberg-Königstuhl
+559,560,Delila,M. F. Wolf,13 de marzo de 1905,Observatorio de Heidelberg-Königstuhl
+560,561,Ingwelde,M. F. Wolf,26 de marzo de 1905,Observatorio de Heidelberg-Königstuhl
+561,562,Salome,M. F. Wolf,3 de abril de 1905,Observatorio de Heidelberg-Königstuhl
+562,563,Suleika,P. Götz,6 de abril de 1905,Observatorio de Heidelberg-Königstuhl
+563,564,Dudu,P. Götz,9 de mayo de 1905,Observatorio de Heidelberg-Königstuhl
+564,565,Marbachia,M. F. Wolf,9 de mayo de 1905,Observatorio de Heidelberg-Königstuhl
+565,566,Stereoskopia,P. Götz,28 de mayo de 1905,Observatorio de Heidelberg-Königstuhl
+566,567,Eleutheria,P. Götz,28 de mayo de 1905,Observatorio de Heidelberg-Königstuhl
+567,568,Cheruskia,P. Götz,26 de julio de 1905,Observatorio de Heidelberg-Königstuhl
+568,569,Misa,J. Palisa,27 de julio de 1905,Observatorio de Viena
+569,570,Kythera,M. F. Wolf,30 de julio de 1905,Observatorio de Heidelberg-Königstuhl
+570,571,Dulcinea,P. Götz,4 de septiembre de 1905,Observatorio de Heidelberg-Königstuhl
+571,572,Rebekka,P. Götz,19 de septiembre de 1905,Observatorio de Heidelberg-Königstuhl
+572,573,Recha,M. F. Wolf,19 de septiembre de 1905,Observatorio de Heidelberg-Königstuhl
+573,574,Reginhild,M. F. Wolf,19 de septiembre de 1905,Observatorio de Heidelberg-Königstuhl
+574,575,Renate,M. F. Wolf,19 de septiembre de 1905,Observatorio de Heidelberg-Königstuhl
+575,576,Emanuela,P. Götz,22 de septiembre de 1905,Observatorio de Heidelberg-Königstuhl
+576,577,Rhea,M. F. Wolf,20 de octubre de 1905,Observatorio de Heidelberg-Königstuhl
+577,578,Happelia,M. F. Wolf,1 de noviembre de 1905,Observatorio de Heidelberg-Königstuhl
+578,579,Sidonia,A. Kopff,3 de noviembre de 1905,Observatorio de Heidelberg-Königstuhl
+579,580,Selene,M. F. Wolf,17 de diciembre de 1905,Observatorio de Heidelberg-Königstuhl
+580,581,Tauntonia,J. H. Metcalf,24 de diciembre de 1905,Observatorio de Taunton
+581,582,Olympia,A. Kopff,23 de enero de 1906,Observatorio de Heidelberg-Königstuhl
+582,583,Klotilde,J. Palisa,31 de diciembre de 1905,Observatorio de Viena
+583,584,Semiramis,A. Kopff,15 de enero de 1906,Observatorio de Heidelberg-Königstuhl
+584,585,Bilkis,A. Kopff,16 de febrero de 1906,Observatorio de Heidelberg-Königstuhl
+585,586,Thekla,M. F. Wolf,21 de febrero de 1906,Observatorio de Heidelberg-Königstuhl
+586,587,Hypsipyle,M. F. Wolf,22 de febrero de 1906,Observatorio de Heidelberg-Königstuhl
+587,588,Achilles,M. F. Wolf,22 de febrero de 1906,Observatorio de Heidelberg-Königstuhl
+588,589,Croatia,A. Kopff,3 de marzo de 1906,Observatorio de Heidelberg-Königstuhl
+589,590,Tomyris,M. F. Wolf,4 de marzo de 1906,Observatorio de Heidelberg-Königstuhl
+590,591,Irmgard,A. Kopff,14 de marzo de 1906,Observatorio de Heidelberg-Königstuhl
+591,592,Bathseba,M. F. Wolf,18 de marzo de 1906,Observatorio de Heidelberg-Königstuhl
+592,593,Titania,A. Kopff,20 de marzo de 1906,Observatorio de Heidelberg-Königstuhl
+593,594,Mireille,M. F. Wolf,27 de marzo de 1906,Observatorio de Heidelberg-Königstuhl
+594,595,Polyxena,A. Kopff,27 de marzo de 1906,Observatorio de Heidelberg-Königstuhl
+595,596,Scheila,A. Kopff,21 de febrero de 1906,Observatorio de Heidelberg-Königstuhl
+596,597,Bandusia,M. F. Wolf,16 de abril de 1906,Observatorio de Heidelberg-Königstuhl
+597,598,Octavia,M. F. Wolf,13 de abril de 1906,Observatorio de Heidelberg-Königstuhl
+598,599,Luisa,J. H. Metcalf,25 de abril de 1906,Observatorio de Taunton
+599,600,Musa,J. H. Metcalf,14 de junio de 1906,Observatorio de Taunton
+600,601,Nerthus,M. F. Wolf,21 de junio de 1906,Observatorio de Heidelberg-Königstuhl
+601,602,Marianna,J. H. Metcalf,16 de febrero de 1906,Observatorio de Taunton
+602,603,Timandra,J. H. Metcalf,16 de febrero de 1906,Observatorio de Taunton
+603,604,Tekmessa,J. H. Metcalf,16 de febrero de 1906,Observatorio de Taunton
+604,605,Juvisia,M. F. Wolf,27 de agosto de 1906,Observatorio de Heidelberg-Königstuhl
+605,606,Brangäne,A. Kopff,18 de septiembre de 1906,Observatorio de Heidelberg-Königstuhl
+606,607,Jenny,A. Kopff,18 de septiembre de 1906,Observatorio de Heidelberg-Königstuhl
+607,608,Adolfine,A. Kopff,18 de septiembre de 1906,Observatorio de Heidelberg-Königstuhl
+608,609,Fulvia,M. F. Wolf,24 de septiembre de 1906,Observatorio de Heidelberg-Königstuhl
+609,610,Valeska,M. F. Wolf,26 de septiembre de 1906,Observatorio de Heidelberg-Königstuhl
+610,611,Valeria,J. H. Metcalf,24 de septiembre de 1906,Observatorio de Taunton
+611,612,Veronika,A. Kopff,8 de octubre de 1906,Observatorio de Heidelberg-Königstuhl
+612,613,Ginevra,A. Kopff,11 de octubre de 1906,Observatorio de Heidelberg-Königstuhl
+613,614,Pia,A. Kopff,11 de octubre de 1906,Observatorio de Heidelberg-Königstuhl
+614,615,Roswitha,A. Kopff,11 de octubre de 1906,Observatorio de Heidelberg-Königstuhl
+615,616,Elly,A. Kopff,17 de octubre de 1906,Observatorio de Heidelberg-Königstuhl
+616,617,Patroclus,A. Kopff,17 de octubre de 1906,Observatorio de Heidelberg-Königstuhl
+617,618,Elfriede,K. J. Lohnert,17 de octubre de 1906,Observatorio de Heidelberg-Königstuhl
+618,619,Triberga,A. Kopff,22 de octubre de 1906,Observatorio de Heidelberg-Königstuhl
+619,620,Drakonia,J. H. Metcalf,26 de octubre de 1906,Observatorio de Taunton
+620,621,Werdandi,A. Kopff,11 de noviembre de 1906,Observatorio de Heidelberg-Königstuhl
+621,622,Esther,J. H. Metcalf,13 de noviembre de 1906,Observatorio de Taunton
+622,623,Chimaera,K. J. Lohnert,22 de enero de 1907,Observatorio de Heidelberg-Königstuhl
+623,624,Hektor,A. Kopff,10 de febrero de 1907,Observatorio de Heidelberg-Königstuhl
+624,625,Xenia,A. Kopff,11 de febrero de 1907,Observatorio de Heidelberg-Königstuhl
+625,626,Notburga,A. Kopff,11 de febrero de 1907,Observatorio de Heidelberg-Königstuhl
+626,627,Charis,A. Kopff,4 de marzo de 1907,Observatorio de Heidelberg-Königstuhl
+627,628,Christine,A. Kopff,7 de marzo de 1907,Observatorio de Heidelberg-Königstuhl
+628,629,Bernardina,A. Kopff,7 de marzo de 1907,Observatorio de Heidelberg-Königstuhl
+629,630,Euphemia,A. Kopff,7 de marzo de 1907,Observatorio de Heidelberg-Königstuhl
+630,631,Philippina,A. Kopff,21 de marzo de 1907,Observatorio de Heidelberg-Königstuhl
+631,632,Pyrrha,A. Kopff,5 de abril de 1907,Observatorio de Heidelberg-Königstuhl
+632,633,Zelima,A. Kopff,12 de mayo de 1907,Observatorio de Heidelberg-Königstuhl
+633,634,Ute,A. Kopff,12 de mayo de 1907,Observatorio de Heidelberg-Königstuhl
+634,635,Vundtia,K. J. Lohnert,9 de junio de 1907,Observatorio de Heidelberg-Königstuhl
+635,636,Erika,J. H. Metcalf,8 de febrero de 1907,Observatorio de Taunton
+636,637,Chrysothemis,J. H. Metcalf,11 de marzo de 1907,Observatorio de Taunton
+637,638,Moira,J. H. Metcalf,5 de mayo de 1907,Observatorio de Taunton
+638,639,Latona,K. J. Lohnert,19 de julio de 1907,Observatorio de Heidelberg-Königstuhl
+639,640,Brambilla,A. Kopff,29 de agosto de 1907,Observatorio de Heidelberg-Königstuhl
+640,641,Agnes,M. F. Wolf,8 de septiembre de 1907,Observatorio de Heidelberg-Königstuhl
+641,642,Clara,M. F. Wolf,8 de septiembre de 1907,Observatorio de Heidelberg-Königstuhl
+642,643,Scheherezade,A. Kopff,8 de septiembre de 1907,Observatorio de Heidelberg-Königstuhl
+643,644,Cosima,A. Kopff,7 de septiembre de 1907,Observatorio de Heidelberg-Königstuhl
+644,645,Agrippina,J. H. Metcalf,13 de septiembre de 1907,Observatorio de Taunton
+645,646,Kastalia,A. Kopff,11 de septiembre de 1907,Observatorio de Heidelberg-Königstuhl
+646,647,Adelgunde,A. Kopff,11 de septiembre de 1907,Observatorio de Heidelberg-Königstuhl
+647,648,Pippa,A. Kopff,11 de septiembre de 1907,Observatorio de Heidelberg-Königstuhl
+648,649,Josefa,A. Kopff,11 de septiembre de 1907,Observatorio de Heidelberg-Königstuhl
+649,650,Amalasuntha,A. Kopff,4 de octubre de 1907,Observatorio de Heidelberg-Königstuhl
+650,651,Antikleia,A. Kopff,4 de octubre de 1907,Observatorio de Heidelberg-Königstuhl
+651,652,Jubilatrix,J. Palisa,4 de noviembre de 1907,Observatorio de Viena
+652,653,Berenike,J. H. Metcalf,27 de noviembre de 1907,Observatorio de Taunton
+653,654,Zelinda,A. Kopff,4 de enero de 1908,Observatorio de Heidelberg-Königstuhl
+654,655,Briseïs,J. H. Metcalf,4 de noviembre de 1907,Observatorio de Taunton
+655,656,Beagle,A. Kopff,22 de enero de 1908,Observatorio de Heidelberg-Königstuhl
+656,657,Gunlöd,A. Kopff,23 de enero de 1908,Observatorio de Heidelberg-Königstuhl
+657,658,Asteria,A. Kopff,23 de enero de 1908,Observatorio de Heidelberg-Königstuhl
+658,659,Nestor,M. F. Wolf,23 de marzo de 1908,Observatorio de Heidelberg-Königstuhl
+659,660,Crescentia,J. H. Metcalf,8 de enero de 1908,Observatorio de Taunton
+660,661,Cloelia,J. H. Metcalf,22 de febrero de 1908,Observatorio de Taunton
+661,662,Newtonia,J. H. Metcalf,30 de marzo de 1908,Observatorio de Taunton
+662,663,Gerlinde,A. Kopff,24 de junio de 1908,Observatorio de Heidelberg-Königstuhl
+663,664,Judith,A. Kopff,24 de junio de 1908,Observatorio de Heidelberg-Königstuhl
+664,665,Sabine,K. W. Lorenz,22 de julio de 1908,Observatorio de Heidelberg-Königstuhl
+665,666,Desdemona,A. Kopff,23 de julio de 1908,Observatorio de Heidelberg-Königstuhl
+666,667,Denise,A. Kopff,23 de julio de 1908,Observatorio de Heidelberg-Königstuhl
+667,668,Dora,A. Kopff,27 de julio de 1908,Observatorio de Heidelberg-Königstuhl
+668,669,Kypria,A. Kopff,20 de agosto de 1908,Observatorio de Heidelberg-Königstuhl
+669,670,Ottegebe,A. Kopff,20 de agosto de 1908,Observatorio de Heidelberg-Königstuhl
+670,671,Carnegia,J. Palisa,21 de septiembre de 1908,Observatorio de Viena
+671,672,Astarte,A. Kopff,21 de septiembre de 1908,Observatorio de Heidelberg-Königstuhl
+672,673,Edda,J. H. Metcalf,20 de septiembre de 1908,Observatorio de Taunton
+673,674,Rachele,K. W. Lorenz,28 de octubre de 1908,Observatorio de Heidelberg-Königstuhl
+674,675,Ludmilla,J. H. Metcalf,30 de agosto de 1908,Observatorio de Taunton
+675,676,Melitta,P. J. Melotte,16 de enero de 1909,Real Observatorio de Greenwich
+676,677,Aaltje,A. Kopff,18 de enero de 1909,Observatorio de Heidelberg-Königstuhl
+677,678,Fredegundis,K. W. Lorenz,22 de enero de 1909,Observatorio de Heidelberg-Königstuhl
+678,679,Pax,A. Kopff,28 de enero de 1909,Observatorio de Heidelberg-Königstuhl
+679,680,Genoveva,A. Kopff,22 de abril de 1909,Observatorio de Heidelberg-Königstuhl
+680,681,Gorgo,A. Kopff,13 de mayo de 1909,Observatorio de Heidelberg-Königstuhl
+681,682,Hagar,A. Kopff,17 de junio de 1909,Observatorio de Heidelberg-Königstuhl
+682,683,Lanzia,M. F. Wolf,23 de julio de 1909,Observatorio de Heidelberg-Königstuhl
+683,684,Hildburg,A. Kopff,8 de agosto de 1909,Observatorio de Heidelberg-Königstuhl
+684,685,Hermia,K. W. Lorenz,12 de agosto de 1909,Observatorio de Heidelberg-Königstuhl
+685,686,Gersuind,A. Kopff,15 de agosto de 1909,Observatorio de Heidelberg-Königstuhl
+686,687,Tinette,J. Palisa,16 de agosto de 1909,Observatorio de Viena
+687,688,Melanie,J. Palisa,25 de agosto de 1909,Observatorio de Viena
+688,689,Zita,J. Palisa,12 de septiembre de 1909,Observatorio de Viena
+689,690,Wratislavia,J. H. Metcalf,16 de octubre de 1909,Observatorio de Taunton
+690,691,Lehigh,J. H. Metcalf,11 de diciembre de 1909,Observatorio de Taunton
+691,692,Hippodamia,M. F. Wolf; A. Kopff,5 de noviembre de 1901,Observatorio de Heidelberg-Königstuhl
+692,693,Zerbinetta,A. Kopff,21 de septiembre de 1909,Observatorio de Heidelberg-Königstuhl
+693,694,Ekard,J. H. Metcalf,7 de noviembre de 1909,Observatorio de Taunton
+694,695,Bella,J. H. Metcalf,7 de noviembre de 1909,Observatorio de Taunton
+695,696,Leonora,J. H. Metcalf,10 de enero de 1910,Observatorio de Taunton
+696,697,Galilea,J. Helffrich,14 de febrero de 1910,Observatorio de Heidelberg-Königstuhl
+697,698,Ernestina,J. Helffrich,5 de marzo de 1910,Observatorio de Heidelberg-Königstuhl
+698,699,Hela,J. Helffrich,5 de junio de 1910,Observatorio de Heidelberg-Königstuhl
+699,700,Auravictrix,J. Helffrich,5 de junio de 1910,Observatorio de Heidelberg-Königstuhl
+700,701,Oriola,J. Helffrich,12 de julio de 1910,Observatorio de Heidelberg-Königstuhl
+701,702,Alauda,J. Helffrich,16 de julio de 1910,Observatorio de Heidelberg-Königstuhl
+702,703,Noëmi,J. Palisa,3 de octubre de 1910,Observatorio de Viena
+703,704,Interamnia,V. Cerulli,2 de octubre de 1910,Observatorio Astronómico de Collurania
+704,705,Erminia,E. Ernst,6 de octubre de 1910,Observatorio de Heidelberg-Königstuhl
+705,706,Hirundo,J. Helffrich,9 de octubre de 1910,Observatorio de Heidelberg-Königstuhl
+706,707,Steina,M. F. Wolf,22 de diciembre de 1910,Observatorio de Heidelberg-Königstuhl
+707,708,Raphaela,J. Helffrich,3 de febrero de 1911,Observatorio de Heidelberg-Königstuhl
+708,709,Fringilla,J. Helffrich,3 de febrero de 1911,Observatorio de Heidelberg-Königstuhl
+709,710,Gertrud,J. Palisa,28 de febrero de 1911,Observatorio de Viena
+710,711,Marmulla,J. Palisa,1 de marzo de 1911,Observatorio de Viena
+711,712,Boliviana,M. F. Wolf,19 de marzo de 1911,Observatorio de Heidelberg-Königstuhl
+712,713,Luscinia,J. Helffrich,18 de abril de 1911,Observatorio de Heidelberg-Königstuhl
+713,714,Ulula,J. Helffrich,18 de mayo de 1911,Observatorio de Heidelberg-Königstuhl
+714,715,Transvaalia,H. E. Wood,22 de abril de 1911,"Observatorio Union, Johannesburgo"
+715,716,Berkeley,J. Palisa,30 de julio de 1911,Observatorio de Viena
+716,717,Wisibada,F. H. Kaiser,26 de agosto de 1911,Observatorio de Heidelberg-Königstuhl
+717,718,Erida,J. Palisa,29 de septiembre de 1911,Observatorio de Viena
+718,719,Albert,J. Palisa,3 de octubre de 1911,Observatorio de Viena
+719,720,Bohlinia,F. H. Kaiser,18 de octubre de 1911,Observatorio de Heidelberg-Königstuhl
+720,721,Tabora,F. H. Kaiser,18 de octubre de 1911,Observatorio de Heidelberg-Königstuhl
+721,722,Frieda,J. Palisa,18 de octubre de 1911,Observatorio de Viena
+722,723,Hammonia,J. Palisa,21 de octubre de 1911,Observatorio de Viena
+723,724,Hapag,J. Palisa,21 de octubre de 1911,Observatorio de Viena
+724,725,Amanda,J. Palisa,21 de octubre de 1911,Observatorio de Viena
+725,726,Joëlla,J. H. Metcalf,22 de noviembre de 1911,Winchester
+726,727,Nipponia,A. Massinger,11 de febrero de 1912,Observatorio de Heidelberg-Königstuhl
+727,728,Leonisis,J. Palisa,16 de febrero de 1912,Observatorio de Viena
+728,729,Watsonia,J. H. Metcalf,9 de febrero de 1912,Winchester
+729,730,Athanasia,J. Palisa,10 de abril de 1912,Observatorio de Viena
+730,731,Sorga,A. Massinger,15 de abril de 1912,Observatorio de Heidelberg-Königstuhl
+731,732,Tjilaki,A. Massinger,15 de abril de 1912,Observatorio de Heidelberg-Königstuhl
+732,733,Mocia,M. F. Wolf,16 de septiembre de 1912,Observatorio de Heidelberg-Königstuhl
+733,734,Benda,J. Palisa,11 de octubre de 1912,Observatorio de Viena
+734,735,Marghanna,H. Vogt,9 de diciembre de 1912,Observatorio de Heidelberg-Königstuhl
+735,736,Harvard,J. H. Metcalf,16 de noviembre de 1912,Winchester
+736,737,Arequipa,J. H. Metcalf,7 de diciembre de 1912,Winchester
+737,738,Alagasta,F. H. Kaiser,7 de enero de 1913,Observatorio de Heidelberg-Königstuhl
+738,739,Mandeville,J. H. Metcalf,7 de febrero de 1913,Winchester
+739,740,Cantabia,J. H. Metcalf,10 de febrero de 1913,Winchester
+740,741,Botolphia,J. H. Metcalf,10 de febrero de 1913,Winchester
+741,742,Edisona,F. H. Kaiser,23 de febrero de 1913,Observatorio de Heidelberg-Königstuhl
+742,743,Eugenisis,F. H. Kaiser,25 de febrero de 1913,Observatorio de Heidelberg-Königstuhl
+743,744,Aguntina,J. Rheden,26 de febrero de 1913,Observatorio de Viena
+744,745,Mauritia,F. H. Kaiser,1 de marzo de 1913,Observatorio de Heidelberg-Königstuhl
+745,746,Marlu,F. H. Kaiser,1 de marzo de 1913,Observatorio de Heidelberg-Königstuhl
+746,747,Winchester,J. H. Metcalf,7 de marzo de 1913,Winchester
+747,748,Simeïsa,G. N. Neúimin,14 de marzo de 1913,Observatorio de Simeiz
+748,749,Malzovia,S. I. Beliavski,5 de abril de 1913,Observatorio de Simeiz
+749,750,Oskar,J. Palisa,28 de abril de 1913,Observatorio de Viena
+750,751,Faïna,G. N. Neúimin,28 de abril de 1913,Observatorio de Simeiz
+751,752,Sulamitis,G. N. Neúimin,30 de abril de 1913,Observatorio de Simeiz
+752,753,Tiflis,G. N. Neúimin,30 de abril de 1913,Observatorio de Simeiz
+753,754,Malabar,A. Kopff,22 de agosto de 1906,Observatorio de Heidelberg-Königstuhl
+754,755,Quintilla,J. H. Metcalf,6 de abril de 1908,Observatorio de Taunton
+755,756,Lilliana,J. H. Metcalf,26 de abril de 1908,Observatorio de Taunton
+756,757,Portlandia,J. H. Metcalf,30 de septiembre de 1908,Observatorio de Taunton
+757,758,Mancunia,H. E. Wood,18 de mayo de 1912,"Observatorio Union, Johannesburgo"
+758,759,Vinifera,F. H. Kaiser,26 de agosto de 1913,Observatorio de Heidelberg-Königstuhl
+759,760,Massinga,F. H. Kaiser,28 de agosto de 1913,Observatorio de Heidelberg-Königstuhl
+760,761,Brendelia,F. H. Kaiser,8 de septiembre de 1913,Observatorio de Heidelberg-Königstuhl
+761,762,Pulcova,G. N. Neúimin,3 de septiembre de 1913,Observatorio de Simeiz
+762,763,Cupido,F. H. Kaiser,25 de septiembre de 1913,Observatorio de Heidelberg-Königstuhl
+763,764,Gedania,F. H. Kaiser,26 de septiembre de 1913,Observatorio de Heidelberg-Königstuhl
+764,765,Mattiaca,F. H. Kaiser,26 de septiembre de 1913,Observatorio de Heidelberg-Königstuhl
+765,766,Moguntia,F. H. Kaiser,29 de septiembre de 1913,Observatorio de Heidelberg-Königstuhl
+766,767,Bondia,J. H. Metcalf,23 de septiembre de 1913,Winchester
+767,768,Struveana,G. N. Neúimin,4 de octubre de 1913,Observatorio de Simeiz
+768,769,Tatjana,G. N. Neúimin,6 de octubre de 1913,Observatorio de Simeiz
+769,770,Bali,A. Massinger,31 de octubre de 1913,Observatorio de Heidelberg-Königstuhl
+770,771,Libera,J. Rheden,21 de noviembre de 1913,Observatorio de Viena
+771,772,Tanete,A. Massinger,19 de diciembre de 1913,Observatorio de Heidelberg-Königstuhl
+772,773,Irmintraud,F. H. Kaiser,22 de diciembre de 1913,Observatorio de Heidelberg-Königstuhl
+773,774,Armor,C. le Morvan,19 de diciembre de 1913,Observatorio de París
+774,775,Lumière,J. P. Lagrula,6 de enero de 1914,Observatorio de Niza
+775,776,Berbericia,A. Massinger,24 de enero de 1914,Observatorio de Heidelberg-Königstuhl
+776,777,Gutemberga,F. H. Kaiser,24 de enero de 1914,Observatorio de Heidelberg-Königstuhl
+777,778,Theobalda,F. H. Kaiser,25 de enero de 1914,Observatorio de Heidelberg-Königstuhl
+778,779,Nina,G. N. Neúimin,25 de enero de 1914,Observatorio de Simeiz
+779,780,Armenia,G. N. Neúimin,25 de enero de 1914,Observatorio de Simeiz
+780,781,Kartvelia,G. N. Neúimin,25 de enero de 1914,Observatorio de Simeiz
+781,782,Montefiore,J. Palisa,18 de marzo de 1914,Observatorio de Viena
+782,783,Nora,J. Palisa,18 de marzo de 1914,Observatorio de Viena
+783,784,Pickeringia,J. H. Metcalf,20 de marzo de 1914,Winchester
+784,785,Zwetana,A. Massinger,30 de marzo de 1914,Observatorio de Heidelberg-Königstuhl
+785,786,Bredichina,F. H. Kaiser,20 de abril de 1914,Observatorio de Heidelberg-Königstuhl
+786,787,Moskva,G. N. Neúimin,20 de abril de 1914,Observatorio de Simeiz
+787,788,Hohensteina,F. H. Kaiser,28 de abril de 1914,Observatorio de Heidelberg-Königstuhl
+788,789,Lena,G. N. Neúimin,24 de junio de 1914,Observatorio de Simeiz
+789,790,Pretoria,H. E. Wood,16 de enero de 1912,"Observatorio Union, Johannesburgo"
+790,791,Ani,G. N. Neúimin,29 de junio de 1914,Observatorio de Simeiz
+791,792,Metcalfia,J. H. Metcalf,20 de marzo de 1907,Observatorio de Taunton
+792,793,Arizona,P. L. Lowell,9 de abril de 1907,"Observatorio Lowell, Flagstaff"
+793,794,Irenaea,J. Palisa,27 de agosto de 1914,Observatorio de Viena
+794,795,Fini,J. Palisa,26 de septiembre de 1914,Observatorio de Viena
+795,796,Sarita,K. W. Reinmuth,15 de octubre de 1914,Observatorio de Heidelberg-Königstuhl
+796,797,Montana,H. Thiele,17 de noviembre de 1914,Observatorio de Hamburgo-Bergedorf
+797,798,Ruth,M. F. Wolf,21 de noviembre de 1914,Observatorio de Heidelberg-Königstuhl
+798,799,Gudula,K. W. Reinmuth,9 de marzo de 1915,Observatorio de Heidelberg-Königstuhl
+799,800,Kressmannia,M. F. Wolf,20 de marzo de 1915,Observatorio de Heidelberg-Königstuhl
+800,801,Helwerthia,M. F. Wolf,20 de marzo de 1915,Observatorio de Heidelberg-Königstuhl
+801,802,Epyaxa,M. F. Wolf,20 de marzo de 1915,Observatorio de Heidelberg-Königstuhl
+802,803,Picka,J. Palisa,21 de marzo de 1915,Observatorio de Viena
+803,804,Hispania,J. Comas y Solá,20 de marzo de 1915,"Observatorio Fabra, Barcelona"
+804,805,Hormuthia,M. F. Wolf,17 de abril de 1915,Observatorio de Heidelberg-Königstuhl
+805,806,Gyldénia,M. F. Wolf,18 de abril de 1915,Observatorio de Heidelberg-Königstuhl
+806,807,Ceraskia,M. F. Wolf,18 de abril de 1915,Observatorio de Heidelberg-Königstuhl
+807,808,Merxia,L. Carnera,11 de octubre de 1901,Observatorio de Heidelberg-Königstuhl
+808,809,Lundia,M. F. Wolf,11 de agosto de 1915,Observatorio de Heidelberg-Königstuhl
+809,810,Atossa,M. F. Wolf,8 de septiembre de 1915,Observatorio de Heidelberg-Königstuhl
+810,811,Nauheima,M. F. Wolf,8 de septiembre de 1915,Observatorio de Heidelberg-Königstuhl
+811,812,Adele,S. I. Beliavski,8 de septiembre de 1915,Observatorio de Simeiz
+812,813,Baumeia,M. F. Wolf,28 de noviembre de 1915,Observatorio de Heidelberg-Königstuhl
+813,814,Tauris,G. N. Neúimin,2 de enero de 1916,Observatorio de Simeiz
+814,815,Coppelia,M. F. Wolf,2 de febrero de 1916,Observatorio de Heidelberg-Königstuhl
+815,816,Juliana,M. F. Wolf,8 de febrero de 1916,Observatorio de Heidelberg-Königstuhl
+816,817,Annika,M. F. Wolf,6 de febrero de 1916,Observatorio de Heidelberg-Königstuhl
+817,818,Kapteynia,M. F. Wolf,21 de febrero de 1916,Observatorio de Heidelberg-Königstuhl
+818,819,Barnardiana,M. F. Wolf,3 de marzo de 1916,Observatorio de Heidelberg-Königstuhl
+819,820,Adriana,M. F. Wolf,30 de marzo de 1916,Observatorio de Heidelberg-Königstuhl
+820,821,Fanny,M. F. Wolf,31 de marzo de 1916,Observatorio de Heidelberg-Königstuhl
+821,822,Lalage,M. F. Wolf,31 de marzo de 1916,Observatorio de Heidelberg-Königstuhl
+822,823,Sisigambis,M. F. Wolf,31 de marzo de 1916,Observatorio de Heidelberg-Königstuhl
+823,824,Anastasia,G. N. Neúimin,25 de marzo de 1916,Observatorio de Simeiz
+824,825,Tanina,G. N. Neúimin,27 de marzo de 1916,Observatorio de Simeiz
+825,826,Henrika,M. F. Wolf,28 de abril de 1916,Observatorio de Heidelberg-Königstuhl
+826,827,Wolfiana,J. Palisa,29 de agosto de 1916,Observatorio de Viena
+827,828,Lindemannia,J. Palisa,29 de agosto de 1916,Observatorio de Viena
+828,829,Academia,G. N. Neúimin,25 de agosto de 1916,Observatorio de Simeiz
+829,830,Petropolitana,G. N. Neúimin,25 de agosto de 1916,Observatorio de Simeiz
+830,831,Stateira,M. F. Wolf,20 de septiembre de 1916,Observatorio de Heidelberg-Königstuhl
+831,832,Karin,M. F. Wolf,20 de septiembre de 1916,Observatorio de Heidelberg-Königstuhl
+832,833,Monica,M. F. Wolf,20 de septiembre de 1916,Observatorio de Heidelberg-Königstuhl
+833,834,Burnhamia,M. F. Wolf,20 de septiembre de 1916,Observatorio de Heidelberg-Königstuhl
+834,835,Olivia,M. F. Wolf,23 de septiembre de 1916,Observatorio de Heidelberg-Königstuhl
+835,836,Jole,M. F. Wolf,23 de septiembre de 1916,Observatorio de Heidelberg-Königstuhl
+836,837,Schwarzschilda,M. F. Wolf,23 de septiembre de 1916,Observatorio de Heidelberg-Königstuhl
+837,838,Seraphina,M. F. Wolf,24 de septiembre de 1916,Observatorio de Heidelberg-Königstuhl
+838,839,Valborg,M. F. Wolf,24 de septiembre de 1916,Observatorio de Heidelberg-Königstuhl
+839,840,Zenobia,M. F. Wolf,25 de septiembre de 1916,Observatorio de Heidelberg-Königstuhl
+840,841,Arabella,M. F. Wolf,1 de octubre de 1916,Observatorio de Heidelberg-Königstuhl
+841,842,Kerstin,M. F. Wolf,1 de octubre de 1916,Observatorio de Heidelberg-Königstuhl
+842,843,Nicolaia,H. Thiele,30 de septiembre de 1916,Observatorio de Hamburgo-Bergedorf
+843,844,Leontina,J. Rheden,1 de octubre de 1916,Observatorio de Viena
+844,845,Naëma,M. F. Wolf,16 de noviembre de 1916,Observatorio de Heidelberg-Königstuhl
+845,846,Lipperta,K. A. W. Gyllenberg,26 de noviembre de 1916,Observatorio de Hamburgo-Bergedorf
+846,847,Agnia,G. N. Neúimin,2 de septiembre de 1915,Observatorio de Simeiz
+847,848,Inna,G. N. Neúimin,5 de septiembre de 1915,Observatorio de Simeiz
+848,849,Ara,S. I. Beliavski,9 de febrero de 1912,Observatorio de Simeiz
+849,850,Altona,S. I. Beliavski,27 de marzo de 1916,Observatorio de Simeiz
+850,851,Zeissia,S. I. Beliavski,2 de abril de 1916,Observatorio de Simeiz
+851,852,Wladilena,S. I. Beliavski,2 de abril de 1916,Observatorio de Simeiz
+852,853,Nansenia,S. I. Beliavski,2 de abril de 1916,Observatorio de Simeiz
+853,854,Frostia,S. I. Beliavski,3 de abril de 1916,Observatorio de Simeiz
+854,855,Newcombia,S. I. Beliavski,3 de abril de 1916,Observatorio de Simeiz
+855,856,Backlunda,S. I. Beliavski,3 de abril de 1916,Observatorio de Simeiz
+856,857,Glasenappia,S. I. Beliavski,6 de abril de 1916,Observatorio de Simeiz
+857,858,El Djezaïr,F. Sy,26 de mayo de 1916,Observatorio de Argel-Bouzaréah
+858,859,Bouzaréah,F. Sy,2 de octubre de 1916,Observatorio de Argel-Bouzaréah
+859,860,Ursina,M. F. Wolf,22 de enero de 1917,Observatorio de Heidelberg-Königstuhl
+860,861,Aïda,M. F. Wolf,22 de enero de 1917,Observatorio de Heidelberg-Königstuhl
+861,862,Franzia,M. F. Wolf,28 de enero de 1917,Observatorio de Heidelberg-Königstuhl
+862,863,Benkoela,M. F. Wolf,9 de febrero de 1917,Observatorio de Heidelberg-Königstuhl
+863,864,Aase,K. W. Reinmuth,30 de septiembre de 1921,Observatorio de Heidelberg-Königstuhl
+864,865,Zubaida,M. F. Wolf,15 de febrero de 1917,Observatorio de Heidelberg-Königstuhl
+865,866,Fatme,M. F. Wolf,25 de febrero de 1917,Observatorio de Heidelberg-Königstuhl
+866,867,Kovacia,J. Palisa,25 de febrero de 1917,Observatorio de Viena
+867,868,Lova,M. F. Wolf,26 de abril de 1917,Observatorio de Heidelberg-Königstuhl
+868,869,Mellena,R. Schorr,9 de mayo de 1917,Observatorio de Hamburgo-Bergedorf
+869,870,Manto,M. F. Wolf,12 de mayo de 1917,Observatorio de Heidelberg-Königstuhl
+870,871,Amneris,M. F. Wolf,14 de mayo de 1917,Observatorio de Heidelberg-Königstuhl
+871,872,Holda,M. F. Wolf,21 de mayo de 1917,Observatorio de Heidelberg-Königstuhl
+872,873,Mechthild,M. F. Wolf,21 de mayo de 1917,Observatorio de Heidelberg-Königstuhl
+873,874,Rotraut,M. F. Wolf,25 de mayo de 1917,Observatorio de Heidelberg-Königstuhl
+874,875,Nymphe,M. F. Wolf,19 de mayo de 1917,Observatorio de Heidelberg-Königstuhl
+875,876,Scott,J. Palisa,20 de junio de 1917,Observatorio de Viena
+876,877,Walküre,G. N. Neúimin,13 de septiembre de 1915,Observatorio de Simeiz
+877,878,Mildred,S. B. Nicholson,6 de septiembre de 1916,Observatorio del Monte Wilson
+878,879,Ricarda,M. F. Wolf,22 de julio de 1917,Observatorio de Heidelberg-Königstuhl
+879,880,Herba,M. F. Wolf,22 de julio de 1917,Observatorio de Heidelberg-Königstuhl
+880,881,Athene,M. F. Wolf,22 de julio de 1917,Observatorio de Heidelberg-Königstuhl
+881,882,Swetlana,G. N. Neúimin,15 de agosto de 1917,Observatorio de Simeiz
+882,883,Matterania,M. F. Wolf,14 de septiembre de 1917,Observatorio de Heidelberg-Königstuhl
+883,884,Priamus,M. F. Wolf,22 de septiembre de 1917,Observatorio de Heidelberg-Königstuhl
+884,885,Ulrike,S. I. Beliavski,23 de septiembre de 1917,Observatorio de Simeiz
+885,886,Washingtonia,G. H. Peters,16 de noviembre de 1917,Obs. Naval de los Estados Unidos
+886,887,Alinda,M. F. Wolf,3 de enero de 1918,Observatorio de Heidelberg-Königstuhl
+887,888,Parysatis,M. F. Wolf,2 de febrero de 1918,Observatorio de Heidelberg-Königstuhl
+888,889,Erynia,M. F. Wolf,5 de marzo de 1918,Observatorio de Heidelberg-Königstuhl
+889,890,Waltraut,M. F. Wolf,11 de marzo de 1918,Observatorio de Heidelberg-Königstuhl
+890,891,Gunhild,M. F. Wolf,17 de mayo de 1918,Observatorio de Heidelberg-Königstuhl
+891,892,Seeligeria,M. F. Wolf,31 de mayo de 1918,Observatorio de Heidelberg-Königstuhl
+892,893,Leopoldina,M. F. Wolf,31 de mayo de 1918,Observatorio de Heidelberg-Königstuhl
+893,894,Erda,M. F. Wolf,4 de junio de 1918,Observatorio de Heidelberg-Königstuhl
+894,895,Helio,M. F. Wolf,11 de julio de 1918,Observatorio de Heidelberg-Königstuhl
+895,896,Sphinx,M. F. Wolf,1 de agosto de 1918,Observatorio de Heidelberg-Königstuhl
+896,897,Lysistrata,M. F. Wolf,3 de agosto de 1918,Observatorio de Heidelberg-Königstuhl
+897,898,Hildegard,M. F. Wolf,3 de agosto de 1918,Observatorio de Heidelberg-Königstuhl
+898,899,Jokaste,M. F. Wolf,3 de agosto de 1918,Observatorio de Heidelberg-Königstuhl
+899,900,Rosalinde,M. F. Wolf,10 de agosto de 1918,Observatorio de Heidelberg-Königstuhl
+900,901,Brunsia,M. F. Wolf,30 de agosto de 1918,Observatorio de Heidelberg-Königstuhl
+901,902,Probitas,J. Palisa,3 de septiembre de 1918,Observatorio de Viena
+902,903,Nealley,J. Palisa,13 de septiembre de 1918,Observatorio de Viena
+903,904,Rockefellia,M. F. Wolf,29 de octubre de 1918,Observatorio de Heidelberg-Königstuhl
+904,905,Universitas,F. K. A. Schwassmann,30 de octubre de 1918,Observatorio de Hamburgo-Bergedorf
+905,906,Repsolda,F. K. A. Schwassmann,30 de octubre de 1918,Observatorio de Hamburgo-Bergedorf
+906,907,Rhoda,M. F. Wolf,12 de noviembre de 1918,Observatorio de Heidelberg-Königstuhl
+907,908,Buda,M. F. Wolf,30 de noviembre de 1918,Observatorio de Heidelberg-Königstuhl
+908,909,Ulla,K. W. Reinmuth,7 de febrero de 1919,Observatorio de Heidelberg-Königstuhl
+909,910,Anneliese,K. W. Reinmuth,1 de marzo de 1919,Observatorio de Heidelberg-Königstuhl
+910,911,Agamemnon,K. W. Reinmuth,19 de marzo de 1919,Observatorio de Heidelberg-Königstuhl
+911,912,Maritima,F. K. A. Schwassmann,27 de abril de 1919,Observatorio de Hamburgo-Bergedorf
+912,913,Otila,K. W. Reinmuth,19 de mayo de 1919,Observatorio de Heidelberg-Königstuhl
+913,914,Palisana,M. F. Wolf,4 de julio de 1919,Observatorio de Heidelberg-Königstuhl
+914,915,Cosette,F. Gonnessiat,14 de diciembre de 1918,Observatorio de Argel-Bouzaréah
+915,916,America,G. N. Neúimin,7 de agosto de 1915,Observatorio de Simeiz
+916,917,Lyka,G. N. Neúimin,5 de septiembre de 1915,Observatorio de Simeiz
+917,918,Itha,K. W. Reinmuth,22 de agosto de 1919,Observatorio de Heidelberg-Königstuhl
+918,919,Ilsebill,M. F. Wolf,30 de octubre de 1918,Observatorio de Heidelberg-Königstuhl
+919,920,Rogeria,K. W. Reinmuth,1 de septiembre de 1919,Observatorio de Heidelberg-Königstuhl
+920,921,Jovita,K. W. Reinmuth,4 de septiembre de 1919,Observatorio de Heidelberg-Königstuhl
+921,922,Schlutia,K. W. Reinmuth,18 de septiembre de 1919,Observatorio de Heidelberg-Königstuhl
+922,923,Herluga,K. W. Reinmuth,30 de septiembre de 1919,Observatorio de Heidelberg-Königstuhl
+923,924,Toni,K. W. Reinmuth,20 de octubre de 1919,Observatorio de Heidelberg-Königstuhl
+924,925,Alphonsina,J. Comas y Solá,13 de enero de 1920,"Observatorio Fabra, Barcelona"
+925,926,Imhilde,K. W. Reinmuth,15 de febrero de 1920,Observatorio de Heidelberg-Königstuhl
+926,927,Ratisbona,M. F. Wolf,16 de febrero de 1920,Observatorio de Heidelberg-Königstuhl
+927,928,Hildrun,K. W. Reinmuth,23 de febrero de 1920,Observatorio de Heidelberg-Königstuhl
+928,929,Algunde,K. W. Reinmuth,10 de marzo de 1920,Observatorio de Heidelberg-Königstuhl
+929,930,Westphalia,W. H. W. Baade,10 de marzo de 1920,Observatorio de Hamburgo-Bergedorf
+930,931,Whittemora,F. Gonnessiat,19 de marzo de 1920,Observatorio de Argel-Bouzaréah
+931,932,Hooveria,J. Palisa,23 de marzo de 1920,Observatorio de Viena
+932,933,Susi,K. W. Reinmuth,10 de febrero de 1927,Observatorio de Heidelberg-Königstuhl
+933,934,Thüringia,W. H. W. Baade,15 de agosto de 1920,Observatorio de Hamburgo-Bergedorf
+934,935,Clivia,K. W. Reinmuth,7 de septiembre de 1920,Observatorio de Heidelberg-Königstuhl
+935,936,Kunigunde,K. W. Reinmuth,8 de septiembre de 1920,Observatorio de Heidelberg-Königstuhl
+936,937,Bethgea,K. W. Reinmuth,12 de septiembre de 1920,Observatorio de Heidelberg-Königstuhl
+937,938,Chlosinde,K. W. Reinmuth,9 de septiembre de 1920,Observatorio de Heidelberg-Königstuhl
+938,939,Isberga,K. W. Reinmuth,4 de octubre de 1920,Observatorio de Heidelberg-Königstuhl
+939,940,Kordula,K. W. Reinmuth,10 de octubre de 1920,Observatorio de Heidelberg-Königstuhl
+940,941,Murray,J. Palisa,10 de octubre de 1920,Observatorio de Viena
+941,942,Romilda,K. W. Reinmuth,11 de octubre de 1920,Observatorio de Heidelberg-Königstuhl
+942,943,Begonia,K. W. Reinmuth,20 de octubre de 1920,Observatorio de Heidelberg-Königstuhl
+943,944,Hidalgo,W. H. W. Baade,31 de octubre de 1920,Observatorio de Hamburgo-Bergedorf
+944,945,Barcelona,J. Comas y Solá,3 de febrero de 1921,"Observatorio Fabra, Barcelona"
+945,946,Poësia,M. F. Wolf,11 de febrero de 1921,Observatorio de Heidelberg-Königstuhl
+946,947,Monterosa,F. K. A. Schwassmann,8 de febrero de 1921,Observatorio de Hamburgo-Bergedorf
+947,948,Jucunda,K. W. Reinmuth,3 de marzo de 1921,Observatorio de Heidelberg-Königstuhl
+948,949,Hel,M. F. Wolf,11 de marzo de 1921,Observatorio de Heidelberg-Königstuhl
+949,950,Ahrensa,K. W. Reinmuth,1 de abril de 1921,Observatorio de Heidelberg-Königstuhl
+950,951,Gaspra,G. N. Neúimin,30 de julio de 1916,Observatorio de Simeiz
+951,952,Caia,G. N. Neúimin,27 de octubre de 1916,Observatorio de Simeiz
+952,953,Painleva,B. P. Jekhowsky,29 de abril de 1921,Observatorio de Argel-Bouzaréah
+953,954,Li,K. W. Reinmuth,4 de agosto de 1921,Observatorio de Heidelberg-Königstuhl
+954,955,Alstede,K. W. Reinmuth,5 de agosto de 1921,Observatorio de Heidelberg-Königstuhl
+955,956,Elisa,K. W. Reinmuth,8 de agosto de 1921,Observatorio de Heidelberg-Königstuhl
+956,957,Camelia,K. W. Reinmuth,7 de septiembre de 1921,Observatorio de Heidelberg-Königstuhl
+957,958,Asplinda,K. W. Reinmuth,28 de septiembre de 1921,Observatorio de Heidelberg-Königstuhl
+958,959,Arne,K. W. Reinmuth,30 de septiembre de 1921,Observatorio de Heidelberg-Königstuhl
+959,960,Birgit,K. W. Reinmuth,1 de octubre de 1921,Observatorio de Heidelberg-Königstuhl
+960,961,Gunnie,K. W. Reinmuth,10 de octubre de 1921,Observatorio de Heidelberg-Königstuhl
+961,962,Aslög,K. W. Reinmuth,25 de octubre de 1921,Observatorio de Heidelberg-Königstuhl
+962,963,Iduberga,K. W. Reinmuth,26 de octubre de 1921,Observatorio de Heidelberg-Königstuhl
+963,964,Subamara,J. Palisa,27 de octubre de 1921,Observatorio de Viena
+964,965,Angelica,J. F. Hartmann,4 de noviembre de 1921,Obs. Astronómico de La Plata
+965,966,Muschi,W. H. W. Baade,9 de noviembre de 1921,Observatorio de Hamburgo-Bergedorf
+966,967,Helionape,W. H. W. Baade,9 de noviembre de 1921,Observatorio de Hamburgo-Bergedorf
+967,968,Petunia,K. W. Reinmuth,24 de noviembre de 1921,Observatorio de Heidelberg-Königstuhl
+968,969,Leocadia,S. I. Beliavski,5 de noviembre de 1921,Observatorio de Simeiz
+969,970,Primula,K. W. Reinmuth,29 de noviembre de 1921,Observatorio de Heidelberg-Königstuhl
+970,971,Alsatia,A. Schaumasse,23 de noviembre de 1921,Observatorio de Niza
+971,972,Cohnia,M. F. Wolf,18 de enero de 1922,Observatorio de Heidelberg-Königstuhl
+972,973,Aralia,K. W. Reinmuth,18 de marzo de 1922,Observatorio de Heidelberg-Königstuhl
+973,974,Lioba,K. W. Reinmuth,18 de marzo de 1922,Observatorio de Heidelberg-Königstuhl
+974,975,Perseverantia,J. Palisa,27 de marzo de 1922,Observatorio de Viena
+975,976,Benjamina,B. P. Jekhowsky,27 de marzo de 1922,Observatorio de Argel-Bouzaréah
+976,977,Philippa,B. P. Jekhowsky,6 de abril de 1922,Observatorio de Argel-Bouzaréah
+977,978,Aidamina,S. I. Beliavski,18 de mayo de 1922,Observatorio de Simeiz
+978,979,Ilsewa,K. W. Reinmuth,29 de junio de 1922,Observatorio de Heidelberg-Königstuhl
+979,980,Anacostia,G. H. Peters,21 de noviembre de 1921,Obs. Naval de los Estados Unidos
+980,981,Martina,S. I. Beliavski,23 de septiembre de 1917,Observatorio de Simeiz
+981,982,Franklina,H. E. Wood,21 de mayo de 1922,"Observatorio Union, Johannesburgo"
+982,983,Gunila,K. W. Reinmuth,30 de julio de 1922,Observatorio de Heidelberg-Königstuhl
+983,984,Gretia,K. W. Reinmuth,27 de agosto de 1922,Observatorio de Heidelberg-Königstuhl
+984,985,Rosina,K. W. Reinmuth,14 de octubre de 1922,Observatorio de Heidelberg-Königstuhl
+985,986,Amelia,J. Comas y Solá,19 de octubre de 1922,"Observatorio Fabra, Barcelona"
+986,987,Wallia,K. W. Reinmuth,23 de octubre de 1922,Observatorio de Heidelberg-Königstuhl
+987,988,Appella,B. P. Jekhowsky,10 de noviembre de 1922,Observatorio de Argel-Bouzaréah
+988,989,Schwassmannia,F. K. A. Schwassmann,18 de noviembre de 1922,Observatorio de Hamburgo-Bergedorf
+989,990,Yerkes,G. A. van Biesbroeck,23 de noviembre de 1922,"Observatorio Yerkes, Williams Bay"
+990,991,McDonalda,O. Struve,24 de octubre de 1922,"Observatorio Yerkes, Williams Bay"
+991,992,Swasey,O. Struve,14 de noviembre de 1922,"Observatorio Yerkes, Williams Bay"
+992,993,Moultona,G. A. van Biesbroeck,12 de enero de 1923,"Observatorio Yerkes, Williams Bay"
+993,994,Otthild,K. W. Reinmuth,18 de marzo de 1923,Observatorio de Heidelberg-Königstuhl
+994,995,Sternberga,S. I. Beliavski,8 de junio de 1923,Observatorio de Simeiz
+995,996,Hilaritas,J. Palisa,21 de marzo de 1923,Observatorio de Viena
+996,997,Priska,K. W. Reinmuth,12 de julio de 1923,Observatorio de Heidelberg-Königstuhl
+997,998,Bodea,K. W. Reinmuth,6 de agosto de 1923,Observatorio de Heidelberg-Königstuhl
+998,999,Zachia,K. W. Reinmuth,9 de agosto de 1923,Observatorio de Heidelberg-Königstuhl
