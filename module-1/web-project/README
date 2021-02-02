@@ -1,0 +1,67 @@
+# AOE II
+
+*Data Analytics Full Time Jan 2021*
+
+## Contenido
+- [Descripción del proyecto] (#projecto)
+- [API] (#API)
+- [Website] (#website)
+- [Workflow] (#workflow)
+- [Resultados] (#resultados)
+- [Obstáculos] (#obstáculos)
+
+<a name="projecto"></a>
+
+## Descripción del proyecto
+Muestra los datos de las civilizaciones de Age of Empire II
+
+<a name="API"></a>
+
+## API
+El API es de la base de datos Herokuapp
+https://age-of-empires-2-api.herokuapp.com/docs/#/resources/civilizations
+
+<a name="website"></a>
+
+## Website
+El website fue parte del contenido en Wikipedia - AOE II
+
+< name="workflow"></a>
+
+## Workflow
+
+### Encontrar una API y una Website
+* Traté de encontrar muchas API's de los datos de la CDMX, pero como tal la página fue eliminada (error 404), lo que me llevó a buscar otras API's de distintas instituciones meterológicas pero trabajaban de manera irregular.
+* Encontré en un listado de API's abiertas al público y seleccioné un videojuego. No pedían una llave de acceso y la documentación fue demasiado sencilla. No tuve ningún problema con acceder a la base de datos.
+
+### Definir la extracción de datos
+
+* Necesitaba un punto de partida para partir mi base de datos y compilar lo que es fundamental, acortando varios datos útiles dentro de mi DataFrame.
+
+### API
+* Realizé varias rutas para acceder mi base de datos
+* Seleccioné una fuente de información grande
+* Adjunté los datos y los coloqué en un DataFrame
+
+### WEB
+* Probé con las páginas oficiales del juego pero no obtuve un código con el inspector de dichas páginas
+* Extraje información útil que fuera complementario a la API desde la página Wikipedia
+* Creé un DataFrame con el URL y extraje una tabla con la ayuda de web scraping
+* Coloqué toda la información en un DataFrame
+
+### MERGE
+* Convertí mi base de datos equitativamente para que no tuviera errores al unir ambas informaciones
+* Utilizé el pd.merge para ambos DataFrames 
+
+### Dataset
+* Exporté el DataFrame en un archivo csv fuera del folder donde se localiza el jupyter notebook
+
+<a name="resultados"></a>
+
+### Resultados
+* Un archivo CSV con la información detallada de las civilizaciones y sus maravillas del juego Age of Empire II
+
+<a name="obstáculos"></a>
+
+### Obstáculos
+* Las API's son una fuente de información muy meticulosas, que en algunas de ellas te restringen el trabajo y manipulación de datos.
