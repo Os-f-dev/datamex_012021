@@ -19,7 +19,7 @@ El objetivo de este proyecto es aplicar las técnicas de web scraping para obten
 Para la temática de este proyecto escogí páginas de venta y compra P2P de criptomonedas: 
 - Limite mi búsqueda a solo páginas de criptomonedas con mercado P2P en Venezuela y solo tome las ventas y compras de Bitcoin
 
-<img src="https://es.wikipedia.org/wiki/Bitcoin#/media/Archivo:Bitcoin_logo.svg" alt="bitcoin Logo" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitcoin_logo.svg" alt="bitcoin Logo" width="100"/>
 
 - Se obtuvieron 3 paginas para el análisis: Localbitcoin, Localcryptos y Binance
 - En cada página se realizó un scraping a su sección de ofertas de ventas y compras, y se utilizaron técnicas de web scraping distintas
