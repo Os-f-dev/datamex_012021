@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Vizualitation Project
+# Python BI Project
 *Alberto Suarez*
 
 *DAFT Mexico Enero 2021*
