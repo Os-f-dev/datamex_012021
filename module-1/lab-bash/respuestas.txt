@@ -1,0 +1,28 @@
+echo "Hello world"
+mkdir new_dir
+rmdir new_dir
+cd lorem $cp sed.txt/lorem-copy 
+cd lorem $cp at.txt/lorem-copy ;cp at.txt/lorem-copy
+cd lorem $cat sed.tx
+cd lorem cat at.txt; cat lorem.txt
+cd lorem $head -n3 lorem.txt
+cd lorem $tail -n3 lorem.txt
+cd .. $cd lorem-copy $echo "Homo homini lupus." >> sed.txt
+cd lorem $tail -n3 sed.txt
+cd lorem $sed -i 's/et/ET/g' at.txt $cp at.txt /lorem-copy 
+whoami
+pwd
+ls *.txt
+wc -l sed.txt
+grep -ri "lorem" *
+grep  "et"  at.txt
+grep "et" at.txt | wc -l
+cd lorem-copy  $cat * | grep -c "ET"
+name= "Cynthia"
+echo $name
+mkdir $name
+rmdir $name
+
+
+
+
